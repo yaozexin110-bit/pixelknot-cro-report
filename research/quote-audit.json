@@ -1,0 +1,507 @@
+{
+  "comparisons": 30,
+  "results": [
+    {
+      "dataset": "specs",
+      "module": "specifications",
+      "brand": "The Woobles",
+      "source_exists": true,
+      "quotes": 2,
+      "unmatched_quotes": [],
+      "screenshot": null,
+      "screenshot_exists": null
+    },
+    {
+      "dataset": "specs",
+      "module": "specifications",
+      "brand": "Unwind Studio",
+      "source_exists": true,
+      "quotes": 4,
+      "unmatched_quotes": [],
+      "screenshot": null,
+      "screenshot_exists": null
+    },
+    {
+      "dataset": "specs",
+      "module": "specifications",
+      "brand": "Pott’d",
+      "source_exists": true,
+      "quotes": 4,
+      "unmatched_quotes": [],
+      "screenshot": null,
+      "screenshot_exists": null
+    },
+    {
+      "dataset": "specs",
+      "module": "specifications",
+      "brand": "Sculpd",
+      "source_exists": true,
+      "quotes": 3,
+      "unmatched_quotes": [],
+      "screenshot": null,
+      "screenshot_exists": null
+    },
+    {
+      "dataset": "specs",
+      "module": "specifications",
+      "brand": "Craftoria",
+      "source_exists": true,
+      "quotes": 4,
+      "unmatched_quotes": [],
+      "screenshot": null,
+      "screenshot_exists": null
+    },
+    {
+      "dataset": "specs",
+      "module": "shipping_support",
+      "brand": "The Woobles",
+      "source_exists": true,
+      "quotes": 4,
+      "unmatched_quotes": [],
+      "screenshot": null,
+      "screenshot_exists": null
+    },
+    {
+      "dataset": "specs",
+      "module": "shipping_support",
+      "brand": "Unwind Studio",
+      "source_exists": true,
+      "quotes": 3,
+      "unmatched_quotes": [],
+      "screenshot": null,
+      "screenshot_exists": null
+    },
+    {
+      "dataset": "specs",
+      "module": "shipping_support",
+      "brand": "Pott’d",
+      "source_exists": true,
+      "quotes": 5,
+      "unmatched_quotes": [],
+      "screenshot": null,
+      "screenshot_exists": null
+    },
+    {
+      "dataset": "specs",
+      "module": "shipping_support",
+      "brand": "Sculpd",
+      "source_exists": true,
+      "quotes": 5,
+      "unmatched_quotes": [],
+      "screenshot": null,
+      "screenshot_exists": null
+    },
+    {
+      "dataset": "specs",
+      "module": "shipping_support",
+      "brand": "Craftoria",
+      "source_exists": true,
+      "quotes": 5,
+      "unmatched_quotes": [],
+      "screenshot": null,
+      "screenshot_exists": null
+    },
+    {
+      "dataset": "bundle",
+      "module": "bundle-price",
+      "brand": "Sculpd",
+      "source_exists": true,
+      "quotes": 4,
+      "unmatched_quotes": [],
+      "screenshot": "outputs\\pixelknot-web-dashboard-2026-10-29\\research\\sculpd-bundle-desktop.png",
+      "screenshot_exists": true
+    },
+    {
+      "dataset": "bundle",
+      "module": "bundle-price",
+      "brand": "Pott’d",
+      "source_exists": true,
+      "quotes": 5,
+      "unmatched_quotes": [
+        "Add any 3 kits to your cart and the cheapest item will be 100% discounted automatically"
+      ],
+      "screenshot": "outputs\\pixelknot-web-dashboard-2026-10-29\\research\\pottd-bundle-desktop.png",
+      "screenshot_exists": true,
+      "browser_dom": "research/pottd-bundle-browser-dom.txt",
+      "unmatched_in_all_evidence": []
+    },
+    {
+      "dataset": "bundle",
+      "module": "bundle-price",
+      "brand": "Trtl",
+      "source_exists": true,
+      "quotes": 4,
+      "unmatched_quotes": [],
+      "screenshot": "outputs\\pixelknot-web-dashboard-2026-10-29\\research\\trtl-bundle-desktop.png",
+      "screenshot_exists": true
+    },
+    {
+      "dataset": "bundle",
+      "module": "bundle-price",
+      "brand": "Blueland",
+      "source_exists": true,
+      "quotes": 4,
+      "unmatched_quotes": [],
+      "screenshot": "outputs\\pixelknot-web-dashboard-2026-10-29\\research\\blueland-suite-desktop.png",
+      "screenshot_exists": true
+    },
+    {
+      "dataset": "bundle",
+      "module": "bundle-price",
+      "brand": "Brooklinen",
+      "source_exists": true,
+      "quotes": 3,
+      "unmatched_quotes": [
+        "From:"
+      ],
+      "screenshot": "outputs\\pixelknot-web-dashboard-2026-10-29\\research\\brooklinen-bundle-desktop.png",
+      "screenshot_exists": true,
+      "browser_dom": "research/brooklinen-bundle-browser-dom.txt",
+      "unmatched_in_all_evidence": []
+    },
+    {
+      "dataset": "bundle",
+      "module": "bundle-selection",
+      "brand": "Sculpd",
+      "source_exists": true,
+      "quotes": 5,
+      "unmatched_quotes": [],
+      "screenshot": "outputs\\pixelknot-web-dashboard-2026-10-29\\research\\sculpd-bundle-desktop.png",
+      "screenshot_exists": true
+    },
+    {
+      "dataset": "bundle",
+      "module": "bundle-selection",
+      "brand": "Pott’d",
+      "source_exists": true,
+      "quotes": 5,
+      "unmatched_quotes": [],
+      "screenshot": "outputs\\pixelknot-web-dashboard-2026-10-29\\research\\pottd-bundle-desktop.png",
+      "screenshot_exists": true
+    },
+    {
+      "dataset": "bundle",
+      "module": "bundle-selection",
+      "brand": "Blueland",
+      "source_exists": true,
+      "quotes": 5,
+      "unmatched_quotes": [
+        "Start Building Your Bundle",
+        "Add Your Second - Save 5%",
+        "Add Your Third - Save 10%",
+        "Add Your Fourth - Save 15%"
+      ],
+      "screenshot": "outputs\\pixelknot-web-dashboard-2026-10-29\\research\\blueland-builder-selector.png",
+      "screenshot_exists": true,
+      "browser_dom": "research/blueland-builder-browser-dom.txt",
+      "unmatched_in_all_evidence": []
+    },
+    {
+      "dataset": "bundle",
+      "module": "bundle-selection",
+      "brand": "Trtl",
+      "source_exists": true,
+      "quotes": 4,
+      "unmatched_quotes": [],
+      "screenshot": "outputs\\pixelknot-web-dashboard-2026-10-29\\research\\trtl-bundle-desktop.png",
+      "screenshot_exists": true
+    },
+    {
+      "dataset": "bundle",
+      "module": "bundle-selection",
+      "brand": "Brooklinen",
+      "source_exists": true,
+      "quotes": 4,
+      "unmatched_quotes": [],
+      "screenshot": "outputs\\pixelknot-web-dashboard-2026-10-29\\research\\brooklinen-bundle-desktop.png",
+      "screenshot_exists": true
+    },
+    {
+      "dataset": "content",
+      "module": "DIY-confidence",
+      "brand": "The Woobles",
+      "source_exists": true,
+      "quotes": 4,
+      "unmatched_quotes": [],
+      "screenshot": "outputs\\pixelknot-web-dashboard-2026-10-29\\research\\content-woobles-desktop.png",
+      "screenshot_exists": true
+    },
+    {
+      "dataset": "content",
+      "module": "DIY-confidence",
+      "brand": "Pott’d",
+      "source_exists": true,
+      "quotes": 4,
+      "unmatched_quotes": [],
+      "screenshot": "outputs\\pixelknot-web-dashboard-2026-10-29\\research\\content-pottd-desktop.png",
+      "screenshot_exists": true
+    },
+    {
+      "dataset": "content",
+      "module": "DIY-confidence",
+      "brand": "Unwind Studio",
+      "source_exists": true,
+      "quotes": 4,
+      "unmatched_quotes": [],
+      "screenshot": "outputs\\pixelknot-web-dashboard-2026-10-29\\research\\content-unwind-desktop.png",
+      "screenshot_exists": true
+    },
+    {
+      "dataset": "content",
+      "module": "DIY-confidence",
+      "brand": "Craftoria",
+      "source_exists": true,
+      "quotes": 4,
+      "unmatched_quotes": [],
+      "screenshot": "outputs\\pixelknot-web-dashboard-2026-10-29\\research\\content-craftoria-desktop.png",
+      "screenshot_exists": true
+    },
+    {
+      "dataset": "content",
+      "module": "DIY-confidence",
+      "brand": "Sculpd",
+      "source_exists": true,
+      "quotes": 4,
+      "unmatched_quotes": [],
+      "screenshot": "outputs\\pixelknot-web-dashboard-2026-10-29\\research\\content-sculpd-process.png",
+      "screenshot_exists": true
+    },
+    {
+      "dataset": "content",
+      "module": "trust-and-real-results",
+      "brand": "The Woobles",
+      "source_exists": true,
+      "quotes": 4,
+      "unmatched_quotes": [],
+      "screenshot": "outputs\\pixelknot-web-dashboard-2026-10-29\\research\\content-woobles-reviews.png",
+      "screenshot_exists": true
+    },
+    {
+      "dataset": "content",
+      "module": "trust-and-real-results",
+      "brand": "Pott’d",
+      "source_exists": true,
+      "quotes": 4,
+      "unmatched_quotes": [],
+      "screenshot": "outputs\\pixelknot-web-dashboard-2026-10-29\\research\\content-pottd-desktop.png",
+      "screenshot_exists": true
+    },
+    {
+      "dataset": "content",
+      "module": "trust-and-real-results",
+      "brand": "Unwind Studio",
+      "source_exists": true,
+      "quotes": 4,
+      "unmatched_quotes": [],
+      "screenshot": "outputs\\pixelknot-web-dashboard-2026-10-29\\research\\content-unwind-desktop.png",
+      "screenshot_exists": true
+    },
+    {
+      "dataset": "content",
+      "module": "trust-and-real-results",
+      "brand": "Craftoria",
+      "source_exists": true,
+      "quotes": 4,
+      "unmatched_quotes": [],
+      "screenshot": "outputs\\pixelknot-web-dashboard-2026-10-29\\research\\content-craftoria-results.png",
+      "screenshot_exists": true
+    },
+    {
+      "dataset": "content",
+      "module": "trust-and-real-results",
+      "brand": "Sculpd",
+      "source_exists": true,
+      "quotes": 4,
+      "unmatched_quotes": [],
+      "screenshot": "outputs\\pixelknot-web-dashboard-2026-10-29\\research\\content-sculpd-reviews.png",
+      "screenshot_exists": true
+    }
+  ],
+  "images": {
+    "outputs\\pixelknot-web-dashboard-2026-10-29\\research\\sculpd-bundle-desktop.png": {
+      "size": [
+        1265,
+        712
+      ],
+      "white_fraction": 0.1386,
+      "stddev": [
+        75.22031502900948,
+        70.16850013938803,
+        60.03264489868805
+      ]
+    },
+    "outputs\\pixelknot-web-dashboard-2026-10-29\\research\\pottd-bundle-desktop.png": {
+      "size": [
+        1253,
+        705
+      ],
+      "white_fraction": 0.0257,
+      "stddev": [
+        64.51482191721512,
+        59.04450963423551,
+        67.6325582920404
+      ]
+    },
+    "outputs\\pixelknot-web-dashboard-2026-10-29\\research\\trtl-bundle-desktop.png": {
+      "size": [
+        1265,
+        712
+      ],
+      "white_fraction": 0.3496,
+      "stddev": [
+        92.35186405147516,
+        95.88568804327204,
+        96.2308888237592
+      ]
+    },
+    "outputs\\pixelknot-web-dashboard-2026-10-29\\research\\blueland-suite-desktop.png": {
+      "size": [
+        1265,
+        712
+      ],
+      "white_fraction": 0.4924,
+      "stddev": [
+        62.48757322559927,
+        54.04599253881203,
+        33.03410344588794
+      ]
+    },
+    "outputs\\pixelknot-web-dashboard-2026-10-29\\research\\brooklinen-bundle-desktop.png": {
+      "size": [
+        1265,
+        712
+      ],
+      "white_fraction": 0.4718,
+      "stddev": [
+        58.64810685554363,
+        54.72215572264168,
+        48.77772052393061
+      ]
+    },
+    "outputs\\pixelknot-web-dashboard-2026-10-29\\research\\blueland-builder-selector.png": {
+      "size": [
+        1265,
+        712
+      ],
+      "white_fraction": 0.5122,
+      "stddev": [
+        70.3294506792825,
+        60.6130393999702,
+        31.54035440868295
+      ]
+    },
+    "outputs\\pixelknot-web-dashboard-2026-10-29\\research\\content-woobles-desktop.png": {
+      "size": [
+        1253,
+        705
+      ],
+      "white_fraction": 0.0542,
+      "stddev": [
+        72.77698935953292,
+        42.1156913137582,
+        75.97525762717801
+      ]
+    },
+    "outputs\\pixelknot-web-dashboard-2026-10-29\\research\\content-pottd-desktop.png": {
+      "size": [
+        1253,
+        705
+      ],
+      "white_fraction": 0.9786,
+      "stddev": [
+        12.908845876195931,
+        12.908845876195931,
+        12.908845876195931
+      ]
+    },
+    "outputs\\pixelknot-web-dashboard-2026-10-29\\research\\content-unwind-desktop.png": {
+      "size": [
+        1265,
+        712
+      ],
+      "white_fraction": 0.5854,
+      "stddev": [
+        39.35102036224819,
+        43.24555477343208,
+        45.76502431635873
+      ]
+    },
+    "outputs\\pixelknot-web-dashboard-2026-10-29\\research\\content-craftoria-desktop.png": {
+      "size": [
+        1253,
+        705
+      ],
+      "white_fraction": 0.4746,
+      "stddev": [
+        40.21807154687308,
+        60.12736525208839,
+        68.94172887196437
+      ]
+    },
+    "outputs\\pixelknot-web-dashboard-2026-10-29\\research\\content-sculpd-process.png": {
+      "size": [
+        1265,
+        712
+      ],
+      "white_fraction": 0.0395,
+      "stddev": [
+        73.83610942064597,
+        75.20417849529572,
+        74.08179486357857
+      ]
+    },
+    "outputs\\pixelknot-web-dashboard-2026-10-29\\research\\content-woobles-reviews.png": {
+      "size": [
+        1253,
+        705
+      ],
+      "white_fraction": 0.133,
+      "stddev": [
+        73.56968162570972,
+        42.532095413992465,
+        73.12019413848883
+      ]
+    },
+    "outputs\\pixelknot-web-dashboard-2026-10-29\\research\\content-craftoria-results.png": {
+      "size": [
+        1253,
+        705
+      ],
+      "white_fraction": 0.4587,
+      "stddev": [
+        40.35659723493635,
+        61.809377697560116,
+        70.98489384754564
+      ]
+    },
+    "outputs\\pixelknot-web-dashboard-2026-10-29\\research\\content-sculpd-reviews.png": {
+      "size": [
+        1265,
+        712
+      ],
+      "white_fraction": 0.2981,
+      "stddev": [
+        63.08698124038234,
+        54.259459490998545,
+        42.46195680969314
+      ]
+    }
+  },
+  "findings": [
+    {
+      "severity": "medium",
+      "issue": "content-pottd-desktop.png is blank (97.86% white); do not display as visual evidence",
+      "recommendation": "Replace with screenshots/pottd-quantity.png and label captured region; quotes remain supported by text."
+    },
+    {
+      "severity": "low",
+      "issue": "6 bundle quotes are in browser DOM rather than source_file static text",
+      "recommendation": "Link corresponding browser_dom alongside original source_file for these quotes."
+    },
+    {
+      "severity": "medium",
+      "issue": "content-craftoria-results.png and content-woobles-reviews.png show purchase-area view rather than claimed results/reviews module",
+      "recommendation": "Use as overview only; do not label these screenshots as showing customer results or review controls."
+    }
+  ]
+}

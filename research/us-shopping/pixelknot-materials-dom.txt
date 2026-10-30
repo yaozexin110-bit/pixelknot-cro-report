@@ -1,0 +1,479 @@
+- text: Poor Great Poor Great Poor      Great Poor Great
+- link "Skip to content":
+  - /url: "#MainContent"
+- region "Announcement":
+  - generic: Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF
+- region "Announcement":
+  - generic: Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF
+- region "Announcement":
+  - generic: Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF
+- region "Announcement":
+  - generic: Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF
+- region "Announcement":
+  - generic: Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF
+- region "Announcement":
+  - generic: Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF
+- region "Announcement":
+  - generic: Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF
+- region "Announcement":
+  - generic: Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF
+- banner:
+  - button "Menu":
+  - link "PixelKnot":
+    - /url: /
+    - generic: PixelKnot
+  - button "Search":
+  - button "Hello, Login":
+  - button "0":
+    - generic: "0"
+- main:
+  - navigation "breadcrumbs":
+    - link "Home":
+      - /url: /
+    - text: Christmas Snowman
+  - region "Gallery Viewer":
+    - status
+    - link "Skip to product information":
+      - /url: "#ProductInfo-template--28078638792771__main"
+    - img "Christmas Snowman button art displayed as festive holiday decor in a cozy living room"
+    - button "Slide left" [disabled]:
+    - button "Slide right":
+  - paragraph: DIY Button Art Kit
+  - heading "Christmas Snowman" [level=1]
+  - status:
+    - generic: $69.00 USD
+  - status:
+    - text: 23 in stock
+  - paragraph: Free standard U.S. shipping
+  - paragraph: "U.S. stock usually ships the same business day. Estimated delivery: 3–5 business days after shipment."
+  - button "Delivery times & exceptions"
+  - paragraph: Make a little Christmas magic, one button at a time.
+  - paragraph: Create your own textured snowman, then frame it for a festive corner of your home.
+  - list:
+    - generic: Frame included
+    - generic: 8" x 12" artwork
+    - generic: Guided design
+  - generic: Select size
+  - button "Size Guide"
+  - button "8\" x 12\" $69.00 USD":
+    - generic: 8" x 12"
+    - generic: $69.00 USD
+  - combobox
+  - generic: Build Your Bundle
+  - radiogroup:
+    - radio "$ $ $ $ $ 2 Pack Save 15% $69.00 $58.65 1 + Select Products Christmas Snowman $69.00 $58.65 8\" x 12\" Select Products" [checked]:
+      - generic: $
+      - generic: $
+      - generic: $
+      - generic: $
+      - generic: $
+      - text: $ $ $
+      - generic: 2 Pack
+      - generic: Save 15%
+      - generic: $69.00
+      - generic: $58.65
+      - generic: "1"
+      - generic: +
+      - button "Select Products":
+        - img "Select Products":
+      - generic: Christmas Snowman
+      - generic: $69.00
+      - generic: $58.65
+      - generic: 8" x 12"
+      - button "Select Products":
+        - generic: Select Products
+    - radio "$ $ $ $ $ 3 Pack Save 20% $69.00 $55.20 1 + Select Products + Select Products Christmas Snowman $69.00 $55.20 Select Products Select Products":
+      - generic: $
+      - generic: $
+      - generic: $
+      - generic: $
+      - generic: $
+      - text: $ $ $
+      - generic: 3 Pack
+      - generic: Save 20%
+      - generic: $69.00
+      - generic: $55.20
+      - generic: "1"
+      - generic: +
+      - button "Select Products":
+        - img "Select Products":
+      - generic: +
+      - button "Select Products":
+        - img "Select Products":
+      - generic: Christmas Snowman
+      - generic: $69.00
+      - generic: $55.20
+      - button "Select Products":
+        - generic: Select Products
+      - button "Select Products":
+        - generic: Select Products
+    - radio "$ $ $ $ $ 4 Pack Save 20% $69.00 $55.20 1 + Select Products + Select Products + Select Products Christmas Snowman $69.00 $55.20 Select Products Select Products Select Products":
+      - generic: $
+      - generic: $
+      - generic: $
+      - generic: $
+      - generic: $
+      - text: $ $ $
+      - generic: 4 Pack
+      - generic: Save 20%
+      - generic: $69.00
+      - generic: $55.20
+      - generic: "1"
+      - generic: +
+      - button "Select Products":
+        - img "Select Products":
+      - generic: +
+      - button "Select Products":
+        - img "Select Products":
+      - generic: +
+      - button "Select Products":
+        - img "Select Products":
+      - generic: Christmas Snowman
+      - generic: $69.00
+      - generic: $55.20
+      - button "Select Products":
+        - generic: Select Products
+      - button "Select Products":
+        - generic: Select Products
+      - button "Select Products":
+        - generic: Select Products
+  - button "Decrease quantity for Christmas Snowman":
+    - generic: Decrease quantity for Christmas Snowman
+  - spinbutton "quantity-input": "1"
+  - button "Increase quantity for Christmas Snowman":
+    - generic: Increase quantity for Christmas Snowman
+  - button "Checkout":
+    - generic: Checkout
+  - button "Add to cart":
+    - generic: Add to cart
+  - heading "Save with a Bundle" [level=2]
+  - paragraph: Choose 2 pieces and save 15%, or choose 3 and save 20%. Build your bundle and add it to your cart to get the discount.
+  - strong: Secure Payment
+  - list:
+    - img "American Express"
+    - img "Apple Pay"
+    - img "Google Pay"
+    - img "Mastercard"
+    - img "PayPal"
+    - img "Shop Pay"
+    - img "Union Pay"
+    - img "Visa"
+  - text: 
+  - generic "Description":
+    - heading "Description" [level=2]
+  - paragraph: A familiar winter character takes on a playful new texture in Christmas Snowman, where the simple charm of a snowman meets the unexpected surface of layered Button Art. Cool winter tones and festive accents give the piece a cheerful seasonal feel, while the dimensional construction keeps it feeling more like a small work of art than a conventional holiday decoration.
+  - paragraph: The design carries an easy sense of nostalgia, making it a natural addition to Christmas displays without requiring an elaborate decorating style. The raised buttons create subtle changes in texture and light across the composition, adding depth that becomes more apparent up close. It works especially well in entryways, living rooms, bedrooms, craft spaces, or alongside other seasonal decorations.
+  - paragraph: The making process is part of the holiday appeal. Sorting the buttons and building the snowman step by step creates a calm activity for a winter afternoon, whether you enjoy crafting on your own or making it part of a festive family tradition. Once complete, the artwork can be brought out year after year as a reusable piece of Christmas home decor.
+  - list:
+    - listitem: Festive Button Art featuring a cheerful winter snowman
+    - listitem: Layered buttons create a raised surface with texture and subtle light reflection
+    - listitem: Guided acrylic art board makes the design approachable to assemble
+    - listitem: Relaxing DIY craft activity for the Christmas season
+    - listitem: Designed to become reusable holiday wall decor and a seasonal home accent
+    - listitem: A thoughtful gift for craft lovers, families, and fans of festive decor
+  - button "READ MORE"
+  - button "FRAME DETAILS":
+    - text: FRAME DETAILS
+  - button "SHIPPING INFORMATION":
+    - text: SHIPPING INFORMATION
+  - button "MATERIALS & CARE" [active]:
+    - text: MATERIALS & CARE
+  - heading "You May Also Love" [level=2]
+  - paragraph: Discover more Button Art designed to bring color, texture, and personality into your home.
+  - list:
+    - group "1 / 10":
+      - link "Jolly Santa button art kit featuring a cheerful Santa Claus design PixelKnot Jolly Santa textured button artwork styled for the Christmas season":
+        - /url: /products/jolly-santa-button-art-kit?pr_prod_strat=similar&pr_rec_id=cf2555524&pr_rec_pid=7786383999043&pr_ref_pid=7643642658883&pr_seq=uniform?variant=43637980692547
+        - img "Jolly Santa button art kit featuring a cheerful Santa Claus design"
+        - img "PixelKnot Jolly Santa textured button artwork styled for the Christmas season"
+      - generic: "2 Pieces: 15% OFF 3 Pieces: 20% OFF"
+      - heading "CardLink-template--28078638792771__related-products-7786383999043 Badge-template--28078638792771__related-products-7786383999043" [level=3]:
+        - link "CardLink-template--28078638792771__related-products-7786383999043 Badge-template--28078638792771__related-products-7786383999043":
+          - /url: /products/jolly-santa-button-art-kit?pr_prod_strat=similar&pr_rec_id=cf2555524&pr_rec_pid=7786383999043&pr_ref_pid=7643642658883&pr_seq=uniform
+          - text: Jolly santa
+      - status:
+        - generic: $69.00 USD
+    - group "2 / 10":
+      - link "Christmas Tree button art kit featuring a colorful Christmas tree topped with a gold star PixelKnot Christmas Tree textured button artwork styled for the holiday season":
+        - /url: /products/christmas-tree?pr_prod_strat=similar&pr_rec_id=cf2555524&pr_rec_pid=7646347427907&pr_ref_pid=7643642658883&pr_seq=uniform?variant=43189768945731
+        - img "Christmas Tree button art kit featuring a colorful Christmas tree topped with a gold star"
+        - img "PixelKnot Christmas Tree textured button artwork styled for the holiday season"
+      - generic: "2 Pieces: 15% OFF 3 Pieces: 20% OFF"
+      - heading "CardLink-template--28078638792771__related-products-7646347427907 Badge-template--28078638792771__related-products-7646347427907" [level=3]:
+        - link "CardLink-template--28078638792771__related-products-7646347427907 Badge-template--28078638792771__related-products-7646347427907":
+          - /url: /products/christmas-tree?pr_prod_strat=similar&pr_rec_id=cf2555524&pr_rec_pid=7646347427907&pr_ref_pid=7643642658883&pr_seq=uniform
+          - text: Christmas tree
+      - status:
+        - generic: $69.00 USD
+    - group "3 / 10":
+      - link "Evergreen Wreath button art kit featuring a festive Christmas wreath with a real ribbon bow Evergreen Wreath button art displayed as festive Christmas home decor":
+        - /url: /products/evergreen-wreath-button-art-kit?pr_prod_strat=similar&pr_rec_id=cf2555524&pr_rec_pid=7786435280963&pr_ref_pid=7643642658883&pr_seq=uniform?variant=43638728327235
+        - img "Evergreen Wreath button art kit featuring a festive Christmas wreath with a real ribbon bow"
+        - img "Evergreen Wreath button art displayed as festive Christmas home decor"
+      - generic: "2 Pieces: 15% OFF 3 Pieces: 20% OFF"
+      - heading "CardLink-template--28078638792771__related-products-7786435280963 Badge-template--28078638792771__related-products-7786435280963" [level=3]:
+        - link "CardLink-template--28078638792771__related-products-7786435280963 Badge-template--28078638792771__related-products-7786435280963":
+          - /url: /products/evergreen-wreath-button-art-kit?pr_prod_strat=similar&pr_rec_id=cf2555524&pr_rec_pid=7786435280963&pr_ref_pid=7643642658883&pr_seq=uniform
+          - text: Evergreen wreath
+      - status:
+        - generic: $69.00 USD
+    - group "4 / 10":
+      - link "Teddy Bear button art kit featuring a cute textured teddy bear design Teddy Bear Button Art displayed as cozy wall decor in a warm home interior":
+        - /url: /products/teddy-bear?pr_prod_strat=similar&pr_rec_id=cf2555524&pr_rec_pid=7629212942403&pr_ref_pid=7643642658883&pr_seq=uniform?variant=43114207707203
+        - img "Teddy Bear button art kit featuring a cute textured teddy bear design"
+        - img "Teddy Bear Button Art displayed as cozy wall decor in a warm home interior"
+      - generic: "2 Pieces: 15% OFF 3 Pieces: 20% OFF"
+      - heading "CardLink-template--28078638792771__related-products-7629212942403 Badge-template--28078638792771__related-products-7629212942403" [level=3]:
+        - link "CardLink-template--28078638792771__related-products-7629212942403 Badge-template--28078638792771__related-products-7629212942403":
+          - /url: /products/teddy-bear?pr_prod_strat=similar&pr_rec_id=cf2555524&pr_rec_pid=7629212942403&pr_ref_pid=7643642658883&pr_seq=uniform
+          - text: Teddy bear
+      - status:
+        - generic: $69.00 USD
+    - group "5 / 10":
+      - link "Witch Hat Pumpkin button art kit featuring a black, gold, and orange pumpkin topped with a witch hat Witch Hat Pumpkin Button Art displayed as Halloween wall decor in a festive home setting":
+        - /url: /products/witch-hat-pumpkin?pr_prod_strat=similar&pr_rec_id=cf2555524&pr_rec_pid=7643642429507&pr_ref_pid=7643642658883&pr_seq=uniform?variant=43169534869571
+        - img "Witch Hat Pumpkin button art kit featuring a black, gold, and orange pumpkin topped with a witch hat"
+        - img "Witch Hat Pumpkin Button Art displayed as Halloween wall decor in a festive home setting"
+      - generic: "2 Pieces: 15% OFF 3 Pieces: 20% OFF"
+      - heading "CardLink-template--28078638792771__related-products-7643642429507 Badge-template--28078638792771__related-products-7643642429507" [level=3]:
+        - link "CardLink-template--28078638792771__related-products-7643642429507 Badge-template--28078638792771__related-products-7643642429507":
+          - /url: /products/witch-hat-pumpkin?pr_prod_strat=similar&pr_rec_id=cf2555524&pr_rec_pid=7643642429507&pr_ref_pid=7643642658883&pr_seq=uniform
+          - text: Witch hat pumpkin
+      - status:
+        - generic: $69.00 USD
+    - group "6 / 10":
+      - link "World Pride Collection featuring United States flag button art United States Flag button art in pale wood frame displayed in a bright modern home interior":
+        - /url: /products/world-pride-flag-button-art-kit?pr_prod_strat=similar&pr_rec_id=cf2555524&pr_rec_pid=7648228245571&pr_ref_pid=7643642658883&pr_seq=uniform?variant=43197314203715
+        - img "World Pride Collection featuring United States flag button art"
+        - img "United States Flag button art in pale wood frame displayed in a bright modern home interior"
+      - generic: "2 Pieces: 15% OFF 3 Pieces: 20% OFF"
+      - heading "CardLink-template--28078638792771__related-products-7648228245571 Badge-template--28078638792771__related-products-7648228245571" [level=3]:
+        - link "CardLink-template--28078638792771__related-products-7648228245571 Badge-template--28078638792771__related-products-7648228245571":
+          - /url: /products/world-pride-flag-button-art-kit?pr_prod_strat=similar&pr_rec_id=cf2555524&pr_rec_pid=7648228245571&pr_ref_pid=7643642658883&pr_seq=uniform
+          - text: Flag of the united states
+      - status:
+        - generic: $69.00 USD
+    - group "7 / 10":
+      - link "Pink Purple Butterfly button art kit featuring a colorful pink and purple butterfly design Pink Purple Butterfly button art displayed as unique butterfly wall decor in a modern interior":
+        - /url: /products/pink-purple-butterfly?pr_prod_strat=similar&pr_rec_id=cf2555524&pr_rec_pid=7591122174019&pr_ref_pid=7643642658883&pr_seq=uniform?variant=43024563601475
+        - img "Pink Purple Butterfly button art kit featuring a colorful pink and purple butterfly design"
+        - img "Pink Purple Butterfly button art displayed as unique butterfly wall decor in a modern interior"
+      - generic: "2 Pieces: 15% OFF 3 Pieces: 20% OFF"
+      - heading "CardLink-template--28078638792771__related-products-7591122174019 Badge-template--28078638792771__related-products-7591122174019" [level=3]:
+        - link "CardLink-template--28078638792771__related-products-7591122174019 Badge-template--28078638792771__related-products-7591122174019":
+          - /url: /products/pink-purple-butterfly?pr_prod_strat=similar&pr_rec_id=cf2555524&pr_rec_pid=7591122174019&pr_ref_pid=7643642658883&pr_seq=uniform
+          - text: Pink-purple butterfly
+      - status:
+        - generic: $69.00 USD
+    - group "8 / 10":
+      - link "Van Gogh Sunflowers button art kit featuring a textured reproduction of the iconic sunflower painting Van Gogh Sunflowers button art displayed as classic wall decor in a cozy living room":
+        - /url: /products/sunflower?pr_prod_strat=similar&pr_rec_id=cf2555524&pr_rec_pid=7591124107331&pr_ref_pid=7643642658883&pr_seq=uniform?variant=43030535274563
+        - img "Van Gogh Sunflowers button art kit featuring a textured reproduction of the iconic sunflower painting"
+        - img "Van Gogh Sunflowers button art displayed as classic wall decor in a cozy living room"
+      - generic: "2 Pieces: 15% OFF 3 Pieces: 20% OFF"
+      - heading "CardLink-template--28078638792771__related-products-7591124107331 Badge-template--28078638792771__related-products-7591124107331" [level=3]:
+        - link "CardLink-template--28078638792771__related-products-7591124107331 Badge-template--28078638792771__related-products-7591124107331":
+          - /url: /products/sunflower?pr_prod_strat=similar&pr_rec_id=cf2555524&pr_rec_pid=7591124107331&pr_ref_pid=7643642658883&pr_seq=uniform
+          - text: Sunflower
+      - status:
+        - generic: $69.00 USD
+    - group "9 / 10":
+      - link "Wild Passion button art kit featuring a vibrant field of red poppies Wild Passion Button Art displayed as unique wall decor in a thoughtfully styled home":
+        - /url: /products/wild-passion?pr_prod_strat=similar&pr_rec_id=cf2555524&pr_rec_pid=7728004661315&pr_ref_pid=7643642658883&pr_seq=uniform?variant=43464686501955
+        - img "Wild Passion button art kit featuring a vibrant field of red poppies"
+        - img "Wild Passion Button Art displayed as unique wall decor in a thoughtfully styled home"
+      - generic: "2 Pieces: 15% OFF 3 Pieces: 20% OFF"
+      - heading "CardLink-template--28078638792771__related-products-7728004661315 Badge-template--28078638792771__related-products-7728004661315" [level=3]:
+        - link "CardLink-template--28078638792771__related-products-7728004661315 Badge-template--28078638792771__related-products-7728004661315":
+          - /url: /products/wild-passion?pr_prod_strat=similar&pr_rec_id=cf2555524&pr_rec_pid=7728004661315&pr_ref_pid=7643642658883&pr_seq=uniform
+          - text: Wild passion
+      - status:
+        - generic: $69.00 USD
+    - group "10 / 10":
+      - link "Blue Butterfly button art kit featuring a vibrant blue butterfly design Blue Butterfly button art displayed as colorful wall decor in a cozy living room":
+        - /url: /products/blue-butterfly?pr_prod_strat=similar&pr_rec_id=cf2555524&pr_rec_pid=7591122501699&pr_ref_pid=7643642658883&pr_seq=uniform?variant=43030487760963
+        - img "Blue Butterfly button art kit featuring a vibrant blue butterfly design"
+        - img "Blue Butterfly button art displayed as colorful wall decor in a cozy living room"
+      - generic: "2 Pieces: 15% OFF 3 Pieces: 20% OFF"
+      - heading "CardLink-template--28078638792771__related-products-7591122501699 Badge-template--28078638792771__related-products-7591122501699" [level=3]:
+        - link "CardLink-template--28078638792771__related-products-7591122501699 Badge-template--28078638792771__related-products-7591122501699":
+          - /url: /products/blue-butterfly?pr_prod_strat=similar&pr_rec_id=cf2555524&pr_rec_pid=7591122501699&pr_ref_pid=7643642658883&pr_seq=uniform
+          - text: Blue butterfly
+      - status:
+        - generic: $69.00 USD
+  - button "Previous slide" [disabled]:
+  - button "Next slide":
+  - region "Art that feels personal":
+    - paragraph: The PixelKnot process
+    - heading "Art that feels personal" [level=2]
+    - paragraph: Each Button Art piece turns small details into a finished work you can live with every day. Explore the texture, color, and care behind the design.
+    - link "Explore the collection":
+      - /url: /collections/new-arrival
+    - img "Colorful button artwork displayed in a home interior"
+  - region "A creative ritual with a finished result":
+    - paragraph: Made for everyday spaces
+    - heading "A creative ritual with a finished result" [level=2]
+    - paragraph: Slow down, place each detail, and watch the image take shape. When the project is complete, the artwork becomes a tactile accent for a shelf, desk, or wall.
+    - link "See more Button Art":
+      - /url: /collections/finished-artwork
+    - img "Button artwork detail with warm color and texture"
+  - region "Frequently asked questions":
+    - paragraph: Need to know
+    - heading "Frequently asked questions" [level=2]
+    - generic "What is included with my order?":
+      - generic: What is included with my order?
+      - generic: +
+    - generic "Is Button Art beginner-friendly?":
+      - generic: Is Button Art beginner-friendly?
+      - generic: +
+    - generic "What if my order arrives damaged or something is missing?":
+      - generic: What if my order arrives damaged or something is missing?
+      - generic: +
+- contentinfo:
+  - link "logo":
+    - /url: /
+  - heading "Color Creaty Pty Ltd +" [level=2]
+  - list:
+    - paragraph:
+      - text: We're here for you
+      - text: "Monday – Friday: 9:00 AM – 5:00 PM (EST)"
+    - generic: 21 Olive Street, Helensvale, QLD 4212, AU
+    - link "contact@pixelknot.ai":
+      - /url: mailto:contact@pixelknot.ai
+    - list:
+      - link "Facebook":
+        - /url: https://www.facebook.com/pixelknotart
+        - generic: Facebook
+      - link "Instagram":
+        - /url: https://www.instagram.com/buttoncanvas_pixelknot/
+        - generic: Instagram
+      - link "TikTok":
+        - /url: https://www.tiktok.com/@button_artwork
+        - generic: TikTok
+      - link "Pinterest":
+        - /url: https://www.pinterest.com/ButtonCanvas/
+        - generic: Pinterest
+  - heading "CUSTOMER CARE +" [level=2]
+  - list:
+    - link "FAQ":
+      - /url: /pages/faq
+    - link "Shipping Information":
+      - /url: /policies/shipping-policy
+    - link "Returns & Refunds":
+      - /url: /policies/refund-policy
+    - link "Contact Us":
+      - /url: /pages/contact-us
+  - heading "SHOP +" [level=2]
+  - list:
+    - link "DIY Button Art":
+      - /url: /collections/diy-button-art
+    - link "Finished Artwork":
+      - /url: /collections/finished-artwork
+    - link "Bestsellers":
+      - /url: /collections/bestsellers
+    - link "New Arrival":
+      - /url: /collections/new-arrival
+    - link "Your Privacy Choices":
+      - /url: /pages/data-sharing-opt-out
+    - link "Track Your Order":
+      - /url: https://www.pixelknot.ai/apps/17TRACK
+  - heading "ABOUT PIXELKNOT +" [level=2]
+  - list:
+    - link "Our Story":
+      - /url: /pages/about-us
+    - link "Inspired Spaces":
+      - /url: /blogs/customized-story
+    - link "Collab with Us":
+      - /url: /pages/collab-us
+  - button "Follow on Shop":
+    - text: Follow on
+    - img "Shop"
+  - list:
+    - link "Privacy Policy":
+      - /url: /policies/privacy-policy
+    - link "Refund Policy":
+      - /url: /policies/refund-policy
+    - link "Shipping policy":
+      - /url: /policies/shipping-policy
+    - link "Payment Policy":
+      - /url: /pages/payment-policy
+    - link "Terms of Service":
+      - /url: /policies/terms-of-service
+  - text: © 2026,
+  - link "PixelKnot":
+    - /url: /
+  - link "Powered by Shopify":
+    - /url: https://www.shopify.com?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore
+  - list:
+    - img "American Express"
+    - img "Apple Pay"
+    - img "Google Pay"
+    - img "Mastercard"
+    - img "PayPal"
+    - img "Shop Pay"
+    - img "Union Pay"
+    - img "Visa"
+  - button "Scroll to top":
+- button "Chat. Open chat":
+  - generic: Chat
+- dialog "MATERIALS & CARE":
+  - button "Close":
+  - heading "MATERIALS & CARE" [level=2]
+  - heading "Built With Durable Materials" [level=2]
+  - paragraph:
+    - text: Each PixelKnot Button Art piece combines a durable acrylic base with carefully arranged buttons to create color, texture, and dimension. The acrylic base and buttons are
+    - strong: water-resistant
+    - text: ", making the artwork suitable for a variety of indoor environments, including spaces with normal levels of humidity."
+  - paragraph: The layered button surface gives each artwork a distinctive tactile quality, while the combination of buttons and acrylic creates subtle variations in light and texture from different viewing angles.
+  - paragraph:
+    - text: Whether you choose to create your own artwork with a
+    - strong: DIY Button Art
+    - text: kit or display a
+    - strong: Ready-to-Hang Artwork
+    - text: ", each piece is designed to bring texture, personality, and artistic character into your space."
+  - heading "Water-Resistant Artwork" [level=3]
+  - paragraph: The acrylic base and buttons are designed to withstand exposure to water and everyday moisture. This makes the core artwork easy to enjoy in different indoor environments without the same moisture concerns associated with traditional paper-based artwork.
+  - paragraph:
+    - text: However, the
+    - strong: backing board and frame are not designed for prolonged exposure to extremely humid conditions
+    - text: . Long-term exposure to excessive moisture or extreme humidity may cause the backing board or frame to crack or deteriorate over time.
+  - paragraph: For the best overall condition of your artwork, we recommend displaying it in a dry, well-maintained indoor environment whenever possible.
+  - heading "Caring for Your Button Art" [level=3]
+  - paragraph: "To keep your Button Art looking its best:"
+  - list:
+    - listitem: Keep the artwork away from prolonged exposure to extreme humidity.
+    - listitem: The acrylic base and buttons can handle normal moisture and occasional contact with water.
+    - listitem: Avoid prolonged soaking or continuous exposure to water.
+    - listitem: Handle the artwork carefully when moving or repositioning it.
+    - listitem: Avoid placing heavy objects directly against the button surface.
+    - listitem: For dust or light surface cleaning, gently wipe the acrylic and button surface with a soft, clean cloth.
+    - listitem: Avoid harsh chemicals, abrasive cleaners, or rough materials that could scratch the acrylic surface.
+  - heading "A Replaceable Framing Structure" [level=3]
+  - paragraph:
+    - text: If the
+    - strong: backing board or frame
+    - text: is affected by long-term exposure to extreme humidity and eventually needs to be replaced, you do not need to replace the artwork itself.
+  - paragraph:
+    - text: The core Button Art can remain intact, and the backing board or frame can be
+    - strong: replaced independently
+    - text: . This gives you the flexibility to refresh or replace the framing components over time while continuing to enjoy the artwork itself.
+  - paragraph:
+    - text: We are also working toward offering more options for
+    - strong: frame colors, materials, and styles
+    - text: in the future, giving you more freedom to personalize how your Button Art looks in your space.
+  - heading "Caring for DIY Button Art" [level=3]
+  - paragraph:
+    - text: When creating a
+    - strong: DIY Button Art
+    - text: piece, take your time and follow the included instructions. Work on a clean, flat surface and keep your buttons and other materials organized during the process.
+  - paragraph: Once completed, handle the finished artwork carefully when moving or framing it. The acrylic base and buttons are water-resistant, but the completed piece should still be protected from prolonged exposure to extreme humidity to help preserve the frame and backing board.
+  - heading "Caring for Ready-to-Hang Artwork" [level=3]
+  - paragraph:
+    - text: Our
+    - strong: Ready-to-Hang Artwork
+    - text: arrives completed and framed, allowing you to display it without completing the artwork yourself.
+  - paragraph: When moving or hanging your finished piece, support it securely and avoid putting unnecessary pressure directly on the textured button surface.
+  - paragraph: The acrylic base and buttons are water-resistant, while the frame and backing board benefit from a stable indoor environment. With proper placement and gentle care, your Button Art can remain a distinctive part of your home decor for years to come.
+  - heading "Made for Everyday Living" [level=3]
+  - paragraph: Button Art is designed to be enjoyed as both art and home decor. The durable acrylic base and water-resistant buttons make the artwork practical for everyday indoor environments, while the textured construction gives it a unique visual and tactile character.
+  - paragraph: Whether displayed in a living room, bedroom, home office, creative space, or another favorite area, PixelKnot Button Art is made to bring color, texture, and personality into your home.

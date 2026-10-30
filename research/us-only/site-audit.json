@@ -1,0 +1,212 @@
+{
+  "date": "2026-10-29",
+  "reviewer_role": "Independent local page audit",
+  "scope": "只审查本地留存的雪人商品页DOM和真实截图；未重新读取Shopify后台、Checkout配置或购物车，未访问用户数据。用户确认当前独立站只销售美国市场。",
+  "central_judgment": "仅销售美国适合收窄配送、货币、送礼时间与内容分发的表达，但不能据此编造美国公司、美国制造、全美同等时效、免税或本地退货。下一轮应从商品页扩展到商品选择→送礼判断→真实制作→手机操作→购物车确认的完整购买任务。",
+  "five_priorities": [
+    {
+      "id": "USA-1",
+      "priority": "P0 · 先核实事实和配置",
+      "title": "把“仅售美国”变为可核对的服务边界，而不是美国身份包装",
+      "known_now": "商品页有Free standard U.S. shipping、U.S. stock通常同工作日发出、发出后3–5工作日及Delivery times & exceptions入口。页脚明确Color Creaty Pty Ltd及澳大利亚Helensvale地址。",
+      "current_quotes": [
+        "Free standard U.S. shipping",
+        "U.S. stock usually ships the same business day. Estimated delivery: 3–5 business days after shipment.",
+        "Color Creaty Pty Ltd",
+        "21 Olive Street, Helensvale, QLD 4212, AU"
+      ],
+      "evidence": [
+        "research/us-shopping/pixelknot-faq-dom.txt",
+        "screenshots/us-faq.png"
+      ],
+      "new_action": "核实美国本土48州、Alaska/Hawaii、Puerto Rico及其它领地、APO/FPO、PO Box的配送可达性、费用与时效。以同一服务表驱动商品页、配送政策和Checkout国家/地址限制；真实说明公司主体、发货地、退货处理地。",
+      "why": "美国顾客可能把美国库存、美国免运、美国公司和美国制造混为一谈；将对象分开有助建立可兑现预期。美国市场内部亦有不同地址类型，不能只用U.S.一词覆盖所有例外。",
+      "candidate_copy": [
+        "Currently shipping to [verified U.S. service area]",
+        "Shipping details & location exceptions",
+        "Sold by Color Creaty Pty Ltd · Ships from [verified fulfillment location]"
+      ],
+      "do_not_infer": [
+        "不能删除或隐藏真实澳洲公司地址来假装美国企业",
+        "美国库存不等于Made in USA",
+        "无法由本地DOM判断现有结账是否允许非美国地址",
+        "不能仅凭免运推出免税；州销售税和适用费用须按实际结账处理",
+        "不能未经实际政策证实承诺U.S. returns或No import fees"
+      ],
+      "measure": [
+        "配送地区/总成本/退货地址任务答对率",
+        "输入不支持地址的比例与错误处理完成率",
+        "配送承诺类客服与退款率"
+      ],
+      "sequence": "先核实物流和后台配置，再修正事实；信息排布可用同期随机对照验证。"
+    },
+    {
+      "id": "USA-2",
+      "priority": "P1 · 场景转化实验",
+      "title": "从“多买打折”增加到“送谁、何时用、怎样搭配”的购买入口",
+      "known_now": "雪人图库已有送礼和包装图，商品文案已有礼物与家庭活动语境；Bundle现为2/3/4 Pack和31款选品。没有证据说送礼信息完全缺失，也没有证据证明一个套件能让两人同时完成。",
+      "current_quotes": [
+        "Christmas Snowman Button Art DIY kit presented as a thoughtful gift for a home decor and craft lover",
+        "Christmas Snowman Button Art DIY kit shown in its product packaging beside the framed artwork and craft supplies",
+        "A thoughtful gift for craft lovers, families, and fans of festive decor",
+        "Build Your Bundle"
+      ],
+      "evidence": [
+        "research/us-shopping/pixelknot-current-dom.txt",
+        "research/us-shopping/pixelknot-faq-dom.txt",
+        "evidence/bundle-picker-dom.txt"
+      ],
+      "new_action": "测试按Christmas crafting、Gifts for craft lovers、Matching holiday decor等用途进入可编辑的两套组合，分别解释每个套件独立交付；如运营可支持，再增加礼物留言、收件人地址提醒、无价格小票或礼物包装说明。节日前到达只能按可靠物流计算。",
+      "why": "折扣回答省多少，场景回答为什么需要两套。现有多件订单事实尚不能等同Bundle效果，因此应验证场景入口是否提高每会话贡献，而非直接扩大优惠。",
+      "candidate_copy": [
+        "Make one. Gift one.",
+        "Choose two designs for your holiday craft plans",
+        "Sending a gift? [verified gift options]"
+      ],
+      "do_not_infer": [
+        "不能把两套叫做两人套装而不确认每套工具与使用要求",
+        "不能未验证安全和适龄就称kid-friendly或family-safe",
+        "不能在没有真实功能时承诺礼物留言、礼品收据、免费包装",
+        "不能以假节日倒计时或固定保证到达日期制造紧迫感"
+      ],
+      "measure": [
+        "场景入口曝光→开始选款→选满→购买",
+        "礼物功能采用率（如上线）",
+        "每会话贡献、总购买率与优惠成本",
+        "送礼到达/包装误解类咨询"
+      ],
+      "sequence": "先用现有真实SKU制作少量可替换主题组合；保持折扣不变，只测试场景入口和说明。"
+    },
+    {
+      "id": "USA-3",
+      "priority": "P1 · 先做真实产品验证",
+      "title": "增加可验证的“第一次能否完成”证据，而非继续叠加泛泛新手承诺",
+      "known_now": "当前明确DIY属性，已有材料/制作图、5个视频入口、Guided design、新手FAQ及通用清单。视频按钮的可访问名称仅Play video 1…5，图片alt仅Christmas Snowman，未说明每段回答什么。当前本地证据不支持具体完成时长、适龄或所有工具齐全。",
+      "current_quotes": [
+        "DIY Button Art Kit",
+        "Guided design",
+        "Play video 1 in gallery view",
+        "Play video 5 in gallery view",
+        "Is Button Art beginner-friendly?"
+      ],
+      "evidence": [
+        "research/us-shopping/pixelknot-current-dom.txt",
+        "research/us-shopping/pixelknot-faq-dom.txt"
+      ],
+      "new_action": "邀请美国目标新客在真实套件上记录开箱、第一步、容易卡住的步骤、返工与完成态；将5个已有视频入口按真实内容命名为开箱/如何开始/制作过程/完成品等任务标签。耗时区分动手时间与等待时间；如果涉及胶和小零件，先做产品/包装/安全核实后列出适龄与注意事项。",
+      "why": "已有内容的存在不等于消费者知道哪段能解决疑问。真实完成过程和可理解的片段名称比抽象Guided design更能帮助判断购买后的工作量。",
+      "candidate_copy": [
+        "See how the kit comes together",
+        "Watch: [actual video topic]",
+        "Making time: [tested range] · Additional [verified waiting time]",
+        "What first-time makers found helpful"
+      ],
+      "do_not_infer": [
+        "不能沿用竞品3–8小时或12+年龄作为纽扣画事实",
+        "不能把模特图或示意图标为真实买家完成作品",
+        "没有实际工具/材料检查前不写Everything included",
+        "这不是美国人特有认知需求，只是美国目标市场中值得验证的购买任务"
+      ],
+      "measure": [
+        "DIY属性/所需物品/过程/时长任务答对率",
+        "带视频主题标识的播放开始与完成",
+        "视频曝光后分组加购与购买率",
+        "预期不符取消、退款和制作困难咨询"
+      ],
+      "sequence": "先核实视频主题与实物事实，改善标签；真实用户试做后才填时间和难度，再测试页面布局。"
+    },
+    {
+      "id": "USA-4",
+      "priority": "P1 · 手机购买任务验收",
+      "title": "减少手机端浮层遮挡、无关路径和辅助技术噪音",
+      "known_now": "375×812真实购买区截图中Chat悬浮按钮覆盖Bundle卡片右上区域。DOM有八个重复Announcement region及重复促销文字，不能由DOM断言视觉上显示八条；需验证屏幕阅读器与组件实现。当前雪人SKU只见一个8×12尺寸，仍保留尺寸下拉。下方另有Finished Artwork入口。",
+      "current_quotes": [
+        "Chat. Open chat",
+        "Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF",
+        "Select size",
+        "8\" x 12\" $69.00 USD",
+        "See more Button Art"
+      ],
+      "evidence": [
+        "screenshots/us-pixelknot-buy.png",
+        "research/us-shopping/pixelknot-current-dom.txt",
+        "research/us-shopping/pixelknot-faq-dom.txt"
+      ],
+      "new_action": "在美国主要手机尺寸和可访问性工具下验收Chat、固定购买条、选款弹窗与底部操作是否互相遮挡；若尺寸确实不可选，测试静态规格行减少一次点击。根据当前购买任务给DIY相关内容更高优先级，保留成品业务为明确分流。核查滚动优惠条重复节点是否需对辅助技术去重，并支持减少动画。",
+      "why": "这属于操作负担和信息层级，可减少误点与解释成本；不是美国人讨厌聊天、动画或成品画。单一尺寸选择器若无可选内容可能制造无意义操作，但需先验证其它SKU和配置。",
+      "candidate_copy": [
+        "Artwork size: [verified dimensions]",
+        "More DIY designs",
+        "Looking for ready-to-hang art? Explore finished artwork"
+      ],
+      "do_not_infer": [
+        "不能仅凭8个DOM区域认定实际八条横幅或确定无障碍违规",
+        "不能直接删除聊天入口而忽略真实客服转化作用",
+        "不能把单一尺寸项视为全店均只有一款尺寸",
+        "不能从截图推断页面速度差或Core Web Vitals不合格",
+        "Finished Artwork存在并非错误，应按当前用户任务测试分流"
+      ],
+      "measure": [
+        "关键目标遮挡与误点率",
+        "选款确认用时/完成率",
+        "键盘焦点、可读名称、减少动画设置的验收",
+        "RUM p75 LCP/INP/CLS（尚未采集，不填写假值）",
+        "总购买率与客服使用后成功率"
+      ],
+      "sequence": "先修复可复现的遮挡/操作故障；其它布局按单变量实验测试，不能用全页转化率倒推出本项损失。"
+    },
+    {
+      "id": "USA-5",
+      "priority": "P1 · 购物车与优惠一致性",
+      "title": "把确认对象、优惠资格和总成本贯通到购物车，而非只优化商品页",
+      "known_now": "已验证两套选齐后总价117.30和底部条同步。当前商品页有23 in stock、Bundle折扣和支付方式图标；本轮未实际操作加购、Checkout或支付。库存数字只是页面展示，不是销量、缺货预测或假库存证据；图标亦不能证明每个加速支付在所有设备都可用。",
+      "current_quotes": [
+        "23 in stock",
+        "2 Pack",
+        "Save 15%",
+        "Add to cart",
+        "Checkout",
+        "American Express",
+        "Apple Pay",
+        "Google Pay",
+        "PayPal",
+        "Shop Pay"
+      ],
+      "evidence": [
+        "research/us-shopping/pixelknot-faq-dom.txt",
+        "evidence/bundle-complete-dom.txt",
+        "evidence/bundle-complete-mobile.png"
+      ],
+      "new_action": "单独安排非支付的购物车验收：逐行确认design、DIY/成品类型、数量、含框和变体；Bundle采用可追溯分组、原价/折扣/小计；删除或改变数量时重新计算资格，并明示税费估算条件。支持可用的访客结账和加速支付时，保持清晰对象与错误恢复。库存/促销应来自真实系统，不添加永久倒计时或假稀缺。",
+      "why": "商品页选齐正确不能证明跨购物车、优惠插件和结账状态仍一致。对于平均多件购买较多的店，配置与折扣的一致性直接决定用户能否确认实际买到什么。",
+      "candidate_copy": [
+        "Your 2-kit bundle",
+        "Christmas Snowman · DIY kit · [verified size] · Frame included",
+        "Bundle savings: [calculated amount]",
+        "Estimated tax: [calculated / determined at checkout]",
+        "Review your designs before checkout"
+      ],
+      "do_not_infer": [
+        "不能在未检查购物车前声称其漏写税费或折扣错误",
+        "不能要求所有账户必须登录；也不能未核实就声称现有店强制注册",
+        "不能因为只卖美国就宣称tax-free",
+        "不能把23库存变动当作订单变化",
+        "不能把显示Apple Pay图标等同真实按钮可用"
+      ],
+      "measure": [
+        "bundle_id贯通的成功加购→购物车→购买",
+        "改数量/删件后的优惠与价格一致率",
+        "误加购、优惠失效和支付报错率",
+        "访客/加速支付按设备实际可用分组",
+        "每会话贡献、购买率、取消与退款"
+      ],
+      "sequence": "先以测试配置做非支付状态覆盖，修复价格/订单事实错误；未发现故障时再排布局实验优先级。"
+    }
+  ],
+  "cross_cutting_boundaries": [
+    "数据不支持给每个模块分配预计增幅；竞品公开评价也不是设计因果证据。",
+    "本地截图/DOM是2026-10-29留存，不自动代表此刻线上状态或全站全部SKU。",
+    "新增方向应有五个相关具体页面举例，不能为凑五个引用无关网页。",
+    "更窄市场范围可减少消费者需要处理的选项，但不存在全部美国购物者一致的审美；按美国目标用户任务和同期实验验收。"
+  ]
+}

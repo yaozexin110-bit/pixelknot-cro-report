@@ -1,0 +1,463 @@
+- generic: Γ
+- link "Skip to content":
+  - /url: "#MainContent"
+- link "Instagram":
+  - /url: https://www.instagram.com/pottdpeople/
+  - img "Instagram"
+- link "Tiktok":
+  - /url: https://www.tiktok.com/@pottdpeople
+  - img "Tiktok"
+- region "Announcement bar":
+  - button "Previous announcement":
+  - group "1 of 3":
+    - region "Announcement":
+      - paragraph: "Halloween Sale: 3 for 2 on All Kits"
+  - region:
+    - paragraph: Free 2-4 Day Shipping Over $75
+  - region:
+    - paragraph: 500k+ Happy Customers
+  - button "Next announcement":
+- banner:
+  - link "Pott'd US":
+    - /url: /
+    - img "Pott'd US"
+  - navigation:
+    - list:
+      - link "Fall Sale":
+        - /url: /pages/fall-sale
+        - generic: Fall Sale
+      - link "Halloween Kits":
+        - /url: /pages/halloween-deals
+        - generic: Halloween Kits
+      - button "Best Sellers":
+        - link "Best Sellers":
+          - /url: /collections/most-popular
+      - button "Pottery Painting Kits":
+        - link "Pottery Painting Kits":
+          - /url: /collections/creative-kits
+      - button "Home Pottery Kits":
+        - link "Home Pottery Kits":
+          - /url: /pages/all-home-pottery-kits
+      - button "Extras & Refills":
+        - link "Extras & Refills":
+          - /url: /collections/accessories
+      - link "Gift Guide":
+        - /url: /pages/gift-guide
+        - generic: Gift Guide
+  - button "Search":
+  - link "Log in":
+    - /url: https://getpottd.com/customer_authentication/redirect?locale=en&region_country=US
+    - generic: Log in
+  - button "Cart":
+    - generic: Cart
+- main:
+  - text:    
+  - region "Gallery Viewer":
+    - link "Skip to product information":
+      - /url: "#ProductInfo-template--16240267100275__main"
+    - generic: 3 For 2
+    - generic: 35% OFF
+    - button "Open media 1 in modal":
+      - generic: Open media 1 in modal
+    - button "Slide left" [disabled]:
+    - list:
+      - button "Load image 1 in gallery view":
+        - img "Creative Gift for Two Bundle"
+      - button "Load image 2 in gallery view":
+        - img "Whimsical white ceramic pot with a smiling face and legs holding a string of pearls plant on a wooden shelf."
+      - button "Load image 3 in gallery view":
+        - img "Home pottery kit with pastel paint tubes, sculpting tools, pottery pocket guide, and super clay on a pink background."
+      - button "Load image 4 in gallery view":
+        - img "Stylish ceramic incense holder with subtle earth tones, releasing fragrant smoke on a light marble surface."
+      - button "Load image 5 in gallery view":
+        - img "Hands painting a purple and yellow clay plate with floral design using pastel-colored paints and brushes on a pink surface."
+      - button "Load image 6 in gallery view":
+        - img "A person painting a white mug with blue stripes and a red lobster design using a paintbrush, on a light blue surface."
+      - button "Load image 7 in gallery view":
+        - img "Clay sheep-shaped egg holder with a gray head and white wool on a cork coaster, placed on a wooden table."
+      - button "Load image 8 in gallery view":
+        - img "Colorful twisted candles in polka dot holders on white table, against a neutral wooden textured background."
+      - button "Load image 9 in gallery view":
+        - img "Colorful photo frame with flower decorations holding a smiling woman's polaroid portrait, set on a pink surface."
+      - button "Load image 10 in gallery view":
+        - img "Heart-shaped pink ceramic dish with black cow print design and abstract face features on a gray background."
+      - button "Load image 11 in gallery view":
+        - img "Aqua star-shaped clay dish with cartoonish eyes and pink tongue, set on a wooden surface."
+      - button "Load image 12 in gallery view":
+        - img "Seal ‘n Shine air dry clay varnish bottle with blue label on a pink background, highlighting easy-to-use features."
+      - button "Load image 13 in gallery view":
+        - img "Applying orange varnish to a black splatter white air dry clay sculpture with a brush on a pink background."
+    - button "Slide right":
+  - generic: Limited Time Offer
+  - heading "Creative Gift for Two Bundle" [level=2]
+  - paragraph: Ideal gift for the creative in your life
+  - button "See all reviews":
+    - generic: 
+    - generic: 
+    - generic: 
+    - generic: 
+    - generic: 
+  - text: 7 reviews
+  - status:
+    - generic: $114
+    - generic: 35% OFF
+    - generic: Sale price
+    - generic: $74
+  - generic: SAVE NOW
+  - generic: $40.00
+  - generic: 20% of the remaining stock
+  - heading "Choose Quantity" [level=3]
+  - radio "1 Kit Creative Gift for Two Bundle 1 $114 $74" [checked]
+  - heading "1 Kit" [level=2]
+  - img "Creative Gift for Two Bundle"
+  - generic: "1"
+  - generic: $114
+  - generic: $74
+  - radio "3 For 2 Creative Gift for Two Bundle 3 -33% $222 $148"
+  - heading "3 For 2" [level=2]
+  - img "Creative Gift for Two Bundle"
+  - generic: "3"
+  - generic: "-33%"
+  - generic: $222
+  - generic: $148
+  - generic: 3rd Kit Free
+  - generic: 
+  - generic: Free 2-4 Day Shipping on Orders Over $75
+  - button " 3 for 2 on All Kits ":
+    - generic: 
+    - generic: 3 for 2 on All Kits
+    - generic: 
+  - generic: Add any 3 kits to your cart and the cheapest item will be 100% discounted automatically
+  - generic: "Upgrade & Save:"
+  - button "Previous products":
+  - button "Next products":
+  - region "Product add-ons carousel":
+    - generic: Use the Previous and Next buttons to navigate through product add-ons, or scroll horizontally to view more products.
+    - checkbox
+    - link:
+      - /url: /products/pottd-paint-pens
+      - text: Paint Pens
+    - generic: Pastel (x8)
+    - combobox
+    - generic: Sale price
+    - generic: $16.00
+    - generic: Regular price
+    - generic: $32.00
+    - checkbox
+    - link:
+      - /url: /products/paintables-stencil-set
+      - text: Paintables Stencil Kit
+    - generic: Sport Stencils
+    - combobox
+    - generic: Sale price
+    - generic: $15.00
+    - generic: Regular price
+    - generic: $30.00
+    - checkbox
+    - link:
+      - /url: /products/pottd-alphabet-stamps
+      - text: Pottery Stamps
+    - generic: Sale price
+    - generic: $14.00
+    - generic: Regular price
+    - generic: $28.00
+    - checkbox
+    - link:
+      - /url: /products/pottd-mindful-craft-mat
+      - text: Craft Mat
+    - generic: Mindful
+    - combobox
+    - generic: Sale price
+    - generic: $16.00
+    - generic: Regular price
+    - generic: $32.00
+    - checkbox
+    - link:
+      - /url: /products/shape-paint-play
+      - text: Shape, Paint & Play
+    - generic: Sale price
+    - generic: $14.00
+    - generic: Regular price
+    - generic: $28.00
+    - checkbox
+    - link:
+      - /url: /products/pottd-extra-pack-of-premium-air-dry-clay-1kg
+      - text: Super Clay
+    - generic: 500g
+    - combobox
+    - generic: Sale price
+    - generic: $10.00
+    - generic: Regular price
+    - generic: $20.00
+    - checkbox [disabled]
+    - checkbox [disabled]
+    - checkbox [disabled]
+  - button "Add to cart":
+    - heading "Add to cart" [level=2]
+  - button "Buy it now"
+  - img "Check"
+  - generic: 2-4 Day Shipping
+  - img "Check"
+  - generic: Tracked Shipping
+  - img "Check"
+  - generic: Easy Returns
+  - region "Tolstoy Stories carousel":
+    - 'button "Open story: Creative Chemistry"':
+      - generic: Creative Chemistry
+    - 'button "Open story: Weekend Ritual"':
+      - generic: Weekend Ritual
+    - 'button "Open story: Create & Unwind"':
+      - generic: Create & Unwind
+  - button "Add to cart":
+    - generic: Add to cart
+  - text: What’s in the box?
+  - generic: See more
+  - paragraph:
+    - text: A fun and creative way to bond and create. This special bundle includes everything you need to paint, sculpt, and craft unique pieces—perfect for making unforgettable memories together or giving as a thoughtful gift to someone special.💖
+    - text: What’s inside?
+    - text: Home Pottery Kit
+    - text: 🪨 2 x Bags of eco-friendly, soft, supple Super Clay
+    - text: 🧑‍🎨 5 x Wooden sculpting tools for carving, shaping and decorating
+    - text: 🧽 1 x Potter’s sponge for smoothing – all packed in a reusable fabric tool bag
+    - text: 🎨 8 x Pott'd Pottery Paint Set
+    - text: 🖌️ 2 x Artist’s paint brushes – one large for coverage, and one fine for detailing
+    - text: 🌟 1 x Base coat and 1 x Gloss varnish
+    - text: 📝 1 x Pott’d quick-start guide with step-by-step instructions, and inspiration to create a whole bunch of creative pottery
+    - text: 🧑‍🎨 1 x Pott’d easel to hold your instruction guides while you create
+    - text: Paint-a-Mug Kit
+    - text: ☕ Set of 2 Custom Shape Mugs
+    - text: 🎨 12 Vibrant Ceramic Paints
+    - text: 🖌️ 4 Paint Brushes
+    - text: 📝 Pott’d Quick Start Guide with step-by-step instructions and inspiration
+  - heading "Frequently Asked Questions" [level=2]
+  - generic: Tracked Shipping
+  - paragraph: Rest assured, you’ll enjoy speedy and fully tracked delivery, no matter how many kits you order. We carefully pack every order to ensure it arrives safely and ready for creating. That’s the Pott’d way.
+  - separator
+  - generic: 2-4 Day Delivery
+  - paragraph: Order before 2pm and your kit will be delivered within 2-4 working days. Less waiting, more creating.
+  - separator
+  - generic: How long will my clay be happy sat on a shelf?
+  - paragraph: Our Super Clay can be stored up to 9 months - to prolong its lovely life, we advise that you store it in a cool place! We're not talking a room with funky lights and a disco ball, but somewhere with lower temperatures. Once you have received your kit, you've got a good 3/4 of a year to use all that lovely clay!
+  - separator
+  - generic: Ideal for one or two people
+  - paragraph: Perfectly proportioned and designed for 1-2 people. Your kit includes enough clay for 6-8 average sized creations, 2-4 large ones, one extremely large one. You get the idea. Plus enough tools and paints to share between two.
+  - separator
+  - generic: Easy returns
+  - paragraph: Not quite right or need something different? No worries, simply return your kit anytime using our returns portal.
+  - separator
+  - generic: Sustainable and cruelty free
+  - paragraph: Our kits use 90% recycled and recyclable materials, and our Super Clay is vegan and cruelty-free. All materials are totally non-toxic, both for you and the planet.
+  - img "Pottd Trait"
+  - heading "Kiln Free" [level=2]
+  - paragraph: No kiln needed
+  - img "Pottd Trait"
+  - heading "Sustainable" [level=2]
+  - paragraph: Planet-friendly materials
+  - img "Pottd Trait"
+  - heading "Cruelty Free" [level=2]
+  - paragraph: 100% cruelty-free
+  - heading "Get Inspired" [level=2]
+  - 'img "Instagram post with the caption: Cat, Dog, Bunny, Fox or Bear 🤍 Shape your pick, style their cos..."'
+  - button "Instagram post 1 opens in a popup"
+  - 'img "Instagram post with the caption: Hat season: witch edition 🔮 #halloweencrafts #airdryclay #craf..."'
+  - button "Instagram post 2 opens in a popup"
+  - 'img "Instagram post with the caption: From colouring-book characters to squishy little friends ✨ We’ve..."'
+  - button "Instagram post 3 opens in a popup"
+  - 'img "Instagram post with the caption: Who you gonna call (to play tic-tac-toe with)? 👻 #airdryclay #..."'
+  - button "Instagram post 4 opens in a popup"
+  - 'img "Instagram post with the caption: Cute by day, spooky by night 🎃 #halloweencrafts #glowinthedar..."'
+  - button "Instagram post 5 opens in a popup"
+  - 'img "Instagram post with the caption: Our Paint-a-Glass Pumpkin Mug kits are here, and so are our firs..."'
+  - button "Instagram post 6 opens in a popup"
+  - 'img "Instagram post with the caption: Paint, light and celebrate ✨What colours would you paint yours? ..."'
+  - button "Instagram post 7 opens in a popup"
+  - 'img "Instagram post with the caption: Celebrate Diwali with a little more light ✨ Meet our new Paint-a..."'
+  - button "Instagram post 8 opens in a popup"
+  - 'img "Instagram post with the caption: Two sides to every web. Which half would you pick, colour or cla..."'
+  - button "Instagram post 9 opens in a popup"
+  - 'img "Instagram post with the caption: Pumpkin details for the places you least expect them 🎃 #pumpk..."'
+  - button "Instagram post 10 opens in a popup"
+  - paragraph
+  - heading "NO KILN NEEDED" [level=2]
+  - paragraph:
+    - text: Creating your very own durable clay masterpieces at home with our all-inclusive kits was never easier.
+    - text: No kiln, wheel, or experience required!
+  - generic: UNIQUE GIFT
+  - paragraph
+  - heading "BEGINNER FRIENDLY" [level=2]
+  - paragraph: No experience, no worries. Our lovely kits include everything you need to get started, inspired, and feel at immediate ease as you start crafting.
+  - generic: GREAT FOR BEGINNERS
+  - paragraph
+  - heading "ENJOY A NEW HOBBY" [level=2]
+  - paragraph:
+    - text: Isn't it about time you found something for YOU?
+    - text: Unlock your inner artist and ignite your creativity. Let your ideas flow and let's see where your imagination leads you ...
+  - generic: FUN SOLO PROJECT
+  - heading "Customer Reviews" [level=2]
+  - img "Average rating is 4.86 stars":
+    - generic: 
+    - generic: 
+    - generic: 
+    - generic: 
+    - generic: 
+  - text: 4.86 out of 5
+  - text: Based on 7 reviews
+  - img "Verified Checkmark"
+  - button "86% (6) reviews with 5 star rating":
+    - generic: 
+    - generic: 
+    - generic: 
+    - generic: 
+    - generic: 
+  - generic: "6"
+  - button "14% (1) reviews with 4 star rating":
+    - generic: 
+    - generic: 
+    - generic: 
+    - generic: 
+    - generic: 
+  - generic: "1"
+  - button "0% (0) reviews with 3 star rating":
+    - generic: 
+    - generic: 
+    - generic: 
+    - generic: 
+    - generic: 
+  - generic: "0"
+  - button "0% (0) reviews with 2 star rating":
+    - generic: 
+    - generic: 
+    - generic: 
+    - generic: 
+    - generic: 
+  - generic: "0"
+  - button "0% (0) reviews with 1 star rating":
+    - generic: 
+    - generic: 
+    - generic: 
+    - generic: 
+    - generic: 
+  - generic: "0"
+  - generic: Sort by
+  - combobox "Sort by ":
+    - option "Most Recent"
+    - option "Highest Rating"
+    - option "Lowest Rating"
+    - option "Only Pictures"
+    - option "Pictures First" [selected]
+    - option "Videos First"
+    - option "Most Helpful"
+  - generic: 
+  - img "4 star review":
+    - generic: 
+    - generic: 
+    - generic: 
+    - generic: 
+    - generic: 
+  - time: 02/27/2026
+  - generic: 
+  - generic: Sam E.
+  - generic: Quality drinkwear, but paint could be better.
+  - paragraph:
+    - text: I personally loved doing the two mugs and two travel mugs with my wife as a special gift, but some of the paint was hard and not very liquid, which limited some of the paint that we got, and after painting my mug, putting it in the oven letting it sit out and drinking hot coffee out of it a few times I’ve already noticed some of the paint...
+    - button "Read more"
+  - img "5 star review":
+    - generic: 
+    - generic: 
+    - generic: 
+    - generic: 
+    - generic: 
+  - time: 02/25/2026
+  - generic: 
+  - generic: Pott'd Customer
+  - generic: Such a fun experience
+  - paragraph: We had an absolute blast painting our mugs! And I love that the colors haven’t faded after many uses- design has held up and it was a fun date night.
+  - img "5 star review":
+    - generic: 
+    - generic: 
+    - generic: 
+    - generic: 
+    - generic: 
+  - time: 02/18/2026
+  - generic: 
+  - generic: Pott'd Customer
+  - generic: So fun!
+  - paragraph: Great product with fun colors and good customer service team as I messed up my shipping address!
+  - img "5 star review":
+    - generic: 
+    - generic: 
+    - generic: 
+    - generic: 
+    - generic: 
+  - time: 02/13/2026
+  - generic:  
+  - text: Pott'd Customer
+  - generic: Verified
+  - generic: Easy to follow
+  - paragraph: This is a super easy to follow clay hearts with candles. This is the first time I’ve done this! Lots of fun ❤️
+  - img "5 star review":
+    - generic: 
+    - generic: 
+    - generic: 
+    - generic: 
+    - generic: 
+  - time: 02/02/2026
+  - generic: 
+  - generic: Joshua
+  - generic: Perfect Date night
+  - paragraph: My girlfriend loved this idea. Allowed her to explore her creative side and was perfect for Valentines Day!
+  - button "Page 1": "1"
+  - button "Page 2": "2"
+  - button "Page 2": 
+  - button "Page 2": 
+  - img "Delivery Info Icon"
+  - generic: 2-4 Day Shipping
+  - img "Delivery Info Icon"
+  - generic: Tracked Shipping
+  - img "Delivery Info Icon"
+  - generic: 30 Day Easy Returns
+- heading "About POTT'D" [level=2]
+- list:
+  - link "Contact Us":
+    - /url: /pages/contact
+  - link "FAQs":
+    - /url: /pages/faqs
+  - link "About Us":
+    - /url: /pages/about-us
+  - link "Team Events":
+    - /url: /pages/team-events
+  - link "Blog":
+    - /url: /blogs/news
+  - link "Terms of Service":
+    - /url: /policies/terms-of-service
+  - link "Shipping Policy":
+    - /url: /policies/shipping-policy
+  - link "Refunds & Returns":
+    - /url: /policies/refund-policy
+  - link "Privacy Policy":
+    - /url: /policies/privacy-policy
+- link "Instagram":
+  - /url: https://www.instagram.com/pottdpeople/
+- link "TikTok":
+  - /url: https://www.tiktok.com/@pottdpeople
+- link "Facebook":
+  - /url: https://www.facebook.com/groups/526311053840150/
+- link "YouTube":
+  - /url: https://www.youtube.com/@pottdpeople
+- link "hello@getpottd.com":
+  - /url: mailto:hello@getpottd.com
+- text: Pott'd Creations Limited 251 GRAY'S INN ROAD LONDON WC1X 8QT
+- text: "Company Number: 13532146"
+- generic: © 2026 POTT'D
+- generic: Cart • 0
+- button "Close cart":
+- paragraph:
+  - strong: Add 3 More To Get 1 Free
+- generic: Free Product
+- heading "Your cart is empty" [level=3]
+- button "Mystery discount on your first order":
+  - paragraph:
+    - strong: Mystery discount
+  - paragraph:
+    - strong: on your first order
+- button "Close teaser":

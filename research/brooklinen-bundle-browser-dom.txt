@@ -1,0 +1,2963 @@
+- link "Skip to content":
+  - /url: "#MainContent"
+- region:
+  - button "Previous slide":
+  - button "Go to first slide":
+  - link:
+    - /url: https://www.brooklinen.com/collections/dreamweave-waffle
+    - text: Sold Out Dreamweave Waffle is back in new colors & patterns for bed & bath.
+  - link:
+    - /url: https://www.brooklinen.com/pages/faq?a=Does-Brooklinen-offer-free-US-shipping---id--1b50Cl_wSuiEqf4NUNMMOQ
+    - text: Fast, free shipping on orders $100 or more.
+  - link:
+    - /url: https://www.brooklinen.com/collections/holiday-gift-guide
+    - text: The Gift Guide is HERE! Shop presents they’ll actually want.
+  - link:
+    - /url: https://www.brooklinen.com/collections/dreamweave-waffle
+    - text: Sold Out Dreamweave Waffle is back in new colors & patterns for bed & bath.
+  - group "3 of 3":
+    - link "Fast, free shipping on orders $100 or more.":
+      - /url: https://www.brooklinen.com/pages/faq?a=Does-Brooklinen-offer-free-US-shipping---id--1b50Cl_wSuiEqf4NUNMMOQ
+  - link:
+    - /url: https://www.brooklinen.com/collections/holiday-gift-guide
+    - text: The Gift Guide is HERE! Shop presents they’ll actually want.
+  - link:
+    - /url: https://www.brooklinen.com/collections/dreamweave-waffle
+    - text: Sold Out Dreamweave Waffle is back in new colors & patterns for bed & bath.
+- button:
+- banner:
+  - link "Brooklinen":
+    - /url: /
+    - img "Brooklinen"
+  - navigation:
+    - list:
+      - link "Gift Guide":
+        - /url: https://www.brooklinen.com/collections/holiday-gift-guide
+      - link "Sheets":
+        - /url: /collections/all-sheets
+      - link "Bed":
+        - /url: /pages/all-bed
+      - link "Bath":
+        - /url: /pages/all-bath
+      - link "Bundle Savings":
+        - /url: /pages/all-bundles
+      - link "Home":
+        - /url: https://www.brooklinen.com/collections/home-accessories
+      - link "New & Trending":
+        - /url: /collections/new-arrivals
+      - link "Sale":
+        - /url: /collections/last-call
+  - button "Search":
+    - img "search"
+    - generic: Search ...
+  - button "account":
+    - img "account"
+  - button "cart modal trigger":
+    - img "bag"
+- button:
+- heading [level=4]: Your cart is empty
+- link:
+  - /url: /
+  - text: Go to Homepage
+- link:
+  - /url: /collections/best-sellers
+  - text: Shop Best Sellers
+- button:
+- button [disabled]
+- button:
+- button:
+  - text: Free shipping on orders $100+*
+- list:
+  - button: Gift Guide
+  - button: Sheets
+  - button: Bed
+  - button: Bath
+  - button: Bundle Savings
+  - button: Home
+  - button: New & Trending
+  - link:
+    - /url: /collections/last-call
+    - text: Sale
+- list:
+  - link:
+    - /url: /pages/our-stores
+    - text: Our Stores
+  - link:
+    - /url: /pages/reviews
+    - text: Reviews
+  - link:
+    - /url: /pages/about
+    - text: About
+  - link:
+    - /url: /account/login
+    - text: Login
+- main:
+  - article:
+    - img "Rated 5 stars out of 5 by over 100,000 customers"
+    - paragraph: 175,000+ 5-Star Reviews | Best in Bed
+  - navigation "breadcrumbs":
+    - link "Home":
+      - /url: /
+    - generic: /
+    - link "All Bed":
+      - /url: /pages/all-bed
+    - generic: /
+    - link "All Bundles":
+      - /url: /pages/all-bundles
+  - heading "Bundle Savings" [level=1]
+  - paragraph: Mix. Match. Save. Sleep. Make your bed by bundling your favorite colors and patterns now.
+  - button "Previous slide" [disabled]:
+    - img "arrow icon"
+  - button "Next slide":
+    - img "arrow icon"
+  - tabpanel "1 of 6":
+    - paragraph: Best Seller
+    - paragraph: Hardcore Sheet Bundles
+    - paragraph:
+      - text: "Bundle savings:"
+      - generic: Up to 15% off
+    - paragraph: Includes 1 Fitted Sheet, 1 Flat Sheet, 1 Duvet Cover, and 4 Pillowcases
+    - paragraph:
+      - text: Shop Now
+      - img "union"
+  - tabpanel "2 of 6":
+    - paragraph
+    - paragraph: Duvet & Quilt Sets
+    - paragraph:
+      - text: "Bundle savings:"
+      - generic: Up to 10% off
+    - paragraph: Includes 1 Duvet Cover and 2 Pillowcases
+    - paragraph:
+      - text: Shop Now
+      - img "union"
+  - tabpanel "3 of 6":
+    - paragraph
+    - paragraph: Starter Bundles
+    - paragraph:
+      - text: "Bundle savings:"
+      - generic: Up to 15% off
+    - paragraph: Includes 1 Sheet Set and 1 Bed Blanket
+    - paragraph:
+      - text: Shop Now
+      - img "union"
+  - tabpanel "4 of 6":
+    - paragraph
+    - paragraph: Move-In Bundles
+    - paragraph:
+      - text: "Bundle savings:"
+      - generic: Up to 10% off
+    - paragraph: Includes 1 Fitted Sheet, 1 Flat Sheet, 1 Duvet Cover, 4 Pillowcases, 1 Comforter, and 2 Pillows
+    - paragraph:
+      - text: Shop Now
+      - img "union"
+  - tabpanel:
+    - paragraph: Core Sheet Sets
+    - paragraph:
+      - text: "Bundle savings:"
+      - generic: Up to 10% off
+    - paragraph: Includes 1 Fitted Sheet, 1 Flat Sheet, and 2 Pillowcases
+    - paragraph:
+      - text: Shop Now
+  - tabpanel:
+    - paragraph: Bath Bundles
+    - paragraph:
+      - text: "Bundle savings:"
+      - generic: Up to 10% off
+    - paragraph: Includes 2 Bath Towels and 2 Hand Towels
+    - paragraph:
+      - text: Shop Now
+  - heading "Hardcore Sheet Bundles" [level=2]
+  - paragraph: Includes 1 Fitted Sheet, 1 Flat Sheet, 1 Duvet Cover, and 4 Pillowcases
+  - region:
+    - group "1 of 8":
+      - link:
+        - /url: /products/luxe-hardcore-sheet-bundle?variant=67631660400730
+        - generic: Softest
+      - link "sparkle BUNDLE SAVINGS Luxe Sateen Hardcore Sheet Bundle":
+        - /url: /products/luxe-hardcore-sheet-bundle?variant=67631660400730
+        - paragraph:
+          - img "sparkle"
+          - text: BUNDLE SAVINGS
+        - paragraph: Luxe Sateen Hardcore Sheet Bundle
+      - 'link "From: $407 $284 30% off star star star star star star star star star star (24,654)"':
+        - /url: /products/luxe-hardcore-sheet-bundle?variant=67631660400730
+        - paragraph:
+          - text: "From: $407"
+          - generic: $284
+        - generic: 30% off
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - paragraph: (24,654)
+      - generic "Luxe Sateen Hardcore Sheet Bundle":
+        - button "bookend-arrow" [disabled]:
+          - img "bookend-arrow"
+        - region:
+          - group "1 of 27":
+            - 'button "Color: White"'
+          - group "2 of 27":
+            - 'button "Color: Cream"'
+          - group "3 of 27":
+            - 'button "Color: Pebble"'
+          - group "4 of 27":
+            - 'button "Color: Tandem Stripe in Pebble"'
+          - group "5 of 27":
+            - 'button "Color: Oak"'
+          - group "6 of 27":
+            - 'button "Color: Cloud"'
+          - group "7 of 27":
+            - 'button "Color: Slate"'
+          - group "8 of 27":
+            - 'button "Color: Frost"'
+          - group "9 of 27":
+            - 'button "Color: Tandem Stripe in Frost"'
+          - group "10 of 27":
+            - 'button "Color: Calm Waters in Frost"'
+          - group "11 of 27":
+            - 'button "Color: Storm"'
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+        - button "bookend-arrow":
+          - img "bookend-arrow"
+    - group "2 of 8":
+      - link:
+        - /url: /products/classic-hardcore-sheet-bundle?variant=43658547429466
+        - generic: Cooling
+      - link "sparkle BUNDLE SAVINGS Classic Percale Hardcore Sheet Bundle":
+        - /url: /products/classic-hardcore-sheet-bundle?variant=43658547429466
+        - paragraph:
+          - img "sparkle"
+          - text: BUNDLE SAVINGS
+        - paragraph: Classic Percale Hardcore Sheet Bundle
+      - 'link "From: $387 $270 30% off star star star star star star star star star star (18,733)"':
+        - /url: /products/classic-hardcore-sheet-bundle?variant=43658547429466
+        - paragraph:
+          - text: "From: $387"
+          - generic: $270
+        - generic: 30% off
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - paragraph: (18,733)
+      - generic "Classic Percale Hardcore Sheet Bundle":
+        - button "bookend-arrow" [disabled]:
+          - img "bookend-arrow"
+        - region:
+          - group "1 of 32":
+            - 'button "Color: Solid White"'
+          - group "2 of 32":
+            - 'button "Color: Cream"'
+          - group "3 of 32":
+            - 'button "Color: Cloud"'
+          - group "4 of 32":
+            - 'button "Color: Frost"'
+          - group "5 of 32":
+            - 'button "Color: Tandem Stripe in Frost"'
+          - group "6 of 32":
+            - 'button "Color: Pebble"'
+          - group "7 of 32":
+            - 'button "Color: Tandem Stripe in Pebble"'
+          - group "8 of 32":
+            - 'button "Color: Tandem Stripe Bundle in Pebble"'
+          - group "9 of 32":
+            - 'button "Color: Oak"'
+          - group "10 of 32":
+            - 'button "Color: Calm Waters in Tonal Fresh Moss"'
+          - group "11 of 32":
+            - 'button "Color: Fresh Moss"'
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+        - button "bookend-arrow":
+          - img "bookend-arrow"
+    - link:
+      - /url: /products/washed-classic-dreamweave-hardcore-bundle?component0=42389497839706
+      - generic: Cooling
+    - link:
+      - /url: /products/washed-classic-dreamweave-hardcore-bundle?component0=42389497839706
+      - paragraph:
+        - text: BUNDLE SAVINGS
+      - paragraph: Washed Classic Percale Dreamweave Hardcore Bundle
+    - link:
+      - /url: /products/washed-classic-dreamweave-hardcore-bundle?component0=42389497839706
+      - paragraph:
+        - text: "From: $606"
+        - generic: $422
+      - generic: 30% off
+      - paragraph: (128)
+    - button [disabled]:
+    - region:
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+    - button:
+    - link:
+      - /url: /products/washed-linen-hardcore-sheet-bundle?variant=44115557351514
+      - generic: Cooling
+    - link:
+      - /url: /products/washed-linen-hardcore-sheet-bundle?variant=44115557351514
+      - paragraph:
+        - text: BUNDLE SAVINGS
+      - paragraph: Washed European Linen Hardcore Sheet Bundle
+    - link:
+      - /url: /products/washed-linen-hardcore-sheet-bundle?variant=44115557351514
+      - paragraph:
+        - text: "From: $797"
+        - generic: $556
+      - generic: 30% off
+      - paragraph: (4,263)
+    - button [disabled]:
+    - region:
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+    - button:
+    - link:
+      - /url: /products/washed-classic-hardcore-sheet-bundle?variant=67631658041434
+      - generic: Cooling
+    - link:
+      - /url: /products/washed-classic-hardcore-sheet-bundle?variant=67631658041434
+      - paragraph:
+        - text: BUNDLE SAVINGS
+      - paragraph: Washed Classic Percale Hardcore Sheet Bundle
+    - link:
+      - /url: /products/washed-classic-hardcore-sheet-bundle?variant=67631658041434
+      - paragraph:
+        - text: "From: $407"
+        - generic: $284
+      - generic: 30% off
+      - paragraph: (128)
+    - button [disabled]:
+    - region:
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+    - button:
+    - link:
+      - /url: /products/luxe-dreamweave-hardcore-bundle?component0=43380386824282
+      - generic: Softest
+    - link:
+      - /url: /products/luxe-dreamweave-hardcore-bundle?component0=43380386824282
+      - paragraph:
+        - text: BUNDLE SAVINGS
+      - paragraph: Luxe Sateen Dreamweave Hardcore Bundle
+    - link:
+      - /url: /products/luxe-dreamweave-hardcore-bundle?component0=43380386824282
+      - paragraph:
+        - text: "From: $606"
+        - generic: $422
+      - generic: 30% off
+      - paragraph: (24,654)
+    - button [disabled]:
+    - region:
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+    - button:
+    - link:
+      - /url: /products/classic-dreamweave-hardcore-bundle?component0=41892701438042
+      - generic: Cooling
+    - link:
+      - /url: /products/classic-dreamweave-hardcore-bundle?component0=41892701438042
+      - paragraph:
+        - text: BUNDLE SAVINGS
+      - paragraph: Classic Percale Dreamweave Hardcore Bundle
+    - link:
+      - /url: /products/classic-dreamweave-hardcore-bundle?component0=41892701438042
+      - paragraph:
+        - text: "From: $586"
+        - generic: $408
+      - generic: 30% off
+      - paragraph: (18,733)
+    - button [disabled]:
+    - region:
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+    - button:
+    - link:
+      - /url: /products/washed-linen-dreamweave-hardcore-bundle?component0=43188860092506
+      - generic: Cooling
+    - link:
+      - /url: /products/washed-linen-dreamweave-hardcore-bundle?component0=43188860092506
+      - paragraph:
+        - text: BUNDLE SAVINGS
+      - paragraph: Washed European Linen Dreamweave Hardcore Bundle
+    - link:
+      - /url: /products/washed-linen-dreamweave-hardcore-bundle?component0=43188860092506
+      - paragraph:
+        - text: "From: $996"
+        - generic: $694
+      - generic: 30% off
+      - paragraph: (4,263)
+    - region:
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+    - button "Previous slide" [disabled]:
+      - img "splide-arrow"
+    - button "Next slide":
+      - img "splide-arrow"
+  - heading "Duvet & Quilt Sets" [level=2]
+  - paragraph: Includes 1 Duvet Cover or Quilt and 2 Pillowcases or Shams
+  - region:
+    - group "1 of 15":
+      - link:
+        - /url: /products/luxe-duvet-set?variant=67631654862938
+        - generic: Softest
+      - link "sparkle BUNDLE SAVINGS Luxe Sateen Duvet Set":
+        - /url: /products/luxe-duvet-set?variant=67631654862938
+        - paragraph:
+          - img "sparkle"
+          - text: BUNDLE SAVINGS
+        - paragraph: Luxe Sateen Duvet Set
+      - 'link "From: $238 $178 25% off star star star star star star star star star star (9,191)"':
+        - /url: /products/luxe-duvet-set?variant=67631654862938
+        - paragraph:
+          - text: "From: $238"
+          - generic: $178
+        - generic: 25% off
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - paragraph: (9,191)
+      - generic "Luxe Sateen Duvet Set":
+        - button "bookend-arrow" [disabled]:
+          - img "bookend-arrow"
+        - region:
+          - group "1 of 26":
+            - 'button "Color: White"'
+          - group "2 of 26":
+            - 'button "Color: Cream"'
+          - group "3 of 26":
+            - 'button "Color: Pebble"'
+          - group "4 of 26":
+            - 'button "Color: Tandem Stripe in Pebble"'
+          - group "5 of 26":
+            - 'button "Color: Oak"'
+          - group "6 of 26":
+            - 'button "Color: Cloud"'
+          - group "7 of 26":
+            - 'button "Color: Slate"'
+          - group "8 of 26":
+            - 'button "Color: Frost"'
+          - group "9 of 26":
+            - 'button "Color: Tandem Stripe in Frost"'
+          - group "10 of 26":
+            - 'button "Color: Calm Waters in Frost"'
+          - group "11 of 26":
+            - 'button "Color: Storm"'
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+        - button "bookend-arrow":
+          - img "bookend-arrow"
+    - group "2 of 15":
+      - link:
+        - /url: /products/classic-duvet-set?variant=67631656763482
+        - generic: Best Seller
+      - link "sparkle BUNDLE SAVINGS Classic Percale Duvet Set":
+        - /url: /products/classic-duvet-set?variant=67631656763482
+        - paragraph:
+          - img "sparkle"
+          - text: BUNDLE SAVINGS
+        - paragraph: Classic Percale Duvet Set
+      - 'link "From: $228 $171 25% off star star star star star star star star star star (7,234)"':
+        - /url: /products/classic-duvet-set?variant=67631656763482
+        - paragraph:
+          - text: "From: $228"
+          - generic: $171
+        - generic: 25% off
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - paragraph: (7,234)
+      - generic "Classic Percale Duvet Set":
+        - button "bookend-arrow" [disabled]:
+          - img "bookend-arrow"
+        - region:
+          - group "1 of 32":
+            - 'button "Color: Solid White"'
+          - group "2 of 32":
+            - 'button "Color: Cream"'
+          - group "3 of 32":
+            - 'button "Color: Pebble"'
+          - group "4 of 32":
+            - 'button "Color: Tandem Stripe in Pebble"'
+          - group "5 of 32":
+            - 'button "Color: Fresh Moss"'
+          - group "6 of 32":
+            - 'button "Color: Tandem Stripe in Fresh Moss"'
+          - group "7 of 32":
+            - 'button "Color: Calm Waters in Tonal Fresh Moss"'
+          - group "8 of 32":
+            - 'button "Color: Cloud"'
+          - group "9 of 32":
+            - 'button "Color: Storm"'
+          - group "10 of 32":
+            - 'button "Color: Tandem Stripe in Storm"'
+          - group "11 of 32":
+            - 'button "Color: Slate"'
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+        - button "bookend-arrow":
+          - img "bookend-arrow"
+    - link:
+      - /url: /products/woven-checkerboard-duvet-set?variant=43858021253210
+    - link:
+      - /url: /products/woven-checkerboard-duvet-set?variant=43858021253210
+      - paragraph:
+        - text: BUNDLE SAVINGS
+      - paragraph: Woven Checkerboard Duvet Set
+    - link:
+      - /url: /products/woven-checkerboard-duvet-set?variant=43858021253210
+      - paragraph:
+        - text: "From: $358"
+        - generic: $268
+      - generic: 25% off
+      - paragraph: (50)
+    - region:
+      - button
+      - button
+      - button
+    - link:
+      - /url: /products/washed-linen-duvet-set?variant=41807615361114
+      - generic: Cooling
+    - link:
+      - /url: /products/washed-linen-duvet-set?variant=41807615361114
+      - paragraph:
+        - text: BUNDLE SAVINGS
+      - paragraph: Washed European Linen Duvet Set
+    - link:
+      - /url: /products/washed-linen-duvet-set?variant=41807615361114
+      - paragraph:
+        - text: "From: $428"
+        - generic: $320
+      - generic: 25% off
+      - paragraph: (2,290)
+    - button [disabled]:
+    - region:
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+    - button:
+    - link:
+      - /url: /products/washed-classic-duvet-set?variant=67631651192922
+    - link:
+      - /url: /products/washed-classic-duvet-set?variant=67631651192922
+      - paragraph:
+        - text: BUNDLE SAVINGS
+      - paragraph: Washed Classic Percale Duvet Set
+    - link:
+      - /url: /products/washed-classic-duvet-set?variant=67631651192922
+      - paragraph:
+        - text: "From: $238"
+        - generic: $178
+      - generic: 25% off
+      - paragraph: (53)
+    - button [disabled]:
+    - region:
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+    - button:
+    - link:
+      - /url: /products/modern-heritage-quilt-set?variant=44105072935002
+      - generic: New
+    - link:
+      - /url: /products/modern-heritage-quilt-set?variant=44105072935002
+      - paragraph:
+        - text: BUNDLE SAVINGS
+      - paragraph: Modern Heritage Quilt Set
+    - link:
+      - /url: /products/modern-heritage-quilt-set?variant=44105072935002
+      - paragraph:
+        - text: "From: $358"
+        - generic: $268
+      - generic: 25% off
+    - region:
+      - button
+      - button
+    - link:
+      - /url: /products/sunwashed-stripe-duvet-set?variant=43244086689882
+    - link:
+      - /url: /products/sunwashed-stripe-duvet-set?variant=43244086689882
+      - paragraph:
+        - text: BUNDLE SAVINGS
+      - paragraph: Sunwashed Stripe Duvet Set
+    - link:
+      - /url: /products/sunwashed-stripe-duvet-set?variant=43244086689882
+      - paragraph:
+        - text: "From: $338"
+        - generic: $253
+      - generic: 25% off
+    - region:
+      - button
+    - link:
+      - /url: /products/micro-waffle-duvet-set?variant=41443588833370
+    - link:
+      - /url: /products/micro-waffle-duvet-set?variant=41443588833370
+      - paragraph:
+        - text: BUNDLE SAVINGS
+      - paragraph: Micro Waffle Duvet Set
+    - link:
+      - /url: /products/micro-waffle-duvet-set?variant=41443588833370
+      - paragraph:
+        - text: "From: $338"
+        - generic: $253
+      - generic: 25% off
+      - paragraph: (42)
+    - region:
+      - button
+      - button
+      - button
+    - link:
+      - /url: /products/weekend-wash-quilt-set?variant=43858021351514
+    - link:
+      - /url: /products/weekend-wash-quilt-set?variant=43858021351514
+      - paragraph:
+        - text: BUNDLE SAVINGS
+      - paragraph: Weekend Wash Quilt Set
+    - link:
+      - /url: /products/weekend-wash-quilt-set?variant=43858021351514
+      - paragraph:
+        - text: "From: $288"
+        - generic: $215
+      - generic: 25% off
+      - paragraph: (147)
+    - button [disabled]:
+    - region:
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+    - button:
+    - link:
+      - /url: /products/washed-velvet-quilt-set?variant=43915983814746
+      - generic: New
+    - link:
+      - /url: /products/washed-velvet-quilt-set?variant=43915983814746
+      - paragraph:
+        - text: BUNDLE SAVINGS
+      - paragraph: Washed Velvet Quilt Set
+    - link:
+      - /url: /products/washed-velvet-quilt-set?variant=43915983814746
+      - paragraph:
+        - text: "From: $388"
+        - generic: $290
+      - generic: 25% off
+    - region:
+      - button
+      - button
+      - button
+      - button
+      - button
+    - link:
+      - /url: /products/pop-check-duvet-set?variant=43916489195610
+      - generic: New
+    - link:
+      - /url: /products/pop-check-duvet-set?variant=43916489195610
+      - paragraph:
+        - text: BUNDLE SAVINGS
+      - paragraph: Pop Check Duvet Set
+    - link:
+      - /url: /products/pop-check-duvet-set?variant=43916489195610
+      - paragraph:
+        - text: "From: $338"
+        - generic: $253
+      - generic: 25% off
+    - region:
+      - button
+      - button
+    - link:
+      - /url: /products/washed-linen-quilt-set?variant=41807613427802
+      - generic: Cooling
+    - link:
+      - /url: /products/washed-linen-quilt-set?variant=41807613427802
+      - paragraph:
+        - text: BUNDLE SAVINGS
+      - paragraph: Washed European Linen Quilt Set
+    - link:
+      - /url: /products/washed-linen-quilt-set?variant=41807613427802
+      - paragraph:
+        - text: "From: $378"
+        - generic: $283
+      - generic: 25% off
+      - paragraph: (50)
+    - region:
+      - button
+      - button
+      - button
+      - button
+      - button
+    - link:
+      - /url: /products/ribbed-matelasse-quilt-set?variant=42141978034266
+    - link:
+      - /url: /products/ribbed-matelasse-quilt-set?variant=42141978034266
+      - paragraph:
+        - text: BUNDLE SAVINGS
+      - paragraph: Ribbed Matelasse Quilt Set
+    - link:
+      - /url: /products/ribbed-matelasse-quilt-set?variant=42141978034266
+      - paragraph:
+        - text: "From: $348"
+        - generic: $260
+      - generic: 25% off
+      - paragraph: (74)
+    - region:
+      - button
+      - button
+      - button
+    - link:
+      - /url: /products/heathered-cashmere-duvet-set?variant=40299489099866
+    - link:
+      - /url: /products/heathered-cashmere-duvet-set?variant=40299489099866
+      - paragraph:
+        - text: BUNDLE SAVINGS
+      - paragraph: Heathered Cashmere Duvet Set
+    - link:
+      - /url: /products/heathered-cashmere-duvet-set?variant=40299489099866
+      - paragraph:
+        - text: "From: $378"
+        - generic: $283
+      - generic: 25% off
+      - paragraph: (349)
+    - region:
+      - button
+      - button
+      - button
+      - button
+      - button
+    - link:
+      - /url: /products/flannel-duvet-set?variant=41274956873818
+    - link:
+      - /url: /products/flannel-duvet-set?variant=41274956873818
+      - paragraph:
+        - text: BUNDLE SAVINGS
+      - paragraph: Brushed Flannel Duvet Set
+    - link:
+      - /url: /products/flannel-duvet-set?variant=41274956873818
+      - paragraph:
+        - text: "From: $248"
+        - generic: $186
+      - generic: 25% off
+      - paragraph: (126)
+    - region:
+      - button
+      - button
+      - button
+    - button "Previous slide" [disabled]:
+      - img "splide-arrow"
+    - button "Next slide":
+      - img "splide-arrow"
+  - paragraph: Your Destination for Gifts They Actually Want
+  - link "Shop Our Gift Guide":
+    - /url: https://www.brooklinen.com/collections/holiday-gift-guide
+  - heading "Starter Bundles" [level=2]
+  - paragraph: Includes 1 Sheet Set and 1 Bed Blanket
+  - region:
+    - group "1 of 6":
+      - link:
+        - /url: /products/classic-dreamweave-starter-bundle?component0=44898411806810
+        - generic: Cooling
+      - link "sparkle BUNDLE SAVINGS Classic Percale Dreamweave Starter Bundle":
+        - /url: /products/classic-dreamweave-starter-bundle?component0=44898411806810
+        - paragraph:
+          - img "sparkle"
+          - text: BUNDLE SAVINGS
+        - paragraph: Classic Percale Dreamweave Starter Bundle
+      - 'link "From: $358 $268 25% off star star star star star star star star star star (18,733)"':
+        - /url: /products/classic-dreamweave-starter-bundle?component0=44898411806810
+        - paragraph:
+          - text: "From: $358"
+          - generic: $268
+        - generic: 25% off
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - paragraph: (18,733)
+      - generic "Classic Percale Dreamweave Starter Bundle":
+        - button "bookend-arrow" [disabled]:
+          - img "bookend-arrow"
+        - region:
+          - group "1 of 29":
+            - 'button "Color: Solid White"'
+          - group "2 of 29":
+            - 'button "Color: Cream"'
+          - group "3 of 29":
+            - 'button "Color: Pebble"'
+          - group "4 of 29":
+            - 'button "Color: Tandem Stripe in Pebble"'
+          - group "5 of 29":
+            - 'button "Color: Fresh Moss"'
+          - group "6 of 29":
+            - 'button "Color: Tandem Stripe in Fresh Moss"'
+          - group "7 of 29":
+            - 'button "Color: Storm"'
+          - group "8 of 29":
+            - 'button "Color: Tandem Stripe in Storm"'
+          - group "9 of 29":
+            - 'button "Color: Slate"'
+          - group "10 of 29":
+            - 'button "Color: Window Pane"'
+          - group "11 of 29":
+            - 'button "Color: Abyss"'
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+        - button "bookend-arrow":
+          - img "bookend-arrow"
+    - group "2 of 6":
+      - link:
+        - /url: /products/luxe-dreamweave-starter-bundle?component0=43380362346586
+        - generic: Softest
+      - link "sparkle BUNDLE SAVINGS Luxe Sateen Dreamweave Starter Bundle":
+        - /url: /products/luxe-dreamweave-starter-bundle?component0=43380362346586
+        - paragraph:
+          - img "sparkle"
+          - text: BUNDLE SAVINGS
+        - paragraph: Luxe Sateen Dreamweave Starter Bundle
+      - 'link "From: $368 $275 25% off star star star star star star star star star star (24,654)"':
+        - /url: /products/luxe-dreamweave-starter-bundle?component0=43380362346586
+        - paragraph:
+          - text: "From: $368"
+          - generic: $275
+        - generic: 25% off
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - paragraph: (24,654)
+      - generic "Luxe Sateen Dreamweave Starter Bundle":
+        - button "bookend-arrow" [disabled]:
+          - img "bookend-arrow"
+        - region:
+          - group "1 of 30":
+            - 'button "Color: White"'
+          - group "2 of 30":
+            - 'button "Color: Cream"'
+          - group "3 of 30":
+            - 'button "Color: Pebble"'
+          - group "4 of 30":
+            - 'button "Color: Tandem Stripe in Pebble"'
+          - group "5 of 30":
+            - 'button "Color: Oyster in Pebble"'
+          - group "6 of 30":
+            - 'button "Color: Oak"'
+          - group "7 of 30":
+            - 'button "Color: Cloud"'
+          - group "8 of 30":
+            - 'button "Color: Slate"'
+          - group "9 of 30":
+            - 'button "Color: Frost"'
+          - group "10 of 30":
+            - 'button "Color: Calm Waters in Frost"'
+          - group "11 of 30":
+            - 'button "Color: Storm"'
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+        - button "bookend-arrow":
+          - img "bookend-arrow"
+    - link:
+      - /url: /products/washed-linen-dreamweave-starter-bundle?component0=41907194429530
+      - generic: Cooling
+    - link:
+      - /url: /products/washed-linen-dreamweave-starter-bundle?component0=41907194429530
+      - paragraph:
+        - text: BUNDLE SAVINGS
+      - paragraph: Washed European Linen Dreamweave Starter Bundle
+    - link:
+      - /url: /products/washed-linen-dreamweave-starter-bundle?component0=41907194429530
+      - paragraph:
+        - text: "From: $538"
+        - generic: $402
+      - generic: 25% off
+      - paragraph: (4,263)
+    - region:
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+    - link:
+      - /url: /products/washed-classic-dreamweave-starter-bundle?component0=42389495906394
+      - generic: Cooling
+    - link:
+      - /url: /products/washed-classic-dreamweave-starter-bundle?component0=42389495906394
+      - paragraph:
+        - text: BUNDLE SAVINGS
+      - paragraph: Washed Classic Percale Dreamweave Starter Bundle
+    - link:
+      - /url: /products/washed-classic-dreamweave-starter-bundle?component0=42389495906394
+      - paragraph:
+        - text: "From: $368"
+        - generic: $275
+      - generic: 25% off
+      - paragraph: (128)
+    - button [disabled]:
+    - region:
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+    - button:
+    - link:
+      - /url: /products/luxe-no-flat-sheet-set-bundle?variant=43380368605274
+      - generic: Softest
+    - link:
+      - /url: /products/luxe-no-flat-sheet-set-bundle?variant=43380368605274
+      - paragraph:
+        - text: BUNDLE SAVINGS
+      - paragraph: Luxe Sateen No Flat Sheet Set Bundle
+    - link:
+      - /url: /products/luxe-no-flat-sheet-set-bundle?variant=43380368605274
+      - paragraph:
+        - text: "From: $138"
+        - generic: $103
+      - generic: 25% off
+      - paragraph: (2,558)
+    - region:
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+    - link:
+      - /url: /products/classic-no-flat-sheet-set-bundle?variant=42806594142298
+      - generic: Cooling
+    - link:
+      - /url: /products/classic-no-flat-sheet-set-bundle?variant=42806594142298
+      - paragraph:
+        - text: BUNDLE SAVINGS
+      - paragraph: Classic Percale No Flat Sheet Set Bundle
+    - link:
+      - /url: /products/classic-no-flat-sheet-set-bundle?variant=42806594142298
+      - paragraph:
+        - text: "From: $128"
+        - generic: $96
+      - generic: 25% off
+      - paragraph: (2,593)
+    - region:
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+    - button "Previous slide" [disabled]:
+      - img "splide-arrow"
+    - button "Next slide":
+      - img "splide-arrow"
+  - heading "Core Sheet Sets" [level=2]
+  - paragraph: Includes 1 Fitted Sheet, 1 Flat Sheet, and 2 Pillowcases
+  - region:
+    - group "1 of 10":
+      - link:
+        - /url: /products/luxe-core-sheet-set?variant=43857956208730
+        - generic: Best Seller
+      - button "qv-plus Quick View":
+        - img "qv-plus"
+        - generic: Quick View
+      - link "Luxe Sateen Core Sheet Set":
+        - /url: /products/luxe-core-sheet-set?variant=43857956208730
+        - paragraph: Luxe Sateen Core Sheet Set
+      - 'link "From: $169 $144 15% off star star star star star star star star star star (24,654)"':
+        - /url: /products/luxe-core-sheet-set?variant=43857956208730
+        - paragraph:
+          - text: "From: $169"
+          - generic: $144
+        - generic: 15% off
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - paragraph: (24,654)
+      - generic "Luxe Sateen Core Sheet Set":
+        - button "bookend-arrow" [disabled]:
+          - img "bookend-arrow"
+        - region:
+          - group "1 of 29":
+            - 'button "Color: White"'
+          - group "2 of 29":
+            - 'button "Color: Cloud"'
+          - group "3 of 29":
+            - 'button "Color: Cream"'
+          - group "4 of 29":
+            - 'button "Color: Pebble"'
+          - group "5 of 29":
+            - 'button "Color: Tandem Stripe in Pebble"'
+          - group "6 of 29":
+            - 'button "Color: Oak"'
+          - group "7 of 29":
+            - 'button "Color: Frost"'
+          - group "8 of 29":
+            - 'button "Color: Tandem Stripe in Frost"'
+          - group "9 of 29":
+            - 'button "Color: Calm Waters in Frost"'
+          - group "10 of 29":
+            - 'button "Color: Storm"'
+          - group "11 of 29":
+            - 'button "Color: Tandem Stripe in Storm"'
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+        - button "bookend-arrow":
+          - img "bookend-arrow"
+    - group "2 of 10":
+      - link:
+        - /url: /products/classic-core-sheet-set?variant=67631803334746
+        - generic: Best Seller
+      - button "qv-plus Quick View":
+        - img "qv-plus"
+        - generic: Quick View
+      - link "Classic Percale Core Sheet Set":
+        - /url: /products/classic-core-sheet-set?variant=67631803334746
+        - paragraph: Classic Percale Core Sheet Set
+      - 'link "From: $159 $135 15% off star star star star star star star star star star (18,733)"':
+        - /url: /products/classic-core-sheet-set?variant=67631803334746
+        - paragraph:
+          - text: "From: $159"
+          - generic: $135
+        - generic: 15% off
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - paragraph: (18,733)
+      - generic "Classic Percale Core Sheet Set":
+        - button "bookend-arrow" [disabled]:
+          - img "bookend-arrow"
+        - region:
+          - group "1 of 29":
+            - 'button "Color: Solid White"'
+          - group "2 of 29":
+            - 'button "Color: Cream"'
+          - group "3 of 29":
+            - 'button "Color: Pebble"'
+          - group "4 of 29":
+            - 'button "Color: Tandem Stripe in Pebble"'
+          - group "5 of 29":
+            - 'button "Color: Fresh Moss"'
+          - group "6 of 29":
+            - 'button "Color: Tandem Stripe in Fresh Moss"'
+          - group "7 of 29":
+            - 'button "Color: Calm Waters in Tonal Fresh Moss"'
+          - group "8 of 29":
+            - 'button "Color: Storm"'
+          - group "9 of 29":
+            - 'button "Color: Tandem Stripe in Storm"'
+          - group "10 of 29":
+            - 'button "Color: Slate"'
+          - group "11 of 29":
+            - 'button "Color: Abyss"'
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+        - button "bookend-arrow":
+          - img "bookend-arrow"
+    - link:
+      - /url: /products/washed-classic-core-sheet-set?variant=67631801761882
+      - generic: Best Seller
+    - button:
+      - generic: Quick View
+    - link:
+      - /url: /products/washed-classic-core-sheet-set?variant=67631801761882
+      - paragraph: Washed Classic Percale Core Sheet Set
+    - link:
+      - /url: /products/washed-classic-core-sheet-set?variant=67631801761882
+      - paragraph:
+        - text: "From: $169"
+        - generic: $144
+      - generic: 15% off
+      - paragraph: (128)
+    - button [disabled]:
+    - region:
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+    - button:
+    - link:
+      - /url: /products/set-of-2-luxe-sateen-core-sheet-set-bundle?variant=43380390985818
+      - generic: Softest
+    - link:
+      - /url: /products/set-of-2-luxe-sateen-core-sheet-set-bundle?variant=43380390985818
+      - paragraph:
+        - text: BUNDLE SAVINGS
+      - paragraph: Set of 2 Luxe Sateen Core Sheet Set Bundle
+    - link:
+      - /url: /products/set-of-2-luxe-sateen-core-sheet-set-bundle?variant=43380390985818
+      - paragraph:
+        - text: "From: $338"
+        - generic: $253
+      - generic: 25% off
+      - paragraph: (24,654)
+    - button [disabled]:
+    - region:
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+    - button:
+    - link:
+      - /url: /products/set-of-2-classic-percale-core-sheet-set-bundle?variant=43444511277146
+      - generic: Cooling
+    - link:
+      - /url: /products/set-of-2-classic-percale-core-sheet-set-bundle?variant=43444511277146
+      - paragraph:
+        - text: BUNDLE SAVINGS
+      - paragraph: Set of 2 Classic Percale Core Sheet Set Bundle
+    - link:
+      - /url: /products/set-of-2-classic-percale-core-sheet-set-bundle?variant=43444511277146
+      - paragraph:
+        - text: "From: $318"
+        - generic: $238
+      - generic: 25% off
+      - paragraph: (18,733)
+    - button [disabled]:
+    - region:
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+    - button:
+    - link:
+      - /url: /products/washed-linen-core-sheet-set?variant=43658537926746
+      - generic: Cooling
+    - button:
+      - generic: Quick View
+    - link:
+      - /url: /products/washed-linen-core-sheet-set?variant=43658537926746
+      - paragraph: Washed European Linen Core Sheet Set
+    - link:
+      - /url: /products/washed-linen-core-sheet-set?variant=43658537926746
+      - paragraph:
+        - text: "From: $369"
+        - generic: $314
+      - generic: 15% off
+      - paragraph: (4,263)
+    - button [disabled]:
+    - region:
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+    - button:
+    - link:
+      - /url: /products/set-of-2-washed-classic-percale-core-sheet-set-bundle?variant=43482523304026
+      - generic: Cooling
+    - link:
+      - /url: /products/set-of-2-washed-classic-percale-core-sheet-set-bundle?variant=43482523304026
+      - paragraph:
+        - text: BUNDLE SAVINGS
+      - paragraph: Set of 2 Washed Classic Percale Core Sheet Set Bundle
+    - link:
+      - /url: /products/set-of-2-washed-classic-percale-core-sheet-set-bundle?variant=43482523304026
+      - paragraph:
+        - text: "From: $338"
+        - generic: $253
+      - generic: 25% off
+    - button [disabled]:
+    - region:
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+    - button:
+    - link:
+      - /url: /products/set-of-2-washed-european-linen-core-sheet-set-bundle?variant=43358641127514
+      - generic: Cooling
+    - link:
+      - /url: /products/set-of-2-washed-european-linen-core-sheet-set-bundle?variant=43358641127514
+      - paragraph:
+        - text: BUNDLE SAVINGS
+      - paragraph: Set of 2 Washed European Linen Core Sheet Set Bundle
+    - link:
+      - /url: /products/set-of-2-washed-european-linen-core-sheet-set-bundle?variant=43358641127514
+      - paragraph:
+        - text: "From: $738"
+        - generic: $552
+      - generic: 25% off
+      - paragraph: (4,263)
+    - button [disabled]:
+    - region:
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+    - button:
+    - link:
+      - /url: /products/flannel-core-sheet-set?variant=40296534835290
+    - button:
+      - generic: Quick View
+    - link:
+      - /url: /products/flannel-core-sheet-set?variant=40296534835290
+      - paragraph: Brushed Flannel Core Sheet Set
+    - link:
+      - /url: /products/flannel-core-sheet-set?variant=40296534835290
+      - paragraph:
+        - text: "From: $179"
+        - generic: $152
+      - generic: 15% off
+      - paragraph: (401)
+    - region:
+      - button
+      - button
+      - button
+    - link:
+      - /url: /products/heathered-cashmere-core-sheet-set?variant=31687474446426
+    - button:
+      - generic: Quick View
+    - link:
+      - /url: /products/heathered-cashmere-core-sheet-set?variant=31687474446426
+      - paragraph: Heathered Cashmere Core Sheet Set
+    - link:
+      - /url: /products/heathered-cashmere-core-sheet-set?variant=31687474446426
+      - paragraph:
+        - text: "From: $325"
+        - generic: $276
+      - generic: 15% off
+      - paragraph: (747)
+    - region:
+      - button
+      - button
+      - button
+      - button
+      - button
+    - button "Previous slide" [disabled]:
+      - img "splide-arrow"
+    - button "Next slide":
+      - img "splide-arrow"
+  - heading "Comforter Sets" [level=2]
+  - paragraph: Includes 1 Comforter and 2 Shams
+  - region:
+    - group "1 of 4":
+      - link:
+        - /url: /products/washed-classic-comforter-set?variant=67631654568026
+        - generic: Cooling
+      - link "sparkle BUNDLE SAVINGS Washed Classic Percale Comforter Set":
+        - /url: /products/washed-classic-comforter-set?variant=67631654568026
+        - paragraph:
+          - img "sparkle"
+          - text: BUNDLE SAVINGS
+        - paragraph: Washed Classic Percale Comforter Set
+      - 'link "From: $308 $230 25% off star star star star star star star star star star (20)"':
+        - /url: /products/washed-classic-comforter-set?variant=67631654568026
+        - paragraph:
+          - text: "From: $308"
+          - generic: $230
+        - generic: 25% off
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - paragraph: (20)
+      - generic "Washed Classic Percale Comforter Set":
+        - button "bookend-arrow" [disabled]:
+          - img "bookend-arrow"
+        - region:
+          - group "1 of 12":
+            - 'button "Color: Cream"'
+          - group "2 of 12":
+            - 'button "Color: Mist Chambray"'
+          - group "3 of 12":
+            - 'button "Color: Sea Spray Chambray"'
+          - group "4 of 12":
+            - 'button "Color: Apricot Chambray"'
+          - group "5 of 12":
+            - 'button "Color: Cerulean Chambray"'
+          - group "6 of 12":
+            - 'button "Color: Avocado Chambray"'
+          - group "7 of 12":
+            - 'button "Color: Perry Stripe in Bronze"'
+          - group "8 of 12":
+            - 'button "Color: Perry Stripe in Maple"'
+          - group "9 of 12":
+            - 'button "Color: Bridge Check in Frost"'
+          - group "10 of 12":
+            - 'button "Color: Bridge Check in Maple"'
+          - group "11 of 12":
+            - 'button "Color: Winter Tulips in Aegean"'
+          - button
+        - button "bookend-arrow":
+          - img "bookend-arrow"
+    - group "2 of 4":
+      - link:
+        - /url: /products/washed-classic-comforter-set?variant=42711185162330
+        - generic: Cooling
+      - link "sparkle BUNDLE SAVINGS Washed Classic Percale Comforter Set":
+        - /url: /products/washed-classic-comforter-set?variant=42711185162330
+        - paragraph:
+          - img "sparkle"
+          - text: BUNDLE SAVINGS
+        - paragraph: Washed Classic Percale Comforter Set
+      - 'link "From: $308 $230 25% off star star star star star star star star star star (20)"':
+        - /url: /products/washed-classic-comforter-set?variant=42711185162330
+        - paragraph:
+          - text: "From: $308"
+          - generic: $230
+        - generic: 25% off
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - paragraph: (20)
+      - generic "Washed Classic Percale Comforter Set":
+        - button "bookend-arrow" [disabled]:
+          - img "bookend-arrow"
+        - region:
+          - group "1 of 12":
+            - 'button "Color: Cream"'
+          - group "2 of 12":
+            - 'button "Color: Mist Chambray"'
+          - group "3 of 12":
+            - 'button "Color: Sea Spray Chambray"'
+          - group "4 of 12":
+            - 'button "Color: Apricot Chambray"'
+          - group "5 of 12":
+            - 'button "Color: Cerulean Chambray"'
+          - group "6 of 12":
+            - 'button "Color: Avocado Chambray"'
+          - group "7 of 12":
+            - 'button "Color: Perry Stripe in Bronze"'
+          - group "8 of 12":
+            - 'button "Color: Perry Stripe in Maple"'
+          - group "9 of 12":
+            - 'button "Color: Bridge Check in Frost"'
+          - group "10 of 12":
+            - 'button "Color: Bridge Check in Maple"'
+          - group "11 of 12":
+            - 'button "Color: Winter Tulips in Aegean"'
+          - button
+        - button "bookend-arrow":
+          - img "bookend-arrow"
+    - link:
+      - /url: /products/breezeweave-reversible-cotton-comforter-set?variant=42944414187610
+      - generic: Cooling
+    - link:
+      - /url: /products/breezeweave-reversible-cotton-comforter-set?variant=42944414187610
+      - paragraph:
+        - text: BUNDLE SAVINGS
+      - paragraph: Breezeweave Reversible Cotton Comforter Set
+    - link:
+      - /url: /products/breezeweave-reversible-cotton-comforter-set?variant=42944414187610
+      - paragraph:
+        - text: "From: $428"
+        - generic: $320
+      - generic: 25% off
+    - region:
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+    - link:
+      - /url: /products/breezeweave-reversible-cotton-comforter-set?variant=42944413991002
+      - generic: Cooling
+    - link:
+      - /url: /products/breezeweave-reversible-cotton-comforter-set?variant=42944413991002
+      - paragraph:
+        - text: BUNDLE SAVINGS
+      - paragraph: Breezeweave Reversible Cotton Comforter Set
+    - link:
+      - /url: /products/breezeweave-reversible-cotton-comforter-set?variant=42944413991002
+      - paragraph:
+        - text: "From: $428"
+        - generic: $320
+      - generic: 25% off
+    - region:
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+    - button "Previous slide" [disabled]:
+      - img "splide-arrow"
+    - button "Next slide":
+      - img "splide-arrow"
+  - heading "Move-In Bundles" [level=2]
+  - paragraph: Includes 1 Fitted Sheet, 1 Flat Sheet, 1 Duvet Cover, 4 Pillowcases, 1 Comforter, and 2 Pillows
+  - region:
+    - group "1 of 5":
+      - link:
+        - /url: /products/luxe-move-in-bundle?component0=43380364673114
+        - generic: Softest
+      - link "sparkle BUNDLE SAVINGS Luxe Sateen Bedding Move-In Bundle":
+        - /url: /products/luxe-move-in-bundle?component0=43380364673114
+        - paragraph:
+          - img "sparkle"
+          - text: BUNDLE SAVINGS
+        - paragraph: Luxe Sateen Bedding Move-In Bundle
+      - 'link "From: $694 $519 25% off star star star star star star star star star star (24,654)"':
+        - /url: /products/luxe-move-in-bundle?component0=43380364673114
+        - paragraph:
+          - text: "From: $694"
+          - generic: $519
+        - generic: 25% off
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - paragraph: (24,654)
+      - generic "Luxe Sateen Bedding Move-In Bundle":
+        - button "bookend-arrow" [disabled]:
+          - img "bookend-arrow"
+        - region:
+          - group "1 of 16":
+            - 'button "Color: White"'
+          - group "2 of 16":
+            - 'button "Color: Cream"'
+          - group "3 of 16":
+            - 'button "Color: Pebble"'
+          - group "4 of 16":
+            - 'button "Color: Tandem Stripe in Pebble"'
+          - group "5 of 16":
+            - 'button "Color: Oak"'
+          - group "6 of 16":
+            - 'button "Color: Cloud"'
+          - group "7 of 16":
+            - 'button "Color: Slate"'
+          - group "8 of 16":
+            - 'button "Color: Frost"'
+          - group "9 of 16":
+            - 'button "Color: Calm Waters in Frost"'
+          - group "10 of 16":
+            - 'button "Color: Storm"'
+          - group "11 of 16":
+            - 'button "Color: Tandem Stripe in Storm"'
+          - button
+          - button
+          - button
+          - button
+          - button
+        - button "bookend-arrow":
+          - img "bookend-arrow"
+    - group "2 of 5":
+      - link:
+        - /url: /products/classic-move-in-bundle?component0=40521676226650
+        - generic: Cooling
+      - link "sparkle BUNDLE SAVINGS Classic Percale Bedding Move-In Bundle":
+        - /url: /products/classic-move-in-bundle?component0=40521676226650
+        - paragraph:
+          - img "sparkle"
+          - text: BUNDLE SAVINGS
+        - paragraph: Classic Percale Bedding Move-In Bundle
+      - 'link "From: $674 $504 25% off star star star star star star star star star star (18,733)"':
+        - /url: /products/classic-move-in-bundle?component0=40521676226650
+        - paragraph:
+          - text: "From: $674"
+          - generic: $504
+        - generic: 25% off
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - paragraph: (18,733)
+      - generic "Classic Percale Bedding Move-In Bundle":
+        - button "bookend-arrow" [disabled]:
+          - img "bookend-arrow"
+        - region:
+          - group "1 of 13":
+            - 'button "Color: Solid White"'
+          - group "2 of 13":
+            - 'button "Color: Cream"'
+          - group "3 of 13":
+            - 'button "Color: Pebble"'
+          - group "4 of 13":
+            - 'button "Color: Tandem Stripe in Pebble"'
+          - group "5 of 13":
+            - 'button "Color: Fresh Moss"'
+          - group "6 of 13":
+            - 'button "Color: Tandem Stripe in Fresh Moss"'
+          - group "7 of 13":
+            - 'button "Color: Cloud"'
+          - group "8 of 13":
+            - 'button "Color: Storm"'
+          - group "9 of 13":
+            - 'button "Color: Tandem Stripe in Storm"'
+          - group "10 of 13":
+            - 'button "Color: Slate"'
+          - group "11 of 13":
+            - 'button "Color: Aegean"'
+          - button
+          - button
+        - button "bookend-arrow":
+          - img "bookend-arrow"
+    - link:
+      - /url: /products/washed-classic-move-in-bundle?component0=42207445712986
+      - generic: Cooling
+    - link:
+      - /url: /products/washed-classic-move-in-bundle?component0=42207445712986
+      - paragraph:
+        - text: BUNDLE SAVINGS
+      - paragraph: Washed Classic Percale Bedding Move-In Bundle
+    - link:
+      - /url: /products/washed-classic-move-in-bundle?component0=42207445712986
+      - paragraph:
+        - text: "From: $694"
+        - generic: $519
+      - generic: 25% off
+    - region:
+      - button
+      - button
+      - button
+      - button
+      - button
+    - link:
+      - /url: /products/washed-linen-move-in-bundle?component0=41807613886554
+      - generic: Cooling
+    - link:
+      - /url: /products/washed-linen-move-in-bundle?component0=41807613886554
+      - paragraph:
+        - text: BUNDLE SAVINGS
+      - paragraph: Washed European Linen Bedding Move-In Bundle
+    - link:
+      - /url: /products/washed-linen-move-in-bundle?component0=41807613886554
+      - paragraph:
+        - text: "From: $1,084"
+        - generic: $811
+      - generic: 25% off
+      - paragraph: (4,263)
+    - region:
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+    - link:
+      - /url: /products/heathered-cashmere-move-in-bundle?component0=40299489165402
+    - link:
+      - /url: /products/heathered-cashmere-move-in-bundle?component0=40299489165402
+      - paragraph:
+        - text: BUNDLE SAVINGS
+      - paragraph: Heathered Cashmere Bedding Move-In Bundle
+    - link:
+      - /url: /products/heathered-cashmere-move-in-bundle?component0=40299489165402
+      - paragraph:
+        - text: "From: $990"
+        - generic: $741
+      - generic: 25% off
+    - region:
+      - button
+      - button
+      - button
+      - button
+    - button "Previous slide" [disabled]:
+      - img "splide-arrow"
+    - button "Next slide":
+      - img "splide-arrow"
+  - heading "Shop by Fabric" [level=2]
+  - button "Go to last slide":
+    - img "arrow icon"
+  - button "Next slide":
+    - img "arrow icon"
+  - tabpanel:
+    - paragraph: Classic Percale
+    - paragraph: Wonderfully crisp, cool
+  - tabpanel:
+    - paragraph: Washed Classic Percale
+    - paragraph: Perfectly lived in, breathable
+  - tabpanel:
+    - paragraph: Washed European Linen
+    - paragraph: Super airy, relaxed
+  - tabpanel:
+    - paragraph: Heathered Cashmere
+    - paragraph: Supremely warm, indulgent
+  - tabpanel:
+    - paragraph: Brushed Flannel
+    - paragraph: Cozy, breathable, nostalgic.
+  - tabpanel "1 of 6":
+    - link "Visual Category Module Image Luxe Sateen Ridiculously soft, smooth":
+      - /url: https://www.brooklinen.com/collections/luxe-sateen-sheets
+      - img "Visual Category Module Image"
+      - paragraph: Luxe Sateen
+      - paragraph: Ridiculously soft, smooth
+  - tabpanel "2 of 6":
+    - link "Visual Category Module Image Classic Percale Wonderfully crisp, cool":
+      - /url: https://www.brooklinen.com/collections/classic-percale-sheets
+      - img "Visual Category Module Image"
+      - paragraph: Classic Percale
+      - paragraph: Wonderfully crisp, cool
+  - tabpanel "3 of 6":
+    - link "Visual Category Module Image Washed Classic Percale Perfectly lived in, breathable":
+      - /url: https://www.brooklinen.com/collections/washed-classic-sheets
+      - img "Visual Category Module Image"
+      - paragraph: Washed Classic Percale
+      - paragraph: Perfectly lived in, breathable
+  - tabpanel "4 of 6":
+    - link "Visual Category Module Image Washed European Linen Super airy, relaxed":
+      - /url: https://www.brooklinen.com/collections/washed-linen-sheets
+      - img "Visual Category Module Image"
+      - paragraph: Washed European Linen
+      - paragraph: Super airy, relaxed
+  - tabpanel:
+    - paragraph: Heathered Cashmere
+    - paragraph: Supremely warm, indulgent
+  - tabpanel:
+    - paragraph: Brushed Flannel
+    - paragraph: Cozy, breathable, nostalgic.
+  - tabpanel:
+    - paragraph: Luxe Sateen
+    - paragraph: Ridiculously soft, smooth
+  - tabpanel:
+    - paragraph: Classic Percale
+    - paragraph: Wonderfully crisp, cool
+  - tabpanel:
+    - paragraph: Washed Classic Percale
+    - paragraph: Perfectly lived in, breathable
+  - tabpanel:
+    - paragraph: Washed European Linen
+    - paragraph: Super airy, relaxed
+  - tabpanel:
+    - paragraph: Heathered Cashmere
+    - paragraph: Supremely warm, indulgent
+  - heading "Duvet Insert Bundles" [level=2]
+  - paragraph: Includes 1 Duvet Cover, 2 Pillowcases, and 1 Comforter
+  - region:
+    - group "1 of 6":
+      - link:
+        - /url: /products/luxe-duvet-set-bundle?component0=43380376600666
+        - generic: Softest
+      - link "sparkle BUNDLE SAVINGS Luxe Sateen Duvet Set Bundle":
+        - /url: /products/luxe-duvet-set-bundle?component0=43380376600666
+        - paragraph:
+          - img "sparkle"
+          - text: BUNDLE SAVINGS
+        - paragraph: Luxe Sateen Duvet Set Bundle
+      - 'link "From: $407 $304 25% off star star star star star star star star star star (9,191)"':
+        - /url: /products/luxe-duvet-set-bundle?component0=43380376600666
+        - paragraph:
+          - text: "From: $407"
+          - generic: $304
+        - generic: 25% off
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - paragraph: (9,191)
+      - generic "Luxe Sateen Duvet Set Bundle":
+        - button "bookend-arrow" [disabled]:
+          - img "bookend-arrow"
+        - region:
+          - group "1 of 26":
+            - 'button "Color: White"'
+          - group "2 of 26":
+            - 'button "Color: Cream"'
+          - group "3 of 26":
+            - 'button "Color: Pebble"'
+          - group "4 of 26":
+            - 'button "Color: Tandem Stripe in Pebble"'
+          - group "5 of 26":
+            - 'button "Color: Oak"'
+          - group "6 of 26":
+            - 'button "Color: Cloud"'
+          - group "7 of 26":
+            - 'button "Color: Slate"'
+          - group "8 of 26":
+            - 'button "Color: Frost"'
+          - group "9 of 26":
+            - 'button "Color: Calm Waters in Frost"'
+          - group "10 of 26":
+            - 'button "Color: Storm"'
+          - group "11 of 26":
+            - 'button "Color: Tandem Stripe in Storm"'
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+        - button "bookend-arrow":
+          - img "bookend-arrow"
+    - group "2 of 6":
+      - link:
+        - /url: /products/classic-duvet-bundle?component0=41809644879962
+      - link "sparkle BUNDLE SAVINGS Classic Percale Duvet Set Bundle":
+        - /url: /products/classic-duvet-bundle?component0=41809644879962
+        - paragraph:
+          - img "sparkle"
+          - text: BUNDLE SAVINGS
+        - paragraph: Classic Percale Duvet Set Bundle
+      - 'link "From: $397 $297 25% off star star star star star star star star star star (7,234)"':
+        - /url: /products/classic-duvet-bundle?component0=41809644879962
+        - paragraph:
+          - text: "From: $397"
+          - generic: $297
+        - generic: 25% off
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - paragraph: (7,234)
+      - generic "Classic Percale Duvet Set Bundle":
+        - button "bookend-arrow" [disabled]:
+          - img "bookend-arrow"
+        - region:
+          - group "1 of 27":
+            - 'button "Color: Solid White"'
+          - group "2 of 27":
+            - 'button "Color: Cream"'
+          - group "3 of 27":
+            - 'button "Color: Pebble"'
+          - group "4 of 27":
+            - 'button "Color: Tandem Stripe in Pebble"'
+          - group "5 of 27":
+            - 'button "Color: Fresh Moss"'
+          - group "6 of 27":
+            - 'button "Color: Tandem Stripe in Fresh Moss"'
+          - group "7 of 27":
+            - 'button "Color: Storm"'
+          - group "8 of 27":
+            - 'button "Color: Tandem Stripe in Storm"'
+          - group "9 of 27":
+            - 'button "Color: Slate"'
+          - group "10 of 27":
+            - 'button "Color: Abyss"'
+          - group "11 of 27":
+            - 'button "Color: Cloud"'
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+        - button "bookend-arrow":
+          - img "bookend-arrow"
+    - link:
+      - /url: /products/washed-classic-duvet-bundle?component0=42207445549146
+    - link:
+      - /url: /products/washed-classic-duvet-bundle?component0=42207445549146
+      - paragraph:
+        - text: BUNDLE SAVINGS
+      - paragraph: Washed Classic Percale Duvet Set Bundle
+    - link:
+      - /url: /products/washed-classic-duvet-bundle?component0=42207445549146
+      - paragraph:
+        - text: "From: $407"
+        - generic: $304
+      - generic: 25% off
+    - button [disabled]:
+    - region:
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+    - button:
+    - link:
+      - /url: /products/washed-linen-duvet-bundle?component0=41809191174234
+    - link:
+      - /url: /products/washed-linen-duvet-bundle?component0=41809191174234
+      - paragraph:
+        - text: BUNDLE SAVINGS
+      - paragraph: Washed European Linen Duvet Set Bundle
+    - link:
+      - /url: /products/washed-linen-duvet-bundle?component0=41809191174234
+      - paragraph:
+        - text: "From: $597"
+        - generic: $447
+      - generic: 25% off
+      - paragraph: (2,290)
+    - button [disabled]:
+    - region:
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+    - button:
+    - link:
+      - /url: /products/bedding-insert-bundle?component0=42732178079834
+    - link:
+      - /url: /products/bedding-insert-bundle?component0=42732178079834
+      - paragraph:
+        - text: BUNDLE SAVINGS
+      - paragraph: Bedding Insert Bundle
+    - link:
+      - /url: /products/bedding-insert-bundle?component0=42732178079834
+      - paragraph:
+        - text: "From: $326"
+        - generic: $244
+      - generic: 25% off
+      - paragraph: (2,975)
+    - link:
+      - /url: /products/set-of-2-comforter-bundle?variant=43448974180442
+      - generic: New
+    - link:
+      - /url: /products/set-of-2-comforter-bundle?variant=43448974180442
+      - paragraph:
+        - text: BUNDLE SAVINGS
+      - paragraph: Set of 2 Comforter Bundle
+    - link:
+      - /url: /products/set-of-2-comforter-bundle?variant=43448974180442
+      - paragraph:
+        - text: "From: $338"
+        - generic: $253
+      - generic: 25% off
+    - button "Previous slide" [disabled]:
+      - img "splide-arrow"
+    - button "Next slide":
+      - img "splide-arrow"
+  - heading "Bath Bundles" [level=2]
+  - link "Shop All":
+    - /url: https://www.brooklinen.com/collections/bath-towel-bundles
+  - region:
+    - group "1 of 15":
+      - link:
+        - /url: /products/super-plush-4-piece-bath-towel-bundle?variant=67631652503642
+        - generic: Fluffiest
+      - link "sparkle BUNDLE SAVINGS Super-Plush Set of 4 Bath Towel Bundle":
+        - /url: /products/super-plush-4-piece-bath-towel-bundle?variant=67631652503642
+        - paragraph:
+          - img "sparkle"
+          - text: BUNDLE SAVINGS
+        - paragraph: Super-Plush Set of 4 Bath Towel Bundle
+      - 'link "From: $218 $163 25% off star star star star star star star star star star (4,010)"':
+        - /url: /products/super-plush-4-piece-bath-towel-bundle?variant=67631652503642
+        - paragraph:
+          - text: "From: $218"
+          - generic: $163
+        - generic: 25% off
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - paragraph: (4,010)
+      - generic "Super-Plush Set of 4 Bath Towel Bundle":
+        - button "bookend-arrow" [disabled]:
+          - img "bookend-arrow"
+        - region:
+          - group "1 of 18":
+            - 'button "Color: White"'
+          - group "2 of 18":
+            - 'button "Color: Stone"'
+          - group "3 of 18":
+            - 'button "Color: Oak"'
+          - group "4 of 18":
+            - 'button "Color: Cloud"'
+          - group "5 of 18":
+            - 'button "Color: Pewter"'
+          - group "6 of 18":
+            - 'button "Color: Slate"'
+          - group "7 of 18":
+            - 'button "Color: Storm"'
+          - group "8 of 18":
+            - 'button "Color: Mineral"'
+          - group "9 of 18":
+            - 'button "Color: Lotus"'
+          - group "10 of 18":
+            - 'button "Color: Maple"'
+          - group "11 of 18":
+            - 'button "Color: Abyss"'
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+        - button "bookend-arrow":
+          - img "bookend-arrow"
+    - group "2 of 15":
+      - link:
+        - /url: /products/super-plush-bath-towel-bundle?variant=42879419154522
+        - generic: Fluffiest
+      - link "sparkle BUNDLE SAVINGS Super-Plush Turkish Cotton Bath Towel Bundle":
+        - /url: /products/super-plush-bath-towel-bundle?variant=42879419154522
+        - paragraph:
+          - img "sparkle"
+          - text: BUNDLE SAVINGS
+        - paragraph: Super-Plush Turkish Cotton Bath Towel Bundle
+      - 'link "From: $168 $126 25% off star star star star star star star star star star (4,010)"':
+        - /url: /products/super-plush-bath-towel-bundle?variant=42879419154522
+        - paragraph:
+          - text: "From: $168"
+          - generic: $126
+        - generic: 25% off
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - img "star"
+        - paragraph: (4,010)
+      - generic "Super-Plush Turkish Cotton Bath Towel Bundle":
+        - button "bookend-arrow" [disabled]:
+          - img "bookend-arrow"
+        - region:
+          - group "1 of 18":
+            - 'button "Color: White"'
+          - group "2 of 18":
+            - 'button "Color: Stone"'
+          - group "3 of 18":
+            - 'button "Color: Oak"'
+          - group "4 of 18":
+            - 'button "Color: Striped Oak"'
+          - group "5 of 18":
+            - 'button "Color: Cloud"'
+          - group "6 of 18":
+            - 'button "Color: Pewter"'
+          - group "7 of 18":
+            - 'button "Color: Slate"'
+          - group "8 of 18":
+            - 'button "Color: Storm"'
+          - group "9 of 18":
+            - 'button "Color: Abyss"'
+          - group "10 of 18":
+            - 'button "Color: Striped Abyss"'
+          - group "11 of 18":
+            - 'button "Color: Mineral"'
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+          - button
+        - button "bookend-arrow":
+          - img "bookend-arrow"
+    - link:
+      - /url: /products/waffle-bath-towel-bundle?variant=67631654240346
+      - generic: Best Seller
+    - link:
+      - /url: /products/waffle-bath-towel-bundle?variant=67631654240346
+      - paragraph:
+        - text: BUNDLE SAVINGS
+      - paragraph: Dreamweave Waffle Bath Towel Bundle
+    - link:
+      - /url: /products/waffle-bath-towel-bundle?variant=67631654240346
+      - paragraph:
+        - text: "From: $138"
+        - generic: $103
+      - generic: 25% off
+      - paragraph: (252)
+    - region:
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+    - link:
+      - /url: /products/super-plush-complete-get-ready-bundle?component0=45575650115674
+      - generic: New
+    - link:
+      - /url: /products/super-plush-complete-get-ready-bundle?component0=45575650115674
+      - paragraph:
+        - text: BUNDLE SAVINGS
+      - paragraph: Super-Plush Complete Get Ready Bundle
+    - link:
+      - /url: /products/super-plush-complete-get-ready-bundle?component0=45575650115674
+      - paragraph:
+        - text: "From: $257"
+        - generic: $192
+      - generic: 25% off
+      - paragraph: (2,389)
+    - button [disabled]:
+    - region:
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+    - button:
+    - link:
+      - /url: /products/super-plush-towel-and-robe-bundle?component0=42879416860762
+      - generic: Fluffiest
+    - link:
+      - /url: /products/super-plush-towel-and-robe-bundle?component0=42879416860762
+      - paragraph:
+        - text: BUNDLE SAVINGS
+      - paragraph: Super-Plush Towel and Robe Bundle
+    - link:
+      - /url: /products/super-plush-towel-and-robe-bundle?component0=42879416860762
+      - paragraph:
+        - text: "From: $248"
+        - generic: $186
+      - generic: 25% off
+      - paragraph: (2,389)
+    - button [disabled]:
+    - region:
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+    - button:
+    - link:
+      - /url: /products/ribbed-cotton-tencel-bath-towel-bundle?variant=43548431384666
+      - generic: New
+    - link:
+      - /url: /products/ribbed-cotton-tencel-bath-towel-bundle?variant=43548431384666
+      - paragraph:
+        - text: BUNDLE SAVINGS
+      - paragraph: Ribbed Cotton TENCEL™ Bath Towel Bundle
+    - link:
+      - /url: /products/ribbed-cotton-tencel-bath-towel-bundle?variant=43548431384666
+      - paragraph:
+        - text: "From: $168"
+        - generic: $126
+      - generic: 25% off
+    - region:
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+    - link:
+      - /url: /products/ribbed-cotton-tencel-set-of-4-bath-towel-bundle?variant=43548431253594
+      - generic: New
+    - link:
+      - /url: /products/ribbed-cotton-tencel-set-of-4-bath-towel-bundle?variant=43548431253594
+      - paragraph:
+        - text: BUNDLE SAVINGS
+      - paragraph: Ribbed Cotton TENCEL™ Set of 4 Bath Towel Bundle
+    - link:
+      - /url: /products/ribbed-cotton-tencel-set-of-4-bath-towel-bundle?variant=43548431253594
+      - paragraph:
+        - text: "From: $218"
+        - generic: $163
+      - generic: 25% off
+    - region:
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+    - link:
+      - /url: /products/super-plush-get-ready-bundle?component0=44897200439386
+      - generic: New
+    - link:
+      - /url: /products/super-plush-get-ready-bundle?component0=44897200439386
+      - paragraph:
+        - text: BUNDLE SAVINGS
+      - paragraph: Super-Plush Get Ready Bundle
+    - link:
+      - /url: /products/super-plush-get-ready-bundle?component0=44897200439386
+      - paragraph:
+        - text: "From: $188"
+        - generic: $141
+      - generic: 25% off
+      - paragraph: (2,389)
+    - button [disabled]:
+    - region:
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+    - button:
+    - link:
+      - /url: /products/dreamweave-waffle-get-ready-bundle?component0=45554180718682
+      - generic: New
+    - link:
+      - /url: /products/dreamweave-waffle-get-ready-bundle?component0=45554180718682
+      - paragraph:
+        - text: BUNDLE SAVINGS
+      - paragraph: Dreamweave Waffle Get Ready Bundle
+    - link:
+      - /url: /products/dreamweave-waffle-get-ready-bundle?component0=45554180718682
+      - paragraph:
+        - text: "From: $188"
+        - generic: $141
+      - generic: 25% off
+    - region:
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+    - link:
+      - /url: /products/plush-bath-towel-bundle?variant=43858020630618
+    - link:
+      - /url: /products/plush-bath-towel-bundle?variant=43858020630618
+      - paragraph:
+        - text: BUNDLE SAVINGS
+      - paragraph: Plush Turkish Cotton Bath Towel Bundle
+    - link:
+      - /url: /products/plush-bath-towel-bundle?variant=43858020630618
+      - paragraph:
+        - text: "From: $154"
+        - generic: $115
+      - generic: 25% off
+      - paragraph: (248)
+    - button [disabled]:
+    - region:
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+    - button:
+    - link:
+      - /url: /products/plush-4-piece-bath-towel-bundle?variant=42309367431258
+    - link:
+      - /url: /products/plush-4-piece-bath-towel-bundle?variant=42309367431258
+      - paragraph:
+        - text: BUNDLE SAVINGS
+      - paragraph: Plush Turkish Cotton Set of 4 Bath Towel Bundle
+    - link:
+      - /url: /products/plush-4-piece-bath-towel-bundle?variant=42309367431258
+      - paragraph:
+        - text: "From: $198"
+        - generic: $148
+      - generic: 25% off
+      - paragraph: (148)
+    - button [disabled]:
+    - region:
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+    - button:
+    - link:
+      - /url: /products/dreamweave-waffle-4-piece-bath-towel-bundle?variant=42488997609562
+      - generic: Best Seller
+    - link:
+      - /url: /products/dreamweave-waffle-4-piece-bath-towel-bundle?variant=42488997609562
+      - paragraph:
+        - text: BUNDLE SAVINGS
+      - paragraph: Dreamweave Waffle Set of 4 Bath Towel Bundle
+    - link:
+      - /url: /products/dreamweave-waffle-4-piece-bath-towel-bundle?variant=42488997609562
+      - paragraph:
+        - text: "From: $178"
+        - generic: $133
+      - generic: 25% off
+      - paragraph: (252)
+    - region:
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+    - link:
+      - /url: /products/super-plush-towel-move-in-bundle?component0=42879426756698
+      - generic: Fluffiest
+    - link:
+      - /url: /products/super-plush-towel-move-in-bundle?component0=42879426756698
+      - paragraph:
+        - text: BUNDLE SAVINGS
+      - paragraph: Super-Plush Turkish Cotton Towel Move-In Bundle
+    - link:
+      - /url: /products/super-plush-towel-move-in-bundle?component0=42879426756698
+      - paragraph:
+        - text: "From: $443"
+        - generic: $331
+      - generic: 25% off
+      - paragraph: (4,010)
+    - button [disabled]:
+    - region:
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+    - button:
+    - link:
+      - /url: /products/plush-towel-move-in-bundle?component0=41672507064410
+    - link:
+      - /url: /products/plush-towel-move-in-bundle?component0=41672507064410
+      - paragraph:
+        - text: BUNDLE SAVINGS
+      - paragraph: Plush Turkish Cotton Towel Move-In Bundle
+    - link:
+      - /url: /products/plush-towel-move-in-bundle?component0=41672507064410
+      - paragraph:
+        - text: "From: $407"
+        - generic: $304
+      - generic: 25% off
+      - paragraph: (148)
+    - region:
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+    - link:
+      - /url: /products/waffle-towel-move-in-bundle?component0=41667228008538
+      - generic: Cooling
+    - link:
+      - /url: /products/waffle-towel-move-in-bundle?component0=41667228008538
+      - paragraph:
+        - text: BUNDLE SAVINGS
+      - paragraph: Dreamweave Waffle Towel Move-In Bundle
+    - link:
+      - /url: /products/waffle-towel-move-in-bundle?component0=41667228008538
+      - paragraph:
+        - text: "From: $363"
+        - generic: $272
+      - generic: 25% off
+      - paragraph: (252)
+    - region:
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+    - button "Previous slide" [disabled]:
+      - img "splide-arrow"
+    - button "Next slide":
+      - img "splide-arrow"
+  - heading "More to Explore" [level=2]
+  - tabpanel "1 of 2":
+    - link "tile image and link":
+      - /url: https://www.brooklinen.com/collections/all-sheets
+      - img "Spotlight Image Card"
+    - paragraph: All Sheets
+    - link "Shop Now":
+      - /url: https://www.brooklinen.com/collections/all-sheets
+  - tabpanel "2 of 2":
+    - link "tile image and link":
+      - /url: https://www.brooklinen.com/collections/new-arrivals
+      - img "Spotlight Image Card"
+    - paragraph: New Arrivals
+    - link "Shop Now":
+      - /url: https://www.brooklinen.com/collections/new-arrivals
+- contentinfo:
+  - list:
+    - listitem: About
+    - link "About Us":
+      - /url: /pages/about
+    - link "Press":
+      - /url: /pages/press
+    - link "Reviews":
+      - /url: /pages/reviews
+    - link "Our Stores":
+      - /url: /pages/our-stores
+    - link "HSA/FSA Eligible":
+      - /url: https://www.brooklinen.com/pages/hsa-fsa-eligible
+    - link "Education Center":
+      - /url: /blogs/education-center
+  - list:
+    - listitem: Community
+    - link "Brooklinen Rewards":
+      - /url: /pages/rewards
+    - link "Brookliving":
+      - /url: /blogs/brookliving
+    - link "Trade & Hospitality":
+      - /url: /pages/trade
+    - link "Corporate Gifting":
+      - /url: /pages/corporate-gifting
+  - list:
+    - listitem: Need Help?
+    - link "FAQ & Support":
+      - /url: /pages/faq
+    - link "Returns & Exchanges":
+      - /url: /pages/returns
+    - link "Care Guide":
+      - /url: /pages/care-guide
+    - link "E-Gift Card":
+      - /url: https://www.brooklinen.com/products/rise-ai-giftcard
+    - link "Gift Card Balance":
+      - /url: https://www.brooklinen.com/pages/check-gift-card-balance?
+    - link "Do Not Sell or Share My Personal Information":
+      - /url: https://www.brooklinen.com/pages/do-not-sell-request
+    - link "Your Privacy Choices":
+      - /url: "#modal-privacy"
+  - list:
+    - listitem: Get In Touch
+    - link "Contact Us":
+      - /url: /pages/contact
+    - link "Careers":
+      - /url: /pages/careers
+    - link "Sign Up for Texts":
+      - /url: https://www.brooklinen.com/pages/sms-signup
+  - heading "Get on the List" [level=2]
+  - paragraph: Sign up to know when we launch new products.
+  - textbox "newsletter signup":
+    - /placeholder: " "
+  - generic: Email
+  - generic: Please enter a valid email.
+  - button "submit email":
+    - img "icon--email-submit"
+  - article:
+    - paragraph:
+      - text: Please keep me up to date with Brooklinen news and offers by email. I can unsubscribe at any time. I have read the Brooklinen
+      - link "Privacy Policy":
+        - /url: /pages/privacy
+      - text: .
+  - list:
+    - link "Terms of Service":
+      - /url: /pages/terms-of-service
+    - link "Privacy Policy":
+      - /url: /pages/privacy
+    - link "Accessibility":
+      - /url: /pages/website-accessibility-notice
+    - link "SMS Marketing Terms of Service":
+      - /url: https://www.brooklinen.com/pages/sms-marketing-terms-of-service
+  - text: ©
+  - link "Brooklinen":
+    - /url: /
+  - text: "2026"
+  - list:
+    - link "facebook Facebook":
+      - /url: https://www.facebook.com/Brooklinen/
+      - img "facebook"
+      - generic: Facebook
+    - link "twitter Twitter":
+      - /url: https://x.com/brooklinen
+      - img "twitter"
+      - generic: Twitter
+    - link "pinterest Pinterest":
+      - /url: https://www.pinterest.com/brooklinen/
+      - img "pinterest"
+      - generic: Pinterest
+    - link "instagram Instagram":
+      - /url: https://www.instagram.com/brooklinen/
+      - img "instagram"
+      - generic: Instagram
+- button "close":
+  - img "close"
+- paragraph:
+  - text: Hold Up!
+  - text: Stop Right There.
+- paragraph
+- link "Start Saving Now":
+  - /url: "#"
+  - generic: Start Saving Now
+- button "close alert":
+  - img "close"
+- heading "Get it before it's gone!" [level=3]
+- paragraph: Items in your cart are moving fast! Get them before somebody else does.
+- link "Checkout":
+  - /url: /checkout
+- paragraph
+- paragraph
+- link "View Wishlist":
+  - /url: /pages/wishlist
+- button "wishlist-close":
+  - img "wishlist-close"

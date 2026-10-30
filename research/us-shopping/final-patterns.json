@@ -1,0 +1,834 @@
+[
+  {
+    "id": "USF1",
+    "name": "规格快览卡：英寸优先，尺寸对象分开",
+    "modules": [
+      "specifications"
+    ],
+    "best_for": "美国访客需要快速判断尺寸、是否含框及盒内交付时。",
+    "current_problem": "当前已使用英寸，这一点符合美国常见购物表达；真正问题是8×12英寸被写为约21×29.7厘米，以及画芯和含框外尺寸没有清晰分开。",
+    "why_this_form": "把同一SKU的事实做成短行规格，减少自行换算和猜测“尺寸指哪里”。英寸在前是美国市场本地化选择；准确换算和区分画芯/外框是普遍的可用性要求，不能只归因为美国文化。",
+    "english_example": [
+      {
+        "label": "Product",
+        "text": "Christmas Snowman DIY Button Art Kit",
+        "status": "示例标题，可与现有商品名合并"
+      },
+      {
+        "label": "Specs heading",
+        "text": "Size & Kit Details",
+        "status": "可直接使用的标题"
+      },
+      {
+        "label": "Artwork line",
+        "text": "Artwork size: [verified width] × [verified height] in ([verified cm])",
+        "status": "实测后填入；不可直接认定8×12in或A4哪一组为实物"
+      },
+      {
+        "label": "Outer frame line",
+        "text": "Framed size: [verified width] × [verified height] in ([verified cm])",
+        "status": "需测量外框"
+      },
+      {
+        "label": "Inclusion line",
+        "text": "Frame included",
+        "status": "当前页面已有，可保留"
+      },
+      {
+        "label": "Content link",
+        "text": "See what’s included",
+        "status": "链接当前SKU经核对清单"
+      }
+    ],
+    "visual_structure": [
+      "购买区短标题下放3–4行两列规格表",
+      "画芯与含框外尺寸各一行，in在前、cm括注",
+      "材料实拍与规格链接相邻；长说明折叠，不混入大幅完成品尺寸"
+    ],
+    "do_not_copy": [
+      "不得用A4约等于8×12in",
+      "不抄竞品成品尺寸、材料重量或手工尺寸浮动借口",
+      "Craftoria与Unwind只借鉴“对象分开”的结构，不能将其cm优先照搬作为美国本地化证明"
+    ],
+    "measurement": "尺寸/含框/套件内容任务答对率；尺寸类咨询、退款；布局实验再看加购和购买。",
+    "references": [
+      {
+        "brand": "The Woobles",
+        "url": "https://thewoobles.com/products/penguin-crochet-kit",
+        "page": "Pierre the Penguin Crochet Kit",
+        "observed": "成品高度同时给英寸与厘米，并说明手作结果尺寸有差异；工具写明4mm。",
+        "quotes": [
+          "About 4.5 in (11.4 cm) tall. As a handmade item, exact size depends on the crocheter.",
+          "4mm ergonomic crochet hook"
+        ],
+        "source_local": "research/specs-woobles.txt",
+        "source_sha256": "17ce66da9a6e1644e8f01d0b1e3905e4a0f5fc75701d28b06013aca0378195b6",
+        "browser_dom": null,
+        "screenshot": "screenshots/woobles-buy.png",
+        "screenshot_scope": "购买区实拍；尺寸具体数字以原文摘录为准",
+        "public_business_signal": "4.8 / 5，1,893 条商品评价",
+        "signal_scope": "品牌托管商品评价，非订单审计",
+        "market_fit_note": "页面明确United States / USD，尺寸写4.5 in (11.4 cm)。",
+        "limits": "不要抄“手作尺寸浮动”掩盖固定板材尺寸错误。 这些页面做法并不证明美国消费者普遍偏好它，更不证明它造成高转化。"
+      },
+      {
+        "brand": "Unwind Studio",
+        "url": "https://www.unwind.studio/products/portuguese-sardine-bookmark-needlepoint-kit",
+        "page": "Portuguese Sardine Bookmark Needlepoint Kit",
+        "observed": "明确区分图案尺寸与画布尺寸；完整套件与仅画布两个版本分别列包含材料。",
+        "quotes": [
+          "Printed Design Size: 5.0x15.0 cm | 2.0x6.0 in",
+          "Canvas Size:  11.4x20.0 cm | 4.5x7.9 in",
+          "Complete Kit with Finishing Materials",
+          "Printed canvas only"
+        ],
+        "source_local": "research/specs-unwind.txt",
+        "source_sha256": "3fa179d17d8390015474b59791e16b9a865ca1bc8d4f3449db0583105c93c933",
+        "browser_dom": null,
+        "screenshot": "screenshots/unwind-details.png",
+        "screenshot_scope": "375×812真实视图；已展开材料清单，并列图案与画布尺寸",
+        "public_business_signal": "5.0 / 5，35 条商品评价",
+        "signal_scope": "品牌托管商品评价，非订单审计",
+        "market_fit_note": "浏览器捕获美元价格和FREE US SHIPPING OVER $200；该国际站尺寸cm在前、in在后。只参考图案/画布对象分开，不作为英寸优先典范。",
+        "limits": "仅借鉴尺寸对象区分；Unwind的针线、安全和材料规格不适用于纽扣画。 这些页面做法并不证明美国消费者普遍偏好它，更不证明它造成高转化。"
+      },
+      {
+        "brand": "Sculpd",
+        "url": "https://sculpd.com/products/sculpd",
+        "page": "Sculpd Pottery Kit",
+        "observed": "以4lbs材料、4–6件作品、2人用途与36页教程说明实际交付和完成支持；明确可选漆面。",
+        "quotes": [
+          "4lbs of clay - enough for 4-6 creations (perfect for two!)",
+          "Tools, white paint & your choice of matte or glossy varnish",
+          "36 page step-by-step beginner's pottery guide, packed full of starter creations and inspiration"
+        ],
+        "source_local": "research/specs-sculpd-product.txt",
+        "source_sha256": "103afc8412cdc394daec9e252d2ad7c5975d5c49636ae99caf96efb706b1d5be",
+        "browser_dom": null,
+        "screenshot": "screenshots/sculpd-buy.png",
+        "screenshot_scope": "数量、购买与配送区实拍；其他具体条款见原文",
+        "public_business_signal": "4.9 / 5，1,605 条商品评价",
+        "signal_scope": "该具体商品页评价，非订单审计",
+        "market_fit_note": "当前美国站DOM含United States Flag与shipping across the US；美制重量4lbs与件数用途一起说明。",
+        "limits": "不能照搬4–6件等陶艺产出，也不能未经实测承诺多人使用。 这些页面做法并不证明美国消费者普遍偏好它，更不证明它造成高转化。"
+      },
+      {
+        "brand": "Pott’d",
+        "url": "https://getpottd.com/products/pottd-home-air-dry-clay-pottery-kit",
+        "page": "Home Air-Dry Clay Pottery Kit",
+        "observed": "按Creative / Ultimate两种配置拆开差异，再列共同包含内容；关键材料给数量和重量。",
+        "quotes": [
+          "3 x Bags of Super Clay. Each bag is 500g, giving you plenty for multiple projects.",
+          "Both kits include:",
+          "3 x Essential sculpting tools. A cutting tool, a needle tool and a scoring tool.",
+          "2 x Paintbrushes. A small brush for details and a large brush for coverage."
+        ],
+        "source_local": "research/specs-pottd.txt",
+        "source_sha256": "0fd3a9b07cfaa57fd374629005fc2f559f7bb89278eacbecf82322ab3b8556ff",
+        "browser_dom": null,
+        "screenshot": "screenshots/pottd-quantity.png",
+        "screenshot_scope": "数量与总价实拍；材料/配送详细条款以原文摘录为准",
+        "public_business_signal": "4.89 / 5，1,740 条商品评价",
+        "signal_scope": "商品评价组件公开数值，非付款记录核验",
+        "market_fit_note": "Pott’d US站，明确美国区域登录参数与美元；借鉴配置/材料数量区分，不照搬其500g作为美国唯一单位。",
+        "limits": "这是信息可发现性假设；不能说PixelKnot从来没有材料清单。 这些页面做法并不证明美国消费者普遍偏好它，更不证明它造成高转化。"
+      },
+      {
+        "brand": "Craftoria",
+        "url": "https://www.craftoria.com/en-ww/products/custom-paint-by-numbers-kit",
+        "page": "Custom Paint By Numbers Kit",
+        "observed": "产品细节表把绘画区域、材料、颜色数量、装框选项拆成字段；明确只有选框版本才含框。",
+        "quotes": [
+          "Painting area",
+          "30 × 40 cm / 40 × 50 cm / 50 × 60 cm",
+          "Frame components are included only when a framed variant is selected.",
+          "Three artist brushes"
+        ],
+        "source_local": "research/specs-craftoria.txt",
+        "source_sha256": "14450b88d55f184687af5cf574fcc853a30dcf6316abee13c8fe7b4ec3bf7c0d",
+        "browser_dom": null,
+        "screenshot": "research/content-craftoria-desktop.png",
+        "screenshot_scope": "商品页定位图；规格表和政策内容以原文摘录为准",
+        "public_business_signal": "4.6 / 5，1,339 条商品评价",
+        "signal_scope": "品牌托管商品评价，非订单审计",
+        "market_fit_note": "国际/en-ww页，以cm展示；只作为规格字段与含框条件的结构参考，不算美国本地化完美范例。",
+        "limits": "定制油画的色数/复杂度不能用作纽扣画制作时长或效果证据。 这些页面做法并不证明美国消费者普遍偏好它，更不证明它造成高转化。"
+      }
+    ],
+    "primary_screenshot": "screenshots/unwind-details.png",
+    "primary_screenshot_note": "真实375×812截图；清楚分开图案和画布尺寸，但单位顺序并不是建议照搬的部分。",
+    "research": [
+      "US-E8",
+      "US-E7"
+    ]
+  },
+  {
+    "id": "USF2",
+    "name": "DIY完成信心卡：产品类型 + 具体交付 + 如何开始",
+    "modules": [
+      "DIY-confidence",
+      "specifications",
+      "trust-and-real-results"
+    ],
+    "best_for": "美国手机广告访客首次接触纽扣画，需判断这是材料套件还是完成品。",
+    "current_problem": "DIY标题、Guided design、新手FAQ与材料/制作图都存在；Guided design不够具体说明教程形式、盒内工具与第一步，属于清晰度机会，不是英语语法错误。",
+    "why_this_form": "用熟悉、具体的任务语言回答“收到什么、还需准备什么、我怎样开始”；制作展示和短清单能支撑快速判断。无美国随机实验可证明某个固定文案必增单，应当作为本地化和预期管理测试。",
+    "english_example": [
+      {
+        "label": "Product definition",
+        "text": "A DIY kit — you create the finished artwork.",
+        "status": "需确认所有当前变体都是DIY；现页DIY属性已明确"
+      },
+      {
+        "label": "Contents heading",
+        "text": "What’s in the box",
+        "status": "清单按实际SKU填写"
+      },
+      {
+        "label": "Self-supplied heading",
+        "text": "What you’ll need",
+        "status": "若确实无需自备，也需产品核实后才写Everything included"
+      },
+      {
+        "label": "Steps heading",
+        "text": "How it works",
+        "status": "每一步用已核实实际工艺描述"
+      },
+      {
+        "label": "Support link",
+        "text": "See the step-by-step guide",
+        "status": "仅在确有对应教程链接时使用；不擅自承诺视频或人工实时支持"
+      },
+      {
+        "label": "Time line",
+        "text": "Making time: [tested range]",
+        "status": "目标初学者实测后才能填写，不抄竞品3–8小时"
+      }
+    ],
+    "visual_structure": [
+      "购买区用DIY定义与3条事实短句，不另堆大段文案",
+      "材料平铺图 → 手部制作近景 → 同一作品完成态",
+      "可展开清单分开Included与You’ll need；教程入口可点"
+    ],
+    "do_not_copy": [
+      "不承诺未经测试的新手零失败、No experience needed、完成时间和年龄",
+      "不把品牌拍摄过程图标为Verified customer",
+      "不把没有的视频、人工支持或工具写成已包含"
+    ],
+    "measurement": "DIY/成品辨认率、清单与教程任务正确率；购买率、DIY误解咨询、取消和退款。",
+    "references": [
+      {
+        "brand": "The Woobles",
+        "url": "https://thewoobles.com/products/penguin-crochet-kit",
+        "page": "Pierre the Penguin Crochet Kit",
+        "observed": "购买区同时呈现“Beginner, for ages 12+”“All Materials Included”“Step-by-Step Video Tutorials”、真实人工视频支持、幸福保障；其后逐项列出线材、预起针部分、钩针等，并用“打开套件→扫描QR→开始”三步解释上手。FAQ给出初学者通常3–8小时、错针如何求助、左右手教程等。",
+        "quotes": [
+          "Beginner, for ages 12+",
+          "Step-by-Step Video Tutorials",
+          "Video + real human support",
+          "3–8 hours"
+        ],
+        "source_local": "research/content-woobles.txt",
+        "source_sha256": "22b7a0f6345dca34d91fed3e8a9f96a0e302c4c7fa30343a2e6a9386356ef147",
+        "browser_dom": null,
+        "screenshot": "research/content-woobles-desktop.png",
+        "screenshot_scope": "真实网页定位截图；本模块具体内容以原文摘录与观察说明为准",
+        "public_business_signal": "$30；产品页显示4.8/5、1,893条评价。评价为公开展示的社会证明，不是核验订单数。",
+        "signal_scope": "该商品页的Judge.me公开评价组件；组件显示4.78精确均分，页面购买区四舍五入为4.8/1,893。并非订单审计。",
+        "market_fit_note": "美国/USD页面直接写Beginner、All Materials Included、Step-by-Step Video Tutorials。",
+        "limits": "公开评分和页面实现只支持描述性比较；改善幅度须通过PixelKnot自己的实验检验。 这些页面做法并不证明美国消费者普遍偏好它，更不证明它造成高转化。"
+      },
+      {
+        "brand": "Pott’d",
+        "url": "https://getpottd.com/products/pottd-home-air-dry-clay-pottery-kit",
+        "page": "Home Air-Dry Clay Pottery Kit",
+        "observed": "把Creative Kit与Ultimate Starter Kit分开解释：前者自由创作，后者带3个经典递进项目与逐步指导；盒内材料用袋数、每袋重量与工具描述。评价区展示购买者项目照片与体验。",
+        "quotes": [
+          "1740 reviews",
+          "3 x Bags of Super Clay. Each bag is 500g",
+          "three classic pottery projects",
+          "2 x Paintbrushes"
+        ],
+        "source_local": "research/content-pottd.txt",
+        "source_sha256": "8995386d672abea88a18763dc384c44792153ca13c97ebf4b741ce6b5f8ca26f",
+        "browser_dom": null,
+        "screenshot": "screenshots/pottd-quantity.png",
+        "screenshot_scope": "真实数量区截图，详细制作/评价内容为原文核验；原始桌面截图未成功显示页面，不采用",
+        "public_business_signal": "抓取页显示1,740条评价；页面评级分布显示5星1,547条、4星193条，对应该分布加权均分约4.89/5（不是独立订单核验）。",
+        "signal_scope": "品牌产品评价组件的公开数值；1,740不是可核验的付款订单数。",
+        "market_fit_note": "美国站的Creative/Ultimate项目与清单是实际内容结构；Pott’d原桌面白屏未使用。",
+        "limits": "公开评分和页面实现只支持描述性比较；改善幅度须通过PixelKnot自己的实验检验。 这些页面做法并不证明美国消费者普遍偏好它，更不证明它造成高转化。"
+      },
+      {
+        "brand": "Sculpd",
+        "url": "https://sculpd.com/products/sculpd-pottery-date-night-bundle",
+        "page": "Pottery Date Night Bundle",
+        "observed": "盒内清单写明粘土重量、工具和颜料；宣传可做4–6件（两人份）；36页图解指南，另展示八步制作过程，并把48小时自然干燥作为独立阶段。用户评价会提及实际所需时间及干燥安排。",
+        "quotes": [
+          "Based on 1,605 reviews",
+          "8 Easy Steps to a Clay Date",
+          "ready to paint in 48 hours",
+          "It took longer than expected"
+        ],
+        "source_local": "research/content-sculpd.txt",
+        "source_sha256": "293b4eba2f8e745ef6851dfc5b95f75e430d9b031151dbc1c5d38f34cf4b3e8c",
+        "browser_dom": null,
+        "screenshot": "research/content-sculpd-process.png",
+        "screenshot_scope": "真实网页定位截图；本模块具体内容以原文摘录与观察说明为准",
+        "public_business_signal": "页面公开显示4.9/5、1,605条评价；评分组件可能聚合同一产品的不同套装/颜色，非该单一变体交易审计。",
+        "signal_scope": "公开展示的评论评分可能按产品组聚合；不可将其解释为1,605个独立买家或已完成付款数。",
+        "market_fit_note": "美国站展示套件材料、36页指南与自然干燥阶段，不能抄其时间和陶艺产出。",
+        "limits": "公开评分和页面实现只支持描述性比较；改善幅度须通过PixelKnot自己的实验检验。 这些页面做法并不证明美国消费者普遍偏好它，更不证明它造成高转化。"
+      },
+      {
+        "brand": "Unwind Studio",
+        "url": "https://www.unwind.studio/products/portuguese-sardine-bookmark-needlepoint-kit",
+        "page": "Portuguese Sardine Bookmark Needlepoint Kit",
+        "observed": "购买区允许区分完整套件（含收尾材料）和仅画布；列出难度、图案尺寸/画布尺寸、规格以及每个版本包含清单；另有“How to Finish”视频/指南链接。",
+        "quotes": [
+          "Overall rating: 5.0 / 5 from 35 reviews.",
+          "Printed Design Size: 5.0x15.0 cm | 2.0x6.0 in",
+          "2 tapestry needles size 18",
+          "How to Finish your Needlepoint Bookmark"
+        ],
+        "source_local": "research/content-unwind.txt",
+        "source_sha256": "f641b218c95b58f1c3b80da92d92bb85910a8bb8de3b6cc35ee2e6166bc1ec8c",
+        "browser_dom": null,
+        "screenshot": "research/content-unwind-desktop.png",
+        "screenshot_scope": "真实网页定位截图；本模块具体内容以原文摘录与观察说明为准",
+        "public_business_signal": "页面评价约5.0/5、35条；用户评论带Verified标签，页面商品配置为Complete Kit或Printed Canvas Only。评价和验证标签属于店铺展示，非独立审计。",
+        "signal_scope": "品牌商品评论组件公开评分与评论数；这些数值不代表同额已审计交易。",
+        "market_fit_note": "对美销售的国际站提供完整套件与仅画布选项及How to Finish，适合借鉴交付区别。",
+        "limits": "公开评分和页面实现只支持描述性比较；改善幅度须通过PixelKnot自己的实验检验。 这些页面做法并不证明美国消费者普遍偏好它，更不证明它造成高转化。"
+      },
+      {
+        "brand": "Craftoria",
+        "url": "https://www.craftoria.com/en-ww/products/custom-paint-by-numbers-kit",
+        "page": "Custom Paint By Numbers Kit",
+        "observed": "变体选择同时说明尺寸、是否含框与难度/色数；容易/中等/较难选项各给出预计制作时长；页内以3步说明上传照片、制作编号套件、开始绘画。",
+        "quotes": [
+          "Overall rating: 4.6 / 5 from 1339 reviews.",
+          "About 6–12 hours",
+          "Painted by the Craftoria community",
+          "Their photo. Their masterpiece."
+        ],
+        "source_local": "research/content-craftoria.txt",
+        "source_sha256": "5ebc55df4ff40ac3c5156360a5a7d96b660e9cd6e63f15695d231d5f86e495d5",
+        "browser_dom": null,
+        "screenshot": "research/content-craftoria-desktop.png",
+        "screenshot_scope": "真实网页定位截图；本模块具体内容以原文摘录与观察说明为准",
+        "public_business_signal": "页面显示4.6/5、1,339条评价；系品牌评价组件公开信息，不是订单数据。",
+        "signal_scope": "页面显示评分/评价；不能推断实际订单或该设计提高转化。",
+        "market_fit_note": "国际英文页明确成套制作过程、难度与耗时；只借鉴信息层级，不把其cm/耗时视为纽扣画事实。",
+        "limits": "公开评分和页面实现只支持描述性比较；改善幅度须通过PixelKnot自己的实验检验。 这些页面做法并不证明美国消费者普遍偏好它，更不证明它造成高转化。"
+      }
+    ],
+    "primary_screenshot": "screenshots/woobles-buy.png",
+    "primary_screenshot_note": "真实购买区截图，可见新手、材料与教程承诺；这些承诺属于Woobles本身。",
+    "research": [
+      "US-E5",
+      "US-E7"
+    ]
+  },
+  {
+    "id": "USF3",
+    "name": "套装价格卡：完整总价、每套价格、节省与进度",
+    "modules": [
+      "bundle-price"
+    ],
+    "best_for": "2/3/4件套需要选满设计、总价随状态变化的购买区。",
+    "current_problem": "2 Pack未选齐主价显示$58.65，选齐两款后$117.30。完整总价正确；未齐金额没有明确标为每件价、已选小计或完整套装价，不能确定它的对象。Pack与Bundle本身都是自然美国零售用语。",
+    "why_this_form": "金额要有稳定对象与购买数量，避免用户自行推算。这首先是通用价格理解问题；美元先写$、金额两位小数、per kit与total可作为美国页面的自然英文表达，而不是某类消费者必然偏好。",
+    "english_example": [
+      {
+        "label": "Pack heading",
+        "text": "2 kits — $117.30 total",
+        "status": "同价每套$69、两套15%优惠的明确假设示例"
+      },
+      {
+        "label": "Unit and saving",
+        "text": "$58.65 per kit · Save $20.70 (15%)",
+        "status": "相对2×$69；按真实优惠资格计算"
+      },
+      {
+        "label": "Selection state",
+        "text": "1 of 2 designs selected",
+        "status": "状态动态更新"
+      },
+      {
+        "label": "Incomplete CTA",
+        "text": "Choose your second design",
+        "status": "未选完进入选择，不假装已完成套装加购"
+      },
+      {
+        "label": "Complete CTA",
+        "text": "Add 2 kits to cart — $117.30",
+        "status": "仅选满、可售、金额正确时可用"
+      },
+      {
+        "label": "Variable price fallback",
+        "text": "Estimated total: [amount] · Final price updates with your selections",
+        "status": "仅真正随SKU变化时使用；固定同价则直接给完整总价"
+      }
+    ],
+    "visual_structure": [
+      "2/3/4 kits数量卡使用相同三行金额结构",
+      "完整套装总价作为主价，per kit作为辅价；折扣比较基准可读",
+      "已选X/N与缺少件数单列，不把已选小计放在Pack总价位置"
+    ],
+    "do_not_copy": [
+      "不要盲目复制参考站折扣或含税承诺",
+      "不把Blueland的订阅/续费机制添加到PixelKnot",
+      "Trtl当前静态HTML与浏览器促销价格冲突，仅借鉴数量与按钮，不能作金额标杆"
+    ],
+    "measurement": "价格理解正确率、选满率、成功加购率；每会话贡献、总购买率与优惠成本护栏。",
+    "references": [
+      {
+        "brand": "Sculpd",
+        "url": "https://sculpd.com/products/sculpd-pottery-date-night-bundle",
+        "page": "Pottery Date Night Bundle",
+        "observed": "首个购买区同时显示$85、划线$115和SAVE26%，旁边有折扣信息按钮；页面文字说明比较基于分别购买。先以双人约会套装作为价格对象，再选配色/光泽。",
+        "quotes": [
+          "$85",
+          "$115",
+          "SAVE 26%",
+          "Bundle savings vs buying separately"
+        ],
+        "source_local": "research/sculpd-date.txt",
+        "source_sha256": "7c048726a12c91e922808f41219ff8bdd877a8faadaa9032aae405ca5ade23f8",
+        "browser_dom": "research/sculpd-bundle-browser-dom.txt",
+        "screenshot": "research/sculpd-bundle-desktop.png",
+        "screenshot_scope": "真实网页定位截图；本模块具体内容以原文摘录与观察说明为准",
+        "public_business_signal": "4.9/5；1,605条商品页评价",
+        "signal_scope": "商品/品牌页面自报公开评价；非独立订单审计，不能证明设计造成转化提升",
+        "market_fit_note": "美国站已定义双人套装主价、划线价与Save百分比。",
+        "limits": "Sculpd价格受变体和促销影响；它自己的加购区也有多个附加选项，并非证明选项越少一定更好。 这些页面做法并不证明美国消费者普遍偏好它，更不证明它造成高转化。"
+      },
+      {
+        "brand": "Pott’d",
+        "url": "https://getpottd.com/products/creative-gift-bundle-for-one",
+        "page": "Creative Gift for Two Bundle",
+        "observed": "“CHOOSE QUANTITY”下将1 Kit与3 For2分成数量卡；卡片明确1与3，关联$74与$148的总量价格；说明第三套免费、最低价商品自动折扣。",
+        "quotes": [
+          "Choose Quantity",
+          "1 Kit",
+          "3 For 2",
+          "3rd Kit Free",
+          "Add any 3 kits to your cart and the cheapest item will be 100% discounted automatically"
+        ],
+        "source_local": "research/pottd-creative.txt",
+        "source_sha256": "96f0e2fff426c7607d553048987f1c459361d0a10a4b1ffa0b409ea4d78cbfb8",
+        "browser_dom": "research/pottd-bundle-browser-dom.txt",
+        "screenshot": "research/pottd-bundle-desktop.png",
+        "screenshot_scope": "真实网页定位截图；本模块具体内容以原文摘录与观察说明为准",
+        "public_business_signal": "4.86/5；7条该Bundle商品评价",
+        "signal_scope": "商品/品牌页面自报公开评价；非独立订单审计，不能证明设计造成转化提升",
+        "market_fit_note": "Pott’d US页以1 Kit/3 For 2数量卡表示金额归属。",
+        "limits": "仅借鉴数量与金额绑定；不复制限时/库存稀缺提示。7条评价不能替换为Pott’d其他单品的1,740条评价。 这些页面做法并不证明美国消费者普遍偏好它，更不证明它造成高转化。"
+      },
+      {
+        "brand": "Trtl",
+        "url": "https://trtltravel.com/products/double-comfort-bundle-2",
+        "page": "Double Comfort Bundle + Free Gift",
+        "observed": "浏览器选择区显示$76.98、参考$109.98和YOU SAVE$33；同一购买区先写PILLOW1与PILLOW2，旁边是“ADD BUNDLE TO CART”。",
+        "quotes": [
+          "Pillow 1",
+          "Pillow 2",
+          "Add Bundle to Cart",
+          "2x Trtl Pillows of your choice"
+        ],
+        "source_local": "research/trtl-double.txt",
+        "source_sha256": "339bf0a94064ad7cd1012d0f7b46030856f6835ff580816d9b4b4823d95c8075",
+        "browser_dom": "research/trtl-bundle-browser-dom.txt",
+        "screenshot": "research/trtl-bundle-desktop.png",
+        "screenshot_scope": "真实网页定位截图；本模块具体内容以原文摘录与观察说明为准",
+        "public_business_signal": "4.7/5；2,733条该页面评价",
+        "signal_scope": "商品/品牌页面自报公开评价；非独立订单审计，不能证明设计造成转化提升",
+        "market_fit_note": "页面明确Free Shipping within US；静态与浏览器价格不一致，仅借鉴数量与CTA。",
+        "limits": "静态HTML另含$144.97/省$67.99，与浏览器$109.98/省$33不同；仅借鉴数量槽位与CTA表达，不作为稳定折扣金额标杆。 这些页面做法并不证明美国消费者普遍偏好它，更不证明它造成高转化。"
+      },
+      {
+        "brand": "Blueland",
+        "url": "https://www.blueland.com/products/the-clean-suite",
+        "page": "Clean Suite Kit",
+        "observed": "明确区分“Buy One Time$110”与“Autoship$88”；另列Today’s Total$88和Recurring$105.57，并说明每3个月补充。价格不仅显示数字，还标明用途与收费时点。",
+        "quotes": [
+          "Buy One Time",
+          "Today’s Total",
+          "Recurring",
+          "Every 3 months"
+        ],
+        "source_local": "research/blueland-suite.txt",
+        "source_sha256": "1d98f24c7045876198cf3251658db366664c2a968cb4ceed030ea23f0ccbe406",
+        "browser_dom": "research/blueland-suite-browser-dom.txt",
+        "screenshot": "research/blueland-suite-desktop.png",
+        "screenshot_scope": "真实网页定位截图；本模块具体内容以原文摘录与观察说明为准",
+        "public_business_signal": "4.7/5；58,604条页面评价，可能包含共享商品评价",
+        "signal_scope": "商品/品牌页面自报公开评价；非独立订单审计，不能证明设计造成转化提升",
+        "market_fit_note": "美国零售页面把Buy One Time、Today’s Total、Recurring区分；仅学价格对象与收费时点清晰，不添加订阅。",
+        "limits": "不能把订阅首单折扣与一次性购买价格混比；公开评价可能汇总共享，不能等同该Bundle购买人数。 这些页面做法并不证明美国消费者普遍偏好它，更不证明它造成高转化。"
+      },
+      {
+        "brand": "Brooklinen",
+        "url": "https://www.brooklinen.com/pages/all-bundles",
+        "page": "All Bundles",
+        "observed": "各套装类型先写包含几件：如Hardcore含1床笠、1平单、1被套、4枕套；优惠写Up to15% off；商品列表价格明确用From表示起价。",
+        "quotes": [
+          "Includes 1 Fitted Sheet, 1 Flat Sheet, 1 Duvet Cover, and 4 Pillowcases",
+          "Up to 15% off",
+          "From:"
+        ],
+        "source_local": "research/brooklinen-bundles.txt",
+        "source_sha256": "072e75675c06d41a2d6ebd51c008329422708500ece25468aa2b1cc73426e67d",
+        "browser_dom": "research/brooklinen-bundle-browser-dom.txt",
+        "screenshot": "research/brooklinen-bundle-desktop.png",
+        "screenshot_scope": "真实网页定位截图；本模块具体内容以原文摘录与观察说明为准",
+        "public_business_signal": "页面显示175,000+五星评价；品牌级自报",
+        "signal_scope": "商品/品牌页面自报公开评价；非独立订单审计，不能证明设计造成转化提升",
+        "market_fit_note": "美元英文集合页明确From/Up to及完整套装件数；这不证明所有变体同价。",
+        "limits": "该集合页不能证明所有商品统一总价或折扣；页面品牌评价并非单个Bundle购买数。 这些页面做法并不证明美国消费者普遍偏好它，更不证明它造成高转化。"
+      }
+    ],
+    "primary_screenshot": "research/pottd-bundle-desktop.png",
+    "primary_screenshot_note": "Pott’d US真实购买区数量卡；价格是捕获时的该站促销，不是PixelKnot定价建议。",
+    "research": [
+      "US-E1",
+      "US-E7"
+    ]
+  },
+  {
+    "id": "USF4",
+    "name": "编号选款器：先选任务，再选设计，就近完成加购",
+    "modules": [
+      "bundle-selection"
+    ],
+    "best_for": "31款跨圣诞、动物、艺术主题混列，用户要搭配多件时。",
+    "current_problem": "当前有31款搜索、Cancel/Done和替换移除，底部购买条也已有联动；问题只是进度、任务与按钮对象是否足够清晰，31款数量本身不证明过多。",
+    "why_this_form": "编号槽位与明确动作名称降低记忆负担；主题入口可让节日访客先缩小相关范围。Cancel/Done是正常英文，建议把Done改为具体动作只为提高操作结果可预测性，而不是说美国人不使用Done。",
+    "english_example": [
+      {
+        "label": "Section heading",
+        "text": "Choose your designs",
+        "status": "适合套装选款标题"
+      },
+      {
+        "label": "Progress",
+        "text": "1 of 2 designs selected",
+        "status": "动态状态；按实际Pack更新"
+      },
+      {
+        "label": "Slot 1",
+        "text": "Design 1: Christmas Snowman · Change",
+        "status": "显示当前选择，可替换"
+      },
+      {
+        "label": "Slot 2",
+        "text": "Design 2: Choose a design",
+        "status": "进入选款"
+      },
+      {
+        "label": "Picker confirmation",
+        "text": "Save selections",
+        "status": "若按钮只是保存而不加购；不应误标Add to cart"
+      },
+      {
+        "label": "Bundle action",
+        "text": "Add 2 kits to cart — $117.30",
+        "status": "如果动作实际加入两套且金额符合条件"
+      }
+    ],
+    "visual_structure": [
+      "先显示Christmas/Animals/Art等真实SKU分类，全部与搜索保留",
+      "1/2/3/4编号槽位、缩略图、替换/移除及已选X/N并列",
+      "选择器确认按钮说明实际结果；完整总价与套装加购按钮同一区域",
+      "提供少量可编辑推荐组合实验，而非强制删除选择自由"
+    ],
+    "do_not_copy": [
+      "不认定弹窗形式一定不适合美国用户",
+      "不凭31款就断言选择过载",
+      "不能把保存选款、单品加购、套装加购、结账四种动作混用同一标签"
+    ],
+    "measurement": "开始→选满→成功加购→Bundle购买率、选择耗时、误加购与重复加购；随机对照后再决定。",
+    "references": [
+      {
+        "brand": "Trtl",
+        "url": "https://trtltravel.com/products/double-comfort-bundle-2",
+        "page": "Double Comfort Bundle + Free Gift",
+        "observed": "PILLOW1与PILLOW2各有款式和颜色，两个槽位直接在购买模块内完成；按钮明确ADD BUNDLE TO CART，并复述包含2x枕头。",
+        "quotes": [
+          "Pillow 1",
+          "Pillow 2",
+          "Add Bundle to Cart",
+          "2x Trtl Pillows of your choice"
+        ],
+        "source_local": "research/trtl-double.txt",
+        "source_sha256": "339bf0a94064ad7cd1012d0f7b46030856f6835ff580816d9b4b4823d95c8075",
+        "browser_dom": "research/trtl-bundle-browser-dom.txt",
+        "screenshot": "research/trtl-bundle-desktop.png",
+        "screenshot_scope": "真实网页定位截图；本模块具体内容以原文摘录与观察说明为准",
+        "public_business_signal": "4.7/5；2,733条该页面评价",
+        "signal_scope": "商品/品牌页面自报公开评价；非独立订单审计，不能证明设计造成转化提升",
+        "market_fit_note": "对美销售页用Pillow 1/Pillow 2编号；仅借鉴槽位与按钮对象。",
+        "limits": "不能据此断言弹窗一定较差；需用开始选择→选满→加购漏斗验证。TRTL价格来源存在冲突，按槽位设计借鉴。 这些页面做法并不证明美国消费者普遍偏好它，更不证明它造成高转化。"
+      },
+      {
+        "brand": "Blueland",
+        "url": "https://www.blueland.com/pages/build-your-bundle",
+        "page": "Build Your Bundle & Save",
+        "observed": "真实浏览器显示四个构建阶段：Start Building、Second-Save5%、Third-Save10%、Fourth-Save15%；尚未选商品时Add bundle to cart禁用；提供Bestsellers替代入口。",
+        "quotes": [
+          "Start Building Your Bundle",
+          "Add Your Second - Save 5%",
+          "Add Your Third - Save 10%",
+          "Add Your Fourth - Save 15%",
+          "Not sure where to start? Try one of our bestsellers!"
+        ],
+        "source_local": "research/blueland-build.txt",
+        "source_sha256": "cd89c824b5b2a36272fbddc86418af88dacfca7fb46a7aee2e6e91b8186bb175",
+        "browser_dom": "research/blueland-builder-browser-dom.txt",
+        "screenshot": "research/blueland-builder-selector.png",
+        "screenshot_scope": "真实网页定位截图；本模块具体内容以原文摘录与观察说明为准",
+        "public_business_signal": "同页推荐Clean Suite显示4.7/5、58,604条评价；非builder自身成交证据",
+        "signal_scope": "商品/品牌页面自报公开评价；非独立订单审计，不能证明设计造成转化提升",
+        "market_fit_note": "美国零售builder显示构建进度、未满足条件时不执行完整Bundle加购。",
+        "limits": "只读检查了初始builder状态，未向购物车提交；Blueland商品类型不同，四件门槛不是PixelKnot定价建议。 这些页面做法并不证明美国消费者普遍偏好它，更不证明它造成高转化。"
+      },
+      {
+        "brand": "Sculpd",
+        "url": "https://sculpd.com/products/sculpd-pottery-date-night-bundle",
+        "page": "Pottery Date Night Bundle",
+        "observed": "把用途定义为Creative Date Night/Perfect for Two；套装本体已定，只在购买区选4组Paints及Gloss/Matte；附加商品另置Pair With/Upgrade。",
+        "quotes": [
+          "Creative Date Night",
+          "Perfect for Two",
+          "Choose Your Paints",
+          "Choose Your Varnish",
+          "Pair With"
+        ],
+        "source_local": "research/sculpd-date.txt",
+        "source_sha256": "7c048726a12c91e922808f41219ff8bdd877a8faadaa9032aae405ca5ade23f8",
+        "browser_dom": "research/sculpd-bundle-browser-dom.txt",
+        "screenshot": "research/sculpd-bundle-desktop.png",
+        "screenshot_scope": "真实网页定位截图；本模块具体内容以原文摘录与观察说明为准",
+        "public_business_signal": "4.9/5；1,605条商品页评价",
+        "signal_scope": "商品/品牌页面自报公开评价；非独立订单审计，不能证明设计造成转化提升",
+        "market_fit_note": "美国站先定义Date Night用途，再选择Paints/Varnish；可学任务分层。",
+        "limits": "组合名称是待测试方案；需真实库存、内容、用途支持，不能宣称一定提升选择率。 这些页面做法并不证明美国消费者普遍偏好它，更不证明它造成高转化。"
+      },
+      {
+        "brand": "Pott’d",
+        "url": "https://getpottd.com/products/creative-gift-bundle-for-one",
+        "page": "Creative Gift for Two Bundle",
+        "observed": "先用Creative Gift for Two Bundle说明用途和人数；数量区只有1 Kit与3 For2两个入口，What’s in the box列出Home Pottery Kit+Paint-a-Mug Kit。",
+        "quotes": [
+          "Creative Gift for Two Bundle",
+          "1 Kit",
+          "3 For 2",
+          "Home Pottery Kit",
+          "Paint-a-Mug Kit"
+        ],
+        "source_local": "research/pottd-creative.txt",
+        "source_sha256": "96f0e2fff426c7607d553048987f1c459361d0a10a4b1ffa0b409ea4d78cbfb8",
+        "browser_dom": "research/pottd-bundle-browser-dom.txt",
+        "screenshot": "research/pottd-bundle-desktop.png",
+        "screenshot_scope": "真实网页定位截图；本模块具体内容以原文摘录与观察说明为准",
+        "public_business_signal": "4.86/5；7条该Bundle商品评价",
+        "signal_scope": "商品/品牌页面自报公开评价；非独立订单审计，不能证明设计造成转化提升",
+        "market_fit_note": "Pott’d US先定义双人用途与套件组合，数量区入口清楚。",
+        "limits": "1 Kit在Pott’d指整个含两类产品的套装，不能直接翻译为PixelKnot一件单品。 这些页面做法并不证明美国消费者普遍偏好它，更不证明它造成高转化。"
+      },
+      {
+        "brand": "Brooklinen",
+        "url": "https://www.brooklinen.com/pages/all-bundles",
+        "page": "All Bundles",
+        "observed": "集合页按Hardcore、Starter、Move-In等用途/配置分类，类别卡片先列内容，再进入产品；商品同时按面料、颜色导航。",
+        "quotes": [
+          "Hardcore Sheet Bundles",
+          "Starter Bundles",
+          "Move-In Bundles",
+          "Shop by Fabric"
+        ],
+        "source_local": "research/brooklinen-bundles.txt",
+        "source_sha256": "072e75675c06d41a2d6ebd51c008329422708500ece25468aa2b1cc73426e67d",
+        "browser_dom": "research/brooklinen-bundle-browser-dom.txt",
+        "screenshot": "research/brooklinen-bundle-desktop.png",
+        "screenshot_scope": "真实网页定位截图；本模块具体内容以原文摘录与观察说明为准",
+        "public_business_signal": "页面显示175,000+五星评价；品牌级自报",
+        "signal_scope": "商品/品牌页面自报公开评价；非独立订单审计，不能证明设计造成转化提升",
+        "market_fit_note": "英文美元套装页先以Starter/Move-In等用途分类，再进入款式；应匹配真实SKU而非照搬品类。",
+        "limits": "本轮验证了分类和内容，不以品牌评论数证明分类能提升成交；分类应与真实SKU属性一致。 这些页面做法并不证明美国消费者普遍偏好它，更不证明它造成高转化。"
+      }
+    ],
+    "primary_screenshot": "research/blueland-builder-selector.png",
+    "primary_screenshot_note": "真实builder选择视图；支持观察编号阶段、选择区与加购条件，不证明该模式优于PixelKnot。",
+    "research": [
+      "US-E7"
+    ]
+  },
+  {
+    "id": "USF5",
+    "name": "购买安心条：配送起算点 + 售后入口 + 真实评价",
+    "modules": [
+      "shipping_support",
+      "trust-and-real-results"
+    ],
+    "best_for": "送礼时效、缺件风险与第一次购买需要同时确认的美国手机购物场景。",
+    "current_problem": "已有美国免运、通常同工作日发出、发出后3–5工作日及配送例外入口。不是缺少物流；可检查消费者是否把发货时间误认为到货时间，以及能否找到退换和缺件处理。",
+    "why_this_form": "购买区附近提供短摘要，详细政策一键可达，能减少配送与风险信息的查找成本。美国常见US shipping/returns/reviews表达易识别，但承诺必须与地区、截止时间、真实政策一致；没有数据可说所有美国用户都要免费退货。",
+    "english_example": [
+      {
+        "label": "Shipping summary",
+        "text": "Free standard U.S. shipping",
+        "status": "现有已确认表达，可保留"
+      },
+      {
+        "label": "Processing",
+        "text": "Usually ships the same business day",
+        "status": "保留usually条件；必须符合截单时间和美国库存"
+      },
+      {
+        "label": "Transit",
+        "text": "Estimated delivery: 3–5 business days after shipment",
+        "status": "当前已存在，可保留或测试更易懂排版"
+      },
+      {
+        "label": "Policy links",
+        "text": "Shipping details · Returns · Missing or damaged parts",
+        "status": "各自链接真实条款；没有免费退货则不得写Free returns"
+      },
+      {
+        "label": "Date alternative",
+        "text": "Estimated arrival: [verified date range]",
+        "status": "只有库存、处理、承运商、ZIP和周末/节假日计算可靠时才展示"
+      },
+      {
+        "label": "Reviews",
+        "text": "[verified rating] · [real review count] reviews",
+        "status": "从真实评论系统读取，标明具体商品/聚合范围；不编造Verified Buyer"
+      }
+    ],
+    "visual_structure": [
+      "Add to cart附近两三条短摘要，避免大幅重复徽章",
+      "处理时间与运输时间分行，US与适用地区清楚",
+      "退换/缺件链接到真条款；真实评价入口同时可见",
+      "如可计算，按目的地展示预计日期范围，不用假倒计时或固定保证到货日"
+    ],
+    "do_not_copy": [
+      "不照搬14/30/100天、免费退货、人工支持等服务",
+      "不把只显示星星当作购买验证",
+      "Pott’d与Sculpd同页时效/退货摘要存在张力，借鉴层级时必须核对一致性",
+      "不把现有3–5工作日改成保证3–5日收到"
+    ],
+    "measurement": "配送/退换/缺件任务答对率、服务咨询与退货成本、购买率和每会话贡献。",
+    "references": [
+      {
+        "brand": "The Woobles",
+        "url": "https://thewoobles.com/products/penguin-crochet-kit",
+        "page": "Pierre the Penguin Crochet Kit",
+        "observed": "购买文本序列在Add To Cart附近列保证、免邮门槛、人工支持；FAQ明确14天从收货起算及退运费责任。",
+        "quotes": [
+          "Happiness guarantee",
+          "Free shipping on $50+",
+          "Video + real human support",
+          "You have 14 days from the date you receive your kit to request a return. Shipping costs are non-refundable, and customers are responsible for return shipping."
+        ],
+        "source_local": "research/specs-woobles.txt",
+        "source_sha256": "17ce66da9a6e1644e8f01d0b1e3905e4a0f5fc75701d28b06013aca0378195b6",
+        "browser_dom": null,
+        "screenshot": "screenshots/woobles-buy.png",
+        "screenshot_scope": "购买区实拍；尺寸具体数字以原文摘录为准",
+        "public_business_signal": "4.8 / 5，1,893 条商品评价",
+        "signal_scope": "品牌托管商品评价，非订单审计",
+        "market_fit_note": "US/USD页在购买区附近放免运门槛、保障与人工支持，退货条件另说明。",
+        "limits": "不建议无条件复制14天或免费退货；须先核对PixelKnot政策与成本。 这些页面做法并不证明美国消费者普遍偏好它，更不证明它造成高转化。"
+      },
+      {
+        "brand": "Sculpd",
+        "url": "https://sculpd.com/products/sculpd",
+        "page": "Sculpd Pottery Kit",
+        "observed": "区分标准与加急选项，说明本土适用地区；退款处理14天从退件收讫起算。",
+        "quotes": [
+          "Free shipping over $50!",
+          "2 day express option",
+          "Easy Returns",
+          "Standard shipping typically arrives within 2–3 days for most contiguous US states.",
+          "Once your return reaches us, we’ll process your refund within 14 days."
+        ],
+        "source_local": "research/specs-sculpd-product.txt",
+        "source_sha256": "103afc8412cdc394daec9e252d2ad7c5975d5c49636ae99caf96efb706b1d5be",
+        "browser_dom": null,
+        "screenshot": "screenshots/sculpd-buy.png",
+        "screenshot_scope": "数量、购买与配送区实拍；其他具体条款见原文",
+        "public_business_signal": "4.9 / 5，1,605 条商品评价",
+        "signal_scope": "该具体商品页评价，非订单审计",
+        "market_fit_note": "美国站区分standard与express并有本土适用范围；页内2–4/2–3天摘要有差别，不应照抄。",
+        "limits": "Sculpd页上2–4day摘要与2–3dayFAQ不完全相同；不把它当作没有瑕疵的标准。 这些页面做法并不证明美国消费者普遍偏好它，更不证明它造成高转化。"
+      },
+      {
+        "brand": "Pott’d",
+        "url": "https://getpottd.com/products/pottd-home-air-dry-clay-pottery-kit",
+        "page": "Home Air-Dry Clay Pottery Kit",
+        "observed": "用短标签串联运输、追踪、退货；FAQ给2pm截单条件，页尾另有30天退货摘要。",
+        "quotes": [
+          "2-4 Day Shipping",
+          "Tracked Shipping",
+          "Easy Returns",
+          "Order before 2pm and your kit will be delivered within 2-4 working days. Less waiting, more creating.",
+          "30 Day Easy Returns"
+        ],
+        "source_local": "research/specs-pottd.txt",
+        "source_sha256": "0fd3a9b07cfaa57fd374629005fc2f559f7bb89278eacbecf82322ab3b8556ff",
+        "browser_dom": null,
+        "screenshot": "screenshots/pottd-quantity.png",
+        "screenshot_scope": "数量与总价实拍；材料/配送详细条款以原文摘录为准",
+        "public_business_signal": "4.89 / 5，1,740 条商品评价",
+        "signal_scope": "商品评价组件公开数值，非付款记录核验",
+        "market_fit_note": "Pott’d US呈现tracking/returns短标签；30天与anytime文字张力尚未核清。",
+        "limits": "Pott’d同页还写“return ... anytime”，与30天摘要表述张力未核清；借鉴信息结构，不复制模糊承诺。 这些页面做法并不证明美国消费者普遍偏好它，更不证明它造成高转化。"
+      },
+      {
+        "brand": "Blueland",
+        "url": "https://www.blueland.com/products/the-clean-suite",
+        "page": "Clean Suite Kit",
+        "observed": "明确区分“Buy One Time$110”与“Autoship$88”；另列Today’s Total$88和Recurring$105.57，并说明每3个月补充。价格不仅显示数字，还标明用途与收费时点。",
+        "quotes": [
+          "Free Shipping Over $50 + Free Returns"
+        ],
+        "source_local": "research/blueland-suite.txt",
+        "source_sha256": "1d98f24c7045876198cf3251658db366664c2a968cb4ceed030ea23f0ccbe406",
+        "browser_dom": "research/blueland-suite-browser-dom.txt",
+        "screenshot": "research/blueland-suite-desktop.png",
+        "screenshot_scope": "真实网页定位截图；本模块具体内容以原文摘录与观察说明为准",
+        "public_business_signal": "4.7/5；58,604条页面评价，可能包含共享商品评价",
+        "signal_scope": "商品/品牌页面自报公开评价；非独立订单审计，不能证明设计造成转化提升",
+        "market_fit_note": "美国零售页顶部Free Shipping Over $50 + Free Returns、具体产品评价与价格信息同页；仅参考可发现性。",
+        "limits": "不能把订阅首单折扣与一次性购买价格混比；公开评价可能汇总共享，不能等同该Bundle购买人数。 这些页面做法并不证明美国消费者普遍偏好它，更不证明它造成高转化。"
+      },
+      {
+        "brand": "Trtl",
+        "url": "https://trtltravel.com/products/double-comfort-bundle-2",
+        "page": "Double Comfort Bundle + Free Gift",
+        "observed": "PILLOW1与PILLOW2各有款式和颜色，两个槽位直接在购买模块内完成；按钮明确ADD BUNDLE TO CART，并复述包含2x枕头。",
+        "quotes": [
+          "100 days money back guarantee for pillows and accessories + Free Shipping within US"
+        ],
+        "source_local": "research/trtl-double.txt",
+        "source_sha256": "339bf0a94064ad7cd1012d0f7b46030856f6835ff580816d9b4b4823d95c8075",
+        "browser_dom": "research/trtl-bundle-browser-dom.txt",
+        "screenshot": "research/trtl-bundle-desktop.png",
+        "screenshot_scope": "真实网页定位截图；本模块具体内容以原文摘录与观察说明为准",
+        "public_business_signal": "4.7/5；2,733条该页面评价",
+        "signal_scope": "商品/品牌页面自报公开评价；非独立订单审计，不能证明设计造成转化提升",
+        "market_fit_note": "页面明确美国免运与100天保障；只能借鉴范围写清，不复制100天政策。",
+        "limits": "不能据此断言弹窗一定较差；需用开始选择→选满→加购漏斗验证。TRTL价格来源存在冲突，按槽位设计借鉴。 这些页面做法并不证明美国消费者普遍偏好它，更不证明它造成高转化。"
+      }
+    ],
+    "primary_screenshot": "screenshots/woobles-buy.png",
+    "primary_screenshot_note": "真实购买区截图，可见免运门槛、支持与真实评价入口；不能推定服务适用于PixelKnot。",
+    "research": [
+      "US-E2",
+      "US-E3",
+      "US-E4"
+    ]
+  }
+]

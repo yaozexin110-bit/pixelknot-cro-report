@@ -1,0 +1,809 @@
+- region:
+  - paragraph: We use cookies to enhance your browsing experience, serve personalized ads or content, and analyze our traffic. By clicking "Accept All", you consent to our use of cookies.
+  - button "Customize"
+  - button "Accept All"
+- region "Keyboard Navigation links":
+  - link "Skip to content":
+    - /url: "#MainContent"
+- paragraph: Free shipping on orders over $50
+- list:
+  - link "Sculpd on Instagram, (open in a new window)":
+    - /url: https://instagram.com/sculpdit
+    - generic: Instagram
+  - link "Sculpd on Facebook, (open in a new window)":
+    - /url: https://facebook.com/sculpdit
+    - generic: Facebook
+  - link "Sculpd on YouTube (opens in a new window)":
+    - /url: https://youtube.com/sculpd
+    - generic: YouTube
+  - link "Sculpd on Pinterest (opens in a new window)":
+    - /url: https://www.pinterest.com/sculpd/
+    - generic: Pinterest
+  - link "Sculpd on TikTok, (open in a new window)":
+    - /url: https://www.tiktok.com/@sculpd
+    - generic: TikTok
+- banner:
+  - link "Sculpd logo":
+    - /url: /
+    - img "Sculpd logo"
+  - list:
+    - link "Pottery":
+      - /url: "#"
+      - text: Pottery
+    - link "Candle Making":
+      - /url: "#"
+      - text: Candle Making
+    - link "Painting":
+      - /url: "#"
+      - text: Painting
+    - link "Gifting":
+      - /url: "#"
+      - text: Gifting
+    - link "Kids":
+      - /url: "#"
+      - text: Kids
+    - link "Paints":
+      - /url: "#"
+      - text: Paints
+    - link "Inspo":
+      - /url: "#"
+      - text: Inspo
+    - link "Corporate":
+      - /url: "#"
+      - text: Corporate
+    - link "Help":
+      - /url: /pages/help-center
+      - text: Help
+  - button "Select country":
+    - img "United States Flag"
+  - button "Search menu popup":
+    - generic: Search
+  - link "Account":
+    - /url: /account
+    - generic: Account
+  - link "Cart":
+    - /url: /cart
+    - generic: Cart
+- main:
+  - link "skip to product gallery":
+    - /url: "#skiptoheading"
+  - img "Pottery Kit for Two in Pink Box with Floral Paints and Letter Stamps"
+  - button
+  - button "Previous":
+  - button "Next":
+  - link "Pottery Kit for Two in Pink Box with Floral Paints and Letter Stamps":
+    - /url: //sculpd.com/cdn/shop/files/PotteryKitforTwo_PinkBox_Floral_LetterStamps_1800x1800.webp?v=1761240017
+    - img "Pottery Kit for Two in Pink Box with Floral Paints and Letter Stamps"
+  - link "Couple Date Night with Sculpd Pottery Bundle":
+    - /url: //sculpd.com/cdn/shop/files/Couple_Date_Night_with_Sculpd_Pottery_Bundle_1800x1800.webp?v=1771460454
+    - img "Couple Date Night with Sculpd Pottery Bundle"
+  - link "Pottery Kit for Two in Light blue box with Pastel Paints and Letter Stamps":
+    - /url: //sculpd.com/cdn/shop/files/PotteryKitforTwo_Lightbluebox_PastelPaints_LetterStamps_1800x1800.webp?v=1771460454
+    - img "Pottery Kit for Two in Light blue box with Pastel Paints and Letter Stamps"
+  - link "Pottery Kit for Two in Dark Blue Box with Classic Paints and Letter Stamps":
+    - /url: //sculpd.com/cdn/shop/files/PotteryKitforTwo_Darkbluebox_Classic_LetterStamps_1800x1800.webp?v=1771460454
+    - img "Pottery Kit for Two in Dark Blue Box with Classic Paints and Letter Stamps"
+  - link "Pottery Kit for Two with Earth Paints and Letter Stamps":
+    - /url: //sculpd.com/cdn/shop/files/PotteryKitforTwo_CreamBox_EarthPaints_LetterStamps_1800x1800.webp?v=1771460454
+    - img "Pottery Kit for Two with Earth Paints and Letter Stamps"
+  - link "Pottery Kit for Two with Pastel Paints and Letter Stamps":
+    - /url: //sculpd.com/cdn/shop/files/PotteryKitforTwo_Green_Pastel_1800x1800.webp?v=1771460454
+    - img "Pottery Kit for Two with Pastel Paints and Letter Stamps"
+  - link "Pottery Kit for Two with Classic Paints and Letter Stamps":
+    - /url: //sculpd.com/cdn/shop/files/PotteryKitforTwo_Green_Classic_LetterStamps_1800x1800.webp?v=1771460454
+    - img "Pottery Kit for Two with Classic Paints and Letter Stamps"
+  - link "Pottery Kit for Two with Earth Paints and Letter Stamps in a Green Box":
+    - /url: //sculpd.com/cdn/shop/files/PotteryKitforTwo_Green_Earth_LetterStamps_1800x1800.webp?v=1771460454
+    - img "Pottery Kit for Two with Earth Paints and Letter Stamps in a Green Box"
+  - link "Pottery Kit for Two in Green box with Floral Paints and Letter Stamps":
+    - /url: //sculpd.com/cdn/shop/files/PotteryKitforTwo_Green_Floral_LetterStamps_1800x1800.webp?v=1771460454
+    - img "Pottery Kit for Two in Green box with Floral Paints and Letter Stamps"
+  - link "Sculpd pottery kit for two with floral paints, and fine tip pens set":
+    - /url: //sculpd.com/cdn/shop/files/Pottery_Kit_for_Two_Green__Floral_Paints_Fine_Tip_Pens_1800x1800.jpg?v=1771460454
+    - img "Sculpd pottery kit for two with floral paints, and fine tip pens set"
+  - link "Sculpd pottery kit for two with pastel paints, and fine tip pens set":
+    - /url: //sculpd.com/cdn/shop/files/Pottery_Kit_for_Two_Green__Pastel_Paints_Fine_Tip_Pens_1800x1800.jpg?v=1771460454
+    - img "Sculpd pottery kit for two with pastel paints, and fine tip pens set"
+  - link "Sculpd pottery kit for two with classic paints, and fine tip pens set":
+    - /url: //sculpd.com/cdn/shop/files/Pottery_Kit_for_Two_Green__Classic_Paints_Fine_Tip_Pens_1800x1800.jpg?v=1771460454
+    - img "Sculpd pottery kit for two with classic paints, and fine tip pens set"
+  - link "Sculpd pottery kit for two with earth paints, and fine tip pens set":
+    - /url: //sculpd.com/cdn/shop/files/Pottery_Kit_for_Two_Green__Earth_Paints_Fine_Tip_Pens_1800x1800.jpg?v=1771460454
+    - img "Sculpd pottery kit for two with earth paints, and fine tip pens set"
+  - link "Sculpd pottery kit for two in a pink box with floral paints, and Modernist pens set":
+    - /url: //sculpd.com/cdn/shop/files/Pottery_Kit_for_Two_Pink__Floral_Paints_Modernist_Pens_2_1800x1800.jpg?v=1771460454
+    - img "Sculpd pottery kit for two in a pink box with floral paints, and Modernist pens set"
+  - link "Sculpd pottery kit for two with varnishes, floral paints, and Modernist pens set":
+    - /url: //sculpd.com/cdn/shop/files/Pottery_Kit_for_Two_Pink__Floral_Paints_Modernist_Pens_1_1800x1800.jpg?v=1771460454
+    - img "Sculpd pottery kit for two with varnishes, floral paints, and Modernist pens set"
+  - link "Sculpd pottery kit for two in a pink box with floral paints, and metallic pens set":
+    - /url: //sculpd.com/cdn/shop/files/Pottery_Kit_for_Two_Pink__Floral_Paints_Metallic_Pens_65077205-53c6-415e-a5b7-6515716b5124_1800x1800.jpg?v=1771460454
+    - img "Sculpd pottery kit for two in a pink box with floral paints, and metallic pens set"
+  - link "Sculpd pottery kit for two with floral paints, and metallic pens set":
+    - /url: //sculpd.com/cdn/shop/files/Pottery_Kit_for_Two_Pink__Floral_Paints_Metallic_Pens_1_1800x1800.jpg?v=1771460454
+    - img "Sculpd pottery kit for two with floral paints, and metallic pens set"
+  - link "Sculpd pottery kit for two with pastel paints, and modernist pens set":
+    - /url: //sculpd.com/cdn/shop/files/Pottery_Kit_for_Two_Green_-_Matte_Light_Blue_Bottle__Pastel_Paint_Set_Modern_Pens_1800x1800.jpg?v=1771460454
+    - img "Sculpd pottery kit for two with pastel paints, and modernist pens set"
+  - link "Sculpd pottery kit for two with earth paints, and modernist pens set":
+    - /url: //sculpd.com/cdn/shop/files/Pottery_Kit_for_Two_Green_-_Matte_Light_Blue_Bottle__Earth_Paint_Set_Modern_Pens_1800x1800.jpg?v=1771460454
+    - img "Sculpd pottery kit for two with earth paints, and modernist pens set"
+  - link "Sculpd pottery kit for two with pastel paints, and metallic pens set":
+    - /url: //sculpd.com/cdn/shop/files/Pottery_Kit_for_Two_Green_-_Gloss_Dark_Blue_Bottle__Pastel_Paint_Set_Metallic_Pens_1800x1800.jpg?v=1771460454
+    - img "Sculpd pottery kit for two with pastel paints, and metallic pens set"
+  - link "Sculpd pottery kit for two with earth paints, and metallic pens set":
+    - /url: //sculpd.com/cdn/shop/files/Pottery_Kit_for_Two_Green_-_Matte_Light_Blue_Bottle__Earth_Paint_Set_Metallic_Pens_1800x1800.jpg?v=1771460454
+    - img "Sculpd pottery kit for two with earth paints, and metallic pens set"
+  - link "Sculpd pottery kit for two with varnishes, earth paints, and metallic pens set":
+    - /url: //sculpd.com/cdn/shop/files/Pottery_Kit_for_Two_Green_-_Gloss_Dark_Blue_Bottle__Earth_Paint_Set_Metallic_Pens_1800x1800.jpg?v=1771460454
+    - img "Sculpd pottery kit for two with varnishes, earth paints, and metallic pens set"
+  - link "Sculpd pottery kit for two in a green box with pastel paints, and metallic pens set":
+    - /url: //sculpd.com/cdn/shop/files/Pottery_Kit_for_Two_Green_-_Gloss_Dark_Blue_Bottle__Pastel_Paint_Set_Metallic_Pens_12d7a220-f590-48e0-a57e-05184b316976_1800x1800.jpg?v=1771460454
+    - img "Sculpd pottery kit for two in a green box with pastel paints, and metallic pens set"
+  - link "Sculpd pottery kit bundle with pastel paints, and modernist pens set":
+    - /url: //sculpd.com/cdn/shop/files/D2C_-_KIT-GLOSS-P-PASTEL-PENS-MODERN_-_Sculpd_-_Compressed_-_1_1800x1800.jpg?v=1771460454
+    - img "Sculpd pottery kit bundle with pastel paints, and modernist pens set"
+  - link "Sculpd pottery kit bundle with earth paints, and modernist pens set":
+    - /url: //sculpd.com/cdn/shop/files/D2C_-_KIT-MATTE-P-RICH-PENS-MODERN_-_Sculpd_-_Compressed_-_1_1800x1800.jpg?v=1771460454
+    - img "Sculpd pottery kit bundle with earth paints, and modernist pens set"
+  - link "Sculpd pottery kit bundle with classic paints, and metallic pens set":
+    - /url: //sculpd.com/cdn/shop/files/D2C_-_KIT-MATTE-P-RICH-PENS-METALLIC_-_Sculpd_-_Compressed_-_1_1800x1800.jpg?v=1771460454
+    - img "Sculpd pottery kit bundle with classic paints, and metallic pens set"
+  - link "Sculpd pottery kit bundle with classic paints, and modernist pens set":
+    - /url: //sculpd.com/cdn/shop/files/D2C_-_KIT-GLOSS-P-RICH-PENS-MODERN_-_Sculpd_-_Compressed_-_1_1800x1800.jpg?v=1771460454
+    - img "Sculpd pottery kit bundle with classic paints, and modernist pens set"
+  - link "Sculpd pottery kit for two with classic paints, and metallic pens set":
+    - /url: //sculpd.com/cdn/shop/files/D2C_-_KIT-GLOSS-P-RICH-PENS-METALLIC_-_Sculpd_-_Compressed_-_1_1800x1800.jpg?v=1771460454
+    - img "Sculpd pottery kit for two with classic paints, and metallic pens set"
+  - link "Sculpd pottery kit for two with classic paints, terracotta pens and varnish":
+    - /url: //sculpd.com/cdn/shop/files/D2C_-_KIT-MATTE-P-RICH-PENS-TERR_-_Sculpd_-_Compressed_-_1_1800x1800.jpg?v=1778756786
+    - img "Sculpd pottery kit for two with classic paints, terracotta pens and varnish"
+  - link "Sculpd pottery kit with classic paints, terracotta pens and varnish":
+    - /url: //sculpd.com/cdn/shop/files/D2C_-_KIT-GLOSS-P-RICH-PENS-TERR_-_Sculpd_-_Compressed_-_1_1800x1800.jpg?v=1778756793
+    - img "Sculpd pottery kit with classic paints, terracotta pens and varnish"
+  - link "Sculpd pottery kit for two with classic paints, monotones pens and varnish":
+    - /url: //sculpd.com/cdn/shop/files/D2C_-_KIT-MATTE-P-RICH-PENS-MONO-VB_-_Sculpd_-_Compressed_-_1_1800x1800.jpg?v=1778756835
+    - img "Sculpd pottery kit for two with classic paints, monotones pens and varnish"
+  - link "Sculpd pottery kit with classic paints, monotones pens and varnish":
+    - /url: //sculpd.com/cdn/shop/files/D2C_-_KIT-GLOSS-P-RICH-PENS-MONO_-_Sculpd_-_Compressed_-_1_1800x1800.jpg?v=1778756855
+    - img "Sculpd pottery kit with classic paints, monotones pens and varnish"
+  - link "US Sculpd pottery kit for two - Floral tones paints and Terracotta Pens with Varnishes":
+    - /url: //sculpd.com/cdn/shop/files/Pottery_Kit_for_Two_Green_-_Matte_Light_Blue_Bottle__Floral_Paint_Set_Terracotta_Pens_1800x1800.jpg?v=1779807713
+    - img "US Sculpd pottery kit for two - Floral tones paints and Terracotta Pens with Varnishes"
+  - link "US Sculpd pottery kit for two - Earth tones paints and Terracotta Pens with Varnishes":
+    - /url: //sculpd.com/cdn/shop/files/Pottery_Kit_for_Two_Green_-_Matte_Light_Blue_Bottle__Earth_Paint_Set_Terracotta_Pens_1800x1800.jpg?v=1779807726
+    - img "US Sculpd pottery kit for two - Earth tones paints and Terracotta Pens with Varnishes"
+  - link "US Sculpd pottery kit for two - Floral tones paints and Monotones Pens with Varnishes":
+    - /url: //sculpd.com/cdn/shop/files/Pottery_Kit_for_Two_Green_-_Matte_Light_Blue_Bottle__Floral_Paint_Set_Monotones_Pens_1800x1800.jpg?v=1779807755
+    - img "US Sculpd pottery kit for two - Floral tones paints and Monotones Pens with Varnishes"
+  - link "US Sculpd pottery kit for two - Earth tones paints and Monotones Pens with Varnishes":
+    - /url: //sculpd.com/cdn/shop/files/Pottery_Kit_for_Two_Green_-_Matte_Light_Blue_Bottle__Earth_Paint_Set_Monotones_Pens_1800x1800.jpg?v=1779807785
+    - img "US Sculpd pottery kit for two - Earth tones paints and Monotones Pens with Varnishes"
+  - link "US Sculpd pottery kit for two - Floral tones paints and Terracotta Pens":
+    - /url: //sculpd.com/cdn/shop/files/Pottery_Kit_for_Two_Green_-_Gloss_Dark_Blue_Bottle__Floral_Paint_Set_Terracotta_Pens_1800x1800.jpg?v=1779807827
+    - img "US Sculpd pottery kit for two - Floral tones paints and Terracotta Pens"
+  - link "US Sculpd pottery kit for two - Earth tones paints and Terracotta Pens":
+    - /url: //sculpd.com/cdn/shop/files/Pottery_Kit_for_Two_Green_-_Gloss_Dark_Blue_Bottle__Earth_Paint_Set_Terracotta_Pens_1800x1800.jpg?v=1779807836
+    - img "US Sculpd pottery kit for two - Earth tones paints and Terracotta Pens"
+  - link "US Sculpd pottery kit for two - Floral tones paints and Monotones Pens":
+    - /url: //sculpd.com/cdn/shop/files/Pottery_Kit_for_Two_Green_-_Gloss_Dark_Blue_Bottle__Floral_Paint_Set_Monotones_Pens_1800x1800.jpg?v=1779807868
+    - img "US Sculpd pottery kit for two - Floral tones paints and Monotones Pens"
+  - link "US Sculpd pottery kit for two - Earth tones paints and Monotones Pens":
+    - /url: //sculpd.com/cdn/shop/files/Pottery_Kit_for_Two_Green_-_Gloss_Dark_Blue_Bottle__Earth_Paint_Set_Monotones_Pens_1800x1800.jpg?v=1779807881
+    - img "US Sculpd pottery kit for two - Earth tones paints and Monotones Pens"
+  - button "Next":
+  - img "Sculpd pottery date night what's in the box"
+  - img "Couple enjoying their ultimate bundle creations"
+  - img "No kiln? No problem"
+  - heading "No kiln? No problem" [level=3]
+  - generic: Make stunning pots at home - no kiln, just clever clay and waterproof varnish
+  - img "Designed with Earth in Mind"
+  - heading "Designed with Earth in Mind" [level=3]
+  - generic: Packed with love and planet-friendly materials
+  - img "Couple Date Night with Sculpd Pottery Bundle"
+  - img "Sculdp wine glass tray pottery creation"
+  - text: Creative Date Night
+  - text: Perfect for Two
+  - button "Rated 4.9 out of 5 stars 1,605 Click to scroll to reviews":
+    - generic: Rated 4.9 out of 5 stars
+    - generic: 1,605
+    - generic: Click to scroll to reviews
+  - heading "Pottery Date Night Bundle" [level=1]
+  - paragraph: Connect, craft, and make memories together.
+  - group "Product pricing information":
+    - generic: $85
+    - generic: $115
+    - generic: SAVE 26%
+    - button "More information about this saving":
+  - generic: "Choose Your Paints: Floral Tones"
+  - group "Choose Your Paints":
+    - radio "Floral Tones Floral Tones" [checked]
+    - img "Floral Tones"
+    - generic: Floral Tones
+    - radio "Classic Tones Classic Tones"
+    - img "Classic Tones"
+    - generic: Classic Tones
+    - radio "Earth Tones Earth Tones"
+    - img "Earth Tones"
+    - generic: Earth Tones
+    - radio "Pastel Tones Pastel Tones"
+    - img "Pastel Tones"
+    - generic: Pastel Tones
+  - generic: "Choose Your Varnish: Gloss"
+  - group "Choose Your Varnish":
+    - radio "Gloss" [checked]
+    - generic: Gloss
+    - radio "Matte"
+    - generic: Matte
+  - tablist "Product add-ons and upgrades":
+    - tab "Pair With" [selected]
+    - tab "Upgrade Your Experience"
+  - tabpanel "Pair With":
+    - button "Add to Cart $18":
+      - generic: Add to Cart
+      - generic: ·
+      - generic: $18
+    - link "2lbs Sculpd Clay Bag Extra Clay Bag Accessories Sculpd 2lbs Air-Dry Clay Bag More clay, more creations.":
+      - /url: /products/extra-clay-bag?pr_prod_strat=pinned&pr_rec_id=4124c3c75&pr_rec_pid=5331827622046&pr_ref_pid=15148217991539&pr_seq=uniform
+      - img "2lbs Sculpd Clay Bag"
+      - img "Extra Clay Bag Accessories Sculpd"
+      - generic: 2lbs Air-Dry Clay Bag
+      - paragraph: More clay, more creations.
+    - button "Add to Cart $25":
+      - generic: Add to Cart
+      - generic: ·
+      - generic: $25
+    - link "Sculpd Acrylic Paint Sets Paint Set Sculpd Pastel Tones Sculpd Acrylic Paint Sets Paint Set Sculpd Classic Tones Sculpd Acrylic Paint Sets Turn simple clay into colorful, one-of-a-kind art.":
+      - /url: /products/sculpd-acrylic-paint-sets?pr_prod_strat=pinned&pr_rec_id=4124c3c75&pr_rec_pid=8049166090398&pr_ref_pid=15148217991539&pr_seq=uniform
+      - img "Sculpd Acrylic Paint Sets Paint Set Sculpd Pastel Tones"
+      - img "Sculpd Acrylic Paint Sets Paint Set Sculpd Classic Tones"
+      - generic: Sculpd Acrylic Paint Sets
+      - paragraph: Turn simple clay into colorful, one-of-a-kind art.
+  - list:
+    - generic: In Stock! 2-4 day shipping across the US
+    - list:
+      - img "American Express"
+      - img "Apple Pay"
+      - img "Google Pay"
+      - img "Mastercard"
+      - img "PayPal"
+      - img "Shop Pay"
+      - img "Visa"
+  - button "Add to cart"
+  - button "Add a gift message"
+  - list:
+    - generic: Free shipping over $50!
+    - generic: 2 day express option
+    - generic: Easy Returns
+  - generic "Why you'll love this bundle?":
+    - heading "Why you'll love this bundle?" [level=3]
+  - generic "What's Inside the Kit - Floral Tones":
+    - heading "What's Inside the Kit - Floral Tones" [level=3]
+  - button "Previous review" [disabled]:
+  - button "Next review":
+  - img "Review image by Danielle W."
+  - heading "Danielle W." [level=3]
+  - paragraph: I absolutely love my pottery kit from Sculpd! You can really tell everything has been really thought through and put together in a way that makes you want to get stuck in.
+  - img "Review image by Macwillard N."
+  - heading "Macwillard N." [level=3]
+  - paragraph: Everything about the transaction and after sale was great, no issues whatsoever. The kit gives you tops and ideas on what to do, absolutely fantastic.
+  - img "Review image by Sam R."
+  - heading "Sam R." [level=3]
+  - paragraph: Really fun and cute! We started out small and worked out way up to larger items!
+  - img "Review image by Jessie C."
+  - heading "Jessie C." [level=3]
+  - paragraph: Loved crafting these with my boyfriend!! Such a fun and unique date activity. And you get a lasting memory.
+  - img "Review image by Aurora D."
+  - heading "Aurora D." [level=3]
+  - paragraph: This kit is fantastic! Plenty of clay to create a lot of things. I’ll buy more for sure!
+  - heading "Frequently Asked Questions" [level=2]
+  - button "Who is this kit for?":
+    - generic: Who is this kit for?
+  - button "What makes the Pottery Date Night Bundle special for couples?":
+    - generic: What makes the Pottery Date Night Bundle special for couples?
+  - button "How does the clay harden, and how should I store it?":
+    - generic: How does the clay harden, and how should I store it?
+  - button "How long does it take to ship?":
+    - generic: How long does it take to ship?
+  - button "Can I return it if I change my mind?":
+    - generic: Can I return it if I change my mind?
+  - link "Paint by Numbers PDP Sale Desktop Banner 2026":
+    - /url: https://sculpd.com/collections/paint-by-numbers-kits
+    - img "Paint by Numbers PDP Sale Desktop Banner 2026"
+  - generic: Pottery Date Night Bundle
+  - button "Edit Choices":
+    - generic: Edit Choices
+  - button "Add to cart - $85"
+  - heading "Shape Your Date Night" [level=2]
+  - img "Date night pottery creation"
+  - heading "Date Night Approved" [level=3]
+  - button "Learn more about Date Night Approved":
+  - img "Varnish Vibes Pottery Kit"
+  - heading "Specially Formulated Varnish" [level=3]
+  - button "Learn more about Specially Formulated Varnish":
+  - img "Sculpd Air-Dry clay being hand-shaped into a Pinch Pot bowl"
+  - heading "Clay = Calm" [level=3]
+  - button "Learn more about Clay = Calm":
+  - heading "Pottery Bliss Starts at Home" [level=2]
+  - paragraph: From lazy Sundays to creative date nights - clay makes it better.
+  - group "1 / 12":
+    - img "Sculpd pottery kit packaging"
+  - group "2 / 12":
+    - img "Sculpd Candle Making Date Night"
+  - group "3 / 12":
+    - img "vizup-app-videos"
+  - group "4 / 12":
+    - img "Couple enjoying their date night with ultimate bundle"
+  - group "5 / 12":
+    - img "Sculdp 3 accessories holder pottery creation"
+  - group "6 / 12":
+    - img "vizup-app-videos"
+  - group "7 / 12":
+    - img "vizup-app-videos"
+  - group "8 / 12":
+    - img "Halloween-themed Sculpd pottery kit eggtray"
+  - group "9 / 12":
+    - img "vizup-app-videos"
+  - group "10 / 12":
+    - img "Creative pottery making experience"
+  - group "11 / 12":
+    - img "Outdoor pottery making with friends"
+  - group "12 / 12":
+    - img "vizup-app-videos"
+  - button "Next slide":
+    - generic: View More
+  - heading "Hear It From Them!" [level=2]
+  - generic "Previous slide":
+  - generic "View shopping details":
+  - generic "View shopping details":
+  - generic "View shopping details":
+  - generic "View shopping details":
+  - generic "View shopping details":
+  - generic "View shopping details":
+  - generic "Next slide":
+  - heading "See What Our Customers Have Created!" [level=2]
+  - paragraph: Stunning creations from our talented community
+  - text: 
+  - button "Customer-uploaded image. Click to see more details.":
+    - img "Customer-uploaded image. Click to see more details."
+  - generic: Rated 5 out of 5 stars
+  - generic: This was so fun to do! I got it for my girlfriend on Valentine’s Day and she loved it.
+  - button "View More"
+  - text: 
+  - button "Customer-uploaded image. Click to see more details.":
+    - img "Customer-uploaded image. Click to see more details."
+  - generic: Rated 5 out of 5 stars
+  - generic: Really fun and cute! We started out small and worked out way up to larger items!
+  - button "View More"
+  - text: 
+  - button "Customer-uploaded image. Click to see more details.":
+    - img "Customer-uploaded image. Click to see more details."
+  - generic: Rated 5 out of 5 stars
+  - generic: Needed something to recreate my childhood pug sculpture.
+  - button "View More"
+  - text: 
+  - button "Customer-uploaded image. Click to see more details.":
+    - img "Customer-uploaded image. Click to see more details."
+  - generic: Rated 5 out of 5 stars
+  - generic: A wonderful birthday gift which has given me hours of fun and brought out my creative side. Useful information and ample clay and tools to make and decorate a plethora of sculptures without the need of a wheel or kiln.
+  - button "View More"
+  - text: 
+  - button "Customer-uploaded image. Click to see more details.":
+    - img "Customer-uploaded image. Click to see more details."
+  - generic: Rated 5 out of 5 stars
+  - generic: Lovely kit and flowers, really enjoyed making the vases and the dried flowers were so pretty!
+  - button "View More"
+  - text: 
+  - button "Customer-uploaded image. Click to see more details.":
+    - img "Customer-uploaded image. Click to see more details."
+  - generic: Rated 5 out of 5 stars
+  - generic: Lovely kit and flowers, really enjoyed making the vases and the dried flowers were so pretty!
+  - button "View More"
+  - text: 
+  - button "Customer-uploaded image. Click to see more details.":
+    - img "Customer-uploaded image. Click to see more details."
+  - generic: Rated 5 out of 5 stars
+  - generic: so much fun!
+  - button "View More"
+  - text: 
+  - button "Customer-uploaded image. Click to see more details.":
+    - img "Customer-uploaded image. Click to see more details."
+  - generic: Rated 5 out of 5 stars
+  - generic: Got this for my girlfriend after we both got hooked on the Great Pottery Throwdown, and she absolutely loved it! Very easy to use and makes for great plant pot or whatever you like! Highly recommended.
+  - button "View More"
+  - text: 
+  - button "Customer-uploaded image. Click to see more details.":
+    - img "Customer-uploaded image. Click to see more details."
+  - generic: Rated 5 out of 5 stars
+  - generic: Got this for my girlfriend after we both got hooked on the Great Pottery Throwdown, and she absolutely loved it! Very easy to use and makes for great plant pot or whatever you like! Highly recommended.
+  - button "View More"
+  - text: 
+  - button "Customer-uploaded image. Click to see more details.":
+    - img "Customer-uploaded image. Click to see more details."
+  - generic: Rated 5 out of 5 stars
+  - generic: Loved the pottery kit! It was one of the most fun projects ive tried out! Got a decent sized kit for a great price all the clay you could need, all the tools you could think of and the choices of pain was great!
+  - button "View More"
+  - text: 
+  - button "Customer-uploaded image. Click to see more details.":
+    - img "Customer-uploaded image. Click to see more details."
+  - generic: Rated 5 out of 5 stars
+  - generic: Loved the pottery kit! It was one of the most fun projects ive tried out! Got a decent sized kit for a great price all the clay you could need, all the tools you could think of and the choices of pain was great!
+  - button "View More"
+  - text: 
+  - button "Customer-uploaded image. Click to see more details.":
+    - img "Customer-uploaded image. Click to see more details."
+  - generic: Rated 5 out of 5 stars
+  - generic: My order was shipped immediately and it’s such a great starter set. Everything you need is there including ideas to get you started. In a single clay bag i’ve made multiple things that I gave to my loved ones and they loved it too!
+  - button "View More"
+  - text: 
+  - button "Customer-uploaded image. Click to see more details.":
+    - img "Customer-uploaded image. Click to see more details."
+  - generic: Rated 5 out of 5 stars
+  - generic: My order was shipped immediately and it’s such a great starter set. Everything you need is there including ideas to get you started. In a single clay bag i’ve made multiple things that I gave to my loved ones and they loved it too!
+  - button "View More"
+  - text: 
+  - button "Customer-uploaded image. Click to see more details.":
+    - img "Customer-uploaded image. Click to see more details."
+  - generic: Rated 5 out of 5 stars
+  - generic: Arrived in beautiful packaging and a great instruction book with plenty of clay to make a few items. This was a great activity for my daughter and I over Christmas. Great paint colours and sets also available.
+  - button "View More"
+  - button "Show more media":
+    - generic: 
+    - text: 
+  - heading "Viral Pottery Vibes" [level=2]
+  - paragraph: Our fave viral reels made with Sculpd Kits. Grab inspo, then grab some clay 😊
+  - generic "Previous slide":
+  - generic "View shopping details":
+  - img "vizup shoppable videos"
+  - generic "View shopping details":
+  - img "vizup shoppable videos"
+  - generic "View shopping details":
+  - img "vizup shoppable videos"
+  - generic "View shopping details":
+  - img "vizup shoppable videos"
+  - generic "View shopping details":
+  - img "vizup shoppable videos"
+  - generic "View shopping details":
+  - img "vizup shoppable videos"
+  - generic "View shopping details":
+  - img "vizup shoppable videos"
+  - generic "View shopping details":
+  - img "vizup shoppable videos"
+  - generic "View shopping details":
+  - img "vizup shoppable videos"
+  - generic "View shopping details":
+  - img "vizup shoppable videos"
+  - generic "View shopping details":
+  - img "vizup shoppable videos"
+  - generic "View shopping details":
+  - img "vizup shoppable videos"
+  - generic "View shopping details":
+  - img "vizup shoppable videos"
+  - generic "View shopping details":
+  - img "vizup shoppable videos"
+  - generic "View shopping details":
+  - img "vizup shoppable videos"
+  - generic "View shopping details":
+  - img "vizup shoppable videos"
+  - generic "View shopping details":
+  - img "vizup shoppable videos"
+  - generic "View shopping details":
+  - img "vizup shoppable videos"
+  - generic "Next slide":
+  - heading "8 Easy Steps to a Clay Date" [level=2]
+  - paragraph: "Your next date night = sorted. Here’s how:"
+  - img "Sculpd Pottery Kit laid out on table with candle and roses"
+  - generic: 01 - Prepare Your Space
+  - img "Sculpd Pottery Kit laid out on a table with roses, candles and red wine glasses with two people hand-crafting using Sculpd Air-Dry clay"
+  - generic: 02 - Get to Know Your Clay
+  - img "Sculpd Air-Dry clay being hand-shaped into a Pinch Pot bowl"
+  - generic: 03 - Shape Your Pieces
+  - img "Hand holding an unpainted Sculpd Pottery vase with a heart and stamped letters saying 'Love You'"
+  - generic: 04 - Add Details & Personalize
+  - img "Sculpd Paint Set being poured onto cardboard paint palette"
+  - generic: 05 - Leave to Dry Before Painting (48hrs)
+  - img "Two Sculpd Pottery clay pots being hand-painted by two people"
+  - generic: 06 - Add Colors & Designs
+  - img "Sculpd Pottery vase with a heart and stamped letters saying 'Love You' being varnished by Sculpd Gloss varnish"
+  - generic: 07 - Apply Varnish
+  - img "Sculpd Pottery Kit Pottery Kit Sculpd"
+  - generic: 08 - Add Flowers & Plants
+  - heading "No Paint Set? No Problem." [level=2]
+  - paragraph: Every kit includes white paint and varnish - perfect for clean, minimalist designs or a modern matte look right out of the box.
+  - heading "Make a Greek-Inspired Vase" [level=2]:
+    - generic: Make a Greek-Inspired Vase
+  - generic: Shape a sleek Greek-style vase with simple coiling, pinching, and shaping techniques. Surprisingly easy, always elegant.
+  - img "Sculpd team events Bulb Vase Pottery creation"
+  - heading [level=2]:
+    - generic: Make a Cactus Pot Trio
+  - generic: A matching trio of cactus pots? Yes, please. Shape and decorate them your way with trimming, scoring and endless personal touches.
+  - heading [level=2]:
+    - generic: Create a Footed Plant Pot
+  - generic: Shape a cute footed pot for your fave desk plant or mini cactus. Fun to make, even more fun to paint and style.
+  - heading [level=2]:
+    - generic: Mold a Bulb-Shaped Vase
+  - generic: A bulb-shaped vase with a long neck and loads of personality. Combines pinching and slab building - don't worry, it's easier than it sounds.
+  - heading [level=2]:
+    - generic: Make a Bottle Vase with a Twist
+  - generic: A bold twist on the bulb vase - angular edges, a braided handle and surprisingly simple to shape.
+  - button "Previous":
+  - button "Next":
+  - 'heading "The verdict’s in: Our kits spark joy" [level=2]'
+  - region "Rated 4.9 out of 5 stars Based on 1,605 reviews":
+    - generic: "4.9"
+    - generic: Rated 4.9 out of 5 stars
+    - generic: Based on 1,605 reviews
+    - generic: "5"
+    - generic: Rated out of 5 stars
+    - generic: 1.5k
+    - 'button "Total 5 star reviews: 1.5k. Filter by 5 star reviews"'
+    - generic: "4"
+    - generic: Rated out of 5 stars
+    - generic: "98"
+    - 'button "Total 4 star reviews: 98. Filter by 4 star reviews"'
+    - generic: "3"
+    - generic: Rated out of 5 stars
+    - generic: "1"
+    - 'button "Total 3 star reviews: 1. Filter by 3 star reviews"'
+    - generic: "2"
+    - generic: Rated out of 5 stars
+    - generic: "0"
+    - 'button "Total 2 star reviews: 0. Filter by 2 star reviews"'
+    - generic: "1"
+    - generic: Rated out of 5 stars
+    - generic: "1"
+    - 'button "Total 1 star reviews: 1. Filter by 1 star reviews"'
+    - status
+    - strong: 100%
+    - text: would recommend these products
+    - region "Carousel of customer-uploaded media. Press left and right arrows to navigate. Press enter or space to open more details.":
+      - text: 
+      - list:
+        - text: 
+        - 'button "Customer-uploaded image. Click to see more details. The image represents: Clay pottery pieces in various stages of creation laid out on a work surface covered with clay dust, including bowls and vessels of different sizes on a wooden table."':
+          - 'img "Customer-uploaded image. Click to see more details. The image represents: Clay pottery pieces in various stages of creation laid out on a work surface covered with clay dust, including bowls and vessels of different sizes on a wooden table."'
+        - text: 
+        - 'button "Customer-uploaded image. Click to see more details. The image represents: A pottery studio workspace showing various clay tools and unfired ceramic pieces on a wooden table, including a rolling pin, clay slab, small bowls with white interiors, containers with purple and green exteriors, and a white owl-shaped dish."':
+          - 'img "Customer-uploaded image. Click to see more details. The image represents: A pottery studio workspace showing various clay tools and unfired ceramic pieces on a wooden table, including a rolling pin, clay slab, small bowls with white interiors, containers with purple and green exteriors, and a white owl-shaped dish."'
+        - text: 
+        - button "Customer-uploaded video. Click to see more details.":
+          - img "Customer-uploaded video. Click to see more details."
+        - text: 
+        - 'button "Customer-uploaded image. Click to see more details. The image represents: A blue and white mask with a stylized face design sitting in what appears to be a paint tray or container"':
+          - 'img "Customer-uploaded image. Click to see more details. The image represents: A blue and white mask with a stylized face design sitting in what appears to be a paint tray or container"'
+        - text: 
+        - button "Customer-uploaded video. Click to see more details.":
+          - img "Customer-uploaded video. Click to see more details."
+        - text: 
+        - 'button "Customer-uploaded image. Click to see more details. The image represents: Blue and white decorative mask with horns displayed on a metal shelf next to other collectible items"':
+          - 'img "Customer-uploaded image. Click to see more details. The image represents: Blue and white decorative mask with horns displayed on a metal shelf next to other collectible items"'
+        - text: 
+        - 'button "Customer-uploaded image. Click to see more details. The image represents: A child and adult working together at a kitchen table making decorated cookies, with cookie cutters, dough, and baking supplies spread across a floured surface"':
+          - 'img "Customer-uploaded image. Click to see more details. The image represents: A child and adult working together at a kitchen table making decorated cookies, with cookie cutters, dough, and baking supplies spread across a floured surface"'
+        - text: 
+        - button:
+        - text: 
+        - button:
+        - text: 
+        - button:
+        - text: 
+        - button:
+        - text: 
+        - button:
+        - text: 
+        - button:
+        - text: 
+        - button:
+        - text: 
+        - button:
+        - text: 
+        - button:
+      - button ""
+      - generic: Slide 1 selected
+    - generic: 1,605 reviews
+    - text: Sort
+    - combobox "Sort":
+      - option "Most Recent" [selected]
+      - option "Highest Rating"
+      - option "Most Helpful"
+      - option "Oldest"
+      - option "Lowest Rating"
+      - option "Least Helpful"
+    - region "Review Carousel":
+      - button "Previous" [disabled]: 
+      - list:
+        - listitem "Slide 1":
+          - generic: Rated 5 out of 5 stars
+          - generic: 2026年10月20日
+          - heading "Fun craft night!" [level=2]
+          - paragraph: So much fun and easy to use!! Perfect for a craft night.
+          - strong: Krista R.
+          - text: Verified Buyer
+          - generic: 
+          - generic:  
+        - listitem "Slide 2":
+          - generic: Rated 5 out of 5 stars
+          - generic: 2026年10月3日
+          - heading "LOVELY" [level=2]
+          - paragraph: Had so much fun making this with my husband! Perfect date night idea.
+          - strong: Jessica H.
+          - text: Verified Buyer
+          - generic: 
+          - generic:  
+        - listitem "Slide 3":
+          - generic: Rated 5 out of 5 stars
+          - generic: 2026年9月6日
+          - heading "Fun Date Night!" [level=2]
+          - paragraph: I ordered a Sculpd pottery kit for two as a date for my girlfriend and I, and we were not disappointed! It took longer than expected, but once we got going we didn't want to stop! We each made 6 smaller items from our bags, and the ideas were super easy to follow. Definitely would recommend, but be sure to plan ahead for the dry and paint times! More pictures to follow of the final, painted products.
+          - button "Read more about this review":
+            - text: Read More
+            - generic: Read more about this review
+          - strong: Alexander H.
+          - text: Verified Buyer
+          - generic: 
+          - generic:  
+        - listitem "Slide 4":
+          - generic: Rated 5 out of 5 stars
+          - generic: 2026年8月30日
+          - heading "All you need in one box, lovely quality" [level=2]
+          - paragraph: I’m very happy with my Sculpd Earth Tones kit. It is very absorbing and relaxing to get creative with it. I have made a lavender holder in colours to tone with my living room decor. I have also been busy smoothing yesterday’s creation! Great fun and very soothing!
+          - button "Read more about this review":
+            - text: Read More
+            - generic: Read more about this review
+          - strong: Paula H.
+          - text: Verified Buyer
+          - generic: 
+          - generic:  
+        - listitem "Slide 5":
+          - generic: Rated 5 out of 5 stars
+          - generic: 2026年7月29日
+          - heading "Good product" [level=2]
+          - paragraph: It's fun to craft and you can't complain about the result
+          - generic: Translated from German
+          - button "Show original"
+          - strong: Dowoo K.
+          - text: Verified Buyer
+          - generic: 
+          - generic:  
+      - generic: Press left and right arrows to navigate.
+      - button "Next": 
+      - generic: Viewing Slides 1 to 3 of 5
+    - alert:
+      - generic: Loading...
+    - alert:
+      - generic: Loading...
+    - status
+  - heading "Level Up Your Pottery Night" [level=2]
+  - generic: Take another look at products you've recently explored.
+  - link "View All":
+    - /url: /collections/all-extras
+  - link "Sculpd Acrylic Paint Sets Paint Set Sculpd Pastel Tones Sculpd Acrylic Paint Sets Paint Set Sculpd Classic Tones 0 reviews Sculpd Acrylic Paint Sets $25 Quick Add Sculpd Acrylic Paint Sets":
+    - /url: /products/sculpd-acrylic-paint-sets
+    - img "Sculpd Acrylic Paint Sets Paint Set Sculpd Pastel Tones"
+    - img "Sculpd Acrylic Paint Sets Paint Set Sculpd Classic Tones"
+    - generic "0 reviews":
+      - button "Rated 5.0 out of 5 stars 100 Click to scroll to reviews":
+        - generic: Rated 5.0 out of 5 stars
+        - generic: "100"
+        - generic: Click to scroll to reviews
+    - generic: Sculpd Acrylic Paint Sets
+    - generic: $25
+    - button "Quick Add Sculpd Acrylic Paint Sets":
+      - generic: Quick Add
+  - link "Sculpd 70ml Gloss Varnish Sculpd 70ml Matte Varnish 0 reviews Sculpd Varnish $16 $12 Quick Add Sculpd Varnish":
+    - /url: /products/sculpd-varnish
+    - img "Sculpd 70ml Gloss Varnish"
+    - img "Sculpd 70ml Matte Varnish"
+    - generic "0 reviews":
+      - button "Rated 5.0 out of 5 stars 80 Click to scroll to reviews":
+        - generic: Rated 5.0 out of 5 stars
+        - generic: "80"
+        - generic: Click to scroll to reviews
+    - generic: Sculpd Varnish
+    - generic: $16
+    - generic: $12
+    - button "Quick Add Sculpd Varnish":
+      - generic: Quick Add
+  - link "Acrylic Paint Pens - 4 Packs Paint Set Sculpd Terracotta Tones Acrylic Paint Pens - 4 Packs Paint Set Sculpd 0 reviews Acrylic Paint Pens - 4 Packs $15 Quick Add Acrylic Paint Pens - 4 Packs":
+    - /url: /products/acrylic-paint-pens-4-packs
+    - img "Acrylic Paint Pens - 4 Packs Paint Set Sculpd Terracotta Tones"
+    - img "Acrylic Paint Pens - 4 Packs Paint Set Sculpd"
+    - generic "0 reviews":
+      - button "Rated 5.0 out of 5 stars 72 Click to scroll to reviews":
+        - generic: Rated 5.0 out of 5 stars
+        - generic: "72"
+        - generic: Click to scroll to reviews
+    - generic: Acrylic Paint Pens - 4 Packs
+    - generic: $15
+    - button "Quick Add Acrylic Paint Pens - 4 Packs":
+      - generic: Quick Add
+  - link "2lbs Sculpd Clay Bag Extra Clay Bag Accessories Sculpd 0 reviews 2lbs Air-Dry Clay Bag $36 $18 Quick Add 2lbs Air-Dry Clay Bag":
+    - /url: /products/extra-clay-bag
+    - img "2lbs Sculpd Clay Bag"
+    - img "Extra Clay Bag Accessories Sculpd"
+    - generic "0 reviews":
+      - button "Rated 4.9 out of 5 stars 184 Click to scroll to reviews":
+        - generic: Rated 4.9 out of 5 stars
+        - generic: "184"
+        - generic: Click to scroll to reviews
+    - generic: 2lbs Air-Dry Clay Bag
+    - generic: $36
+    - generic: $18
+    - button "Quick Add 2lbs Air-Dry Clay Bag":
+      - generic: Quick Add
+- paragraph: Become a Sculpd insider for exclusive discounts, early access to new releases, and subscriber-only tutorials.
+- generic: Enter your email
+- generic: Subscribe
+- textbox "Enter your email"
+- button "Subscribe, after successful submissions, the page will be refreshed":
+  - generic: Subscribe
+- contentinfo:
+  - generic: Explore
+  - list:
+    - link "Team Events":
+      - /url: /pages/sculpd-corporate-events
+    - link "Corporate Gifting (opens in a new window)":
+      - /url: https://gifting.sculpd.com/
+      - text: Corporate Gifting
+    - link "Wholesale":
+      - /url: https://sculpd.com/pages/wholesale-orders
+    - link "Give 15%":
+      - /url: https://sculpd.com/pages/refer-a-friend?situation=web-footer
+    - link "Buy a Kit":
+      - /url: /collections/all-kits
+    - link "Gift Cards":
+      - /url: /products/sculpd-gift-card
+  - generic: Help & Support
+  - list:
+    - link "FAQ":
+      - /url: /pages/help-center
+    - link "Contact Us":
+      - /url: https://sculpd.com/pages/help-center?hcUrl=%2Fen-US%2Fcontact
+    - link "Privacy Policy":
+      - /url: /policies/privacy-policy
+    - link "Refund Policy":
+      - /url: /policies/refund-policy
+    - link "Shipping Policy":
+      - /url: /policies/shipping-policy
+    - link "Terms of Service":
+      - /url: /policies/terms-of-service
+    - link "Accessibility Statement":
+      - /url: /pages/accessibility-statement-for-sculpd
+    - link "My account":
+      - /url: /account
+  - generic: Get in touch
+  - list
+  - generic: Follow us
+  - list:
+    - link "Sculpd on Instagram, (open in a new window)":
+      - /url: https://instagram.com/sculpdit
+      - generic: Instagram
+    - link "Sculpd on Facebook, (open in a new window)":
+      - /url: https://facebook.com/sculpdit
+      - generic: Facebook
+    - link "Sculpd on YouTube (opens in a new window)":
+      - /url: https://youtube.com/sculpd
+      - generic: YouTube
+    - link "Sculpd on Pinterest (opens in a new window)":
+      - /url: https://www.pinterest.com/sculpd/
+      - generic: Pinterest
+    - link "Sculpd on TikTok, (open in a new window)":
+      - /url: https://www.tiktok.com/@sculpd
+      - generic: TikTok
+  - generic: We accept
+  - list:
+    - img "American Express"
+    - img "Apple Pay"
+    - img "Diners Club"
+    - img "Discover"
+    - img "Google Pay"
+    - img "Mastercard"
+    - img "PayPal"
+    - img "Shop Pay"
+    - img "Visa"
+  - generic: © 2026 Sculpd Limited | 2501 Chatham Rd, Suite 4710, Springfield, IL 62704
+- heading "Cart • 0" [level=2]: Cart • 0 items
+- button "Close cart":
+- paragraph: You’re $50 away from Free Shipping!
+- heading "Your cart is empty" [level=3]
+- region "Live chat"

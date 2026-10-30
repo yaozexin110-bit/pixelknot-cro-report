@@ -1,0 +1,194 @@
+{
+  "captured_date": "2026-10-29",
+  "scope_note": "美国购物情境可用性检查；避免将普通认知原则或旧实验误称2026美国消费者调查。",
+  "sources": [
+    {
+      "id": "US-E1",
+      "url": "https://baymard.com/lists/cart-abandonment-rate",
+      "title": "Baymard — Cart Abandonment Rate Statistics / Reasons",
+      "published_or_updated": "页面列表标示Last updated: September 22, 2025；标题2026",
+      "captured_date": "2026-10-29",
+      "quote": "40% Extra costs too high (shipping, tax, fees)\n20% Delivery was too slow\n19% I didn't trust the site with my credit card information\n18% The site wanted me to create an account\n17% Too long / complicated checkout process\n17% Website had errors / crashed\n13% Returns policy wasn't satisfactory\n12% I couldn't see / calculate total order cost up-front",
+      "scope": "Baymard美国网购者弃购理由调查；页面先排除“just browsing”群体，再列其余弃购理由。不是全体访客比例，不是PixelKnot数据。",
+      "implication": "金额必须让用户知道对应几件、是否完整总价；税、运费与例外在购买决定前可发现。",
+      "limitation": "描述性自报理由，不能推断把某价格组件改好就能减少相应比例弃购；同页综合弃购均值与该调查是不同数据。",
+      "numbers": [
+        {
+          "value": "40%",
+          "meaning": "额外费用过高的弃购理由"
+        },
+        {
+          "value": "12%",
+          "meaning": "无法提前看到/计算总价的弃购理由"
+        },
+        {
+          "value": "20%",
+          "meaning": "配送太慢的弃购理由"
+        }
+      ],
+      "source_local": "research/us-shopping/baymard-abandonment.txt",
+      "sha256": "a09433c4e341052dc29ffbcab4bf330b87656a98e03756c7fad4aa2ff76859cd",
+      "quote_verified": true
+    },
+    {
+      "id": "US-E2",
+      "url": "https://baymard.com/research-articles/shipping-speed-vs-delivery-date",
+      "title": "Baymard — Use Delivery Date, Not Shipping Speed",
+      "published_or_updated": "2023-06-27",
+      "captured_date": "2026-10-29",
+      "quote": "In testing, such ranges performed better than ranges of delivery speed (e.g., “3–7 Business Days”) because they were significantly easier for participants to interpret.",
+      "scope": "电商可用性测试及基准，包含美国与英国零售页面；不是美国人口代表性调查。",
+      "implication": "可以可靠计算时，优先呈现预计到达日期范围，而非要求用户自己加上处理、周末、假日和运输天数。",
+      "limitation": "当前PixelKnot“发出后3–5工作日”并非错误；到达日期只有在库存、ZIP、截单、处理及承运商数据可靠时才能发布。原文未发现Get it by/Arrives等具体措辞有一致优胜。",
+      "numbers": [
+        {
+          "value": "41%",
+          "meaning": "文中基准站没有提供delivery date；不是41%的购物者弃购"
+        }
+      ],
+      "source_local": "research/us-shopping/baymard-delivery-date.txt",
+      "sha256": "94d12adab1e568bf37db326b21a3dd55ffcf215e56ff1f2ca15c7be239737055",
+      "quote_verified": true
+    },
+    {
+      "id": "US-E3",
+      "url": "https://baymard.com/research-articles/show-shipping-costs-on-product-pages",
+      "title": "Baymard — Product Pages Need to Show Estimated Shipping Costs",
+      "published_or_updated": "2017-06-20",
+      "captured_date": "2026-10-29",
+      "quote": "Our new Product Page study reveals that 64% of users looked for shipping costs on the product page, before deciding to add a product to the cart.",
+      "scope": "2017商品页可用性研究，文中举Walmart、KitchenAid等美国零售例子，并说明国际用户也有相同需求；64%不可写成2026全体美国消费者比例。",
+      "implication": "保留PixelKnot购买区的Free standard U.S. shipping，它比只在顶栏写优惠更贴近购买决定；补齐适用范围及税费条件。",
+      "limitation": "这是既有优点的证据，不应称PixelKnot没写运费。旧研究的行为数值不代表目前店铺预期增幅。",
+      "numbers": [
+        {
+          "value": "64%",
+          "meaning": "研究中加购决定前在商品页寻找运费的用户"
+        }
+      ],
+      "source_local": "research/us-shopping/baymard-shipping-costs.txt",
+      "sha256": "deb831775e76f7b22e9390072081920cfc9895b859683d8ec2efd7199c7e2ad1",
+      "quote_verified": true
+    },
+    {
+      "id": "US-E4",
+      "url": "https://baymard.com/research-articles/footer-needs-return-shipping-links",
+      "title": "Baymard — Direct Return Policy and Shipping Info Links",
+      "published_or_updated": "2019-01-16",
+      "captured_date": "2026-10-29",
+      "quote": "During testing, many users voiced their questions regarding return policies and procedures when buying online — for example, Can the item be returned? Do I have to pay for return shipping myself? How long do I have to return an item? Does that deadline include the shipping time?",
+      "scope": "电商桌面/手机可用性测试，原文提到1000+场有主持实验、并从2012至2019观察页脚查找；没有声明美国人口代表性。",
+      "implication": "退货入口用Returns & Refunds / Shipping等可识别标签；写清期限起算点、退运责任、缺件和退款流程。",
+      "limitation": "PixelKnot已有页脚直接政策链接，应该保留。无需为“美国习惯”承诺无条件或免费退货；承诺取决于真实政策。",
+      "numbers": [
+        {
+          "value": "20%",
+          "meaning": "文章中基准站缺少页脚直接退货/配送链接；不是顾客流失比例"
+        }
+      ],
+      "source_local": "research/us-shopping/baymard-returns.txt",
+      "sha256": "931827a95eb830e5d43d673e0b34f960744bdb569bf06542023d75dc58e16a0f",
+      "quote_verified": true
+    },
+    {
+      "id": "US-E5",
+      "url": "https://www.nngroup.com/articles/how-users-read-on-the-web/",
+      "title": "Nielsen Norman Group — How Users Read on the Web",
+      "published_or_updated": "1997-09-30（网页元数据另标1997-10-01，2024修订）",
+      "captured_date": "2026-10-29",
+      "quote": "To measure the effect of some of the content guidelines we had identified, we developed five different versions of the same website (same basic information; different wording; same site navigation). We then had users perform the same tasks with the different sites. As shown in the table, measured usability was dramatically higher for the concise version (58% better) and for the scannable version (47% better).",
+      "scope": "历史网站任务实验；配套完整研究说明1997夏美国加州Menlo Park，总81人，定量实验51人。不是现代移动电商转化实验。",
+      "implication": "把文学性长段落后的具体购买事实前移，先给短标题、关键事实和要点，再保留品牌故事。",
+      "limitation": "58%/47%是可用性复合指标提升，不是购买率或加购率；年代久远，仅支持可扫描表达的方向。",
+      "numbers": [
+        {
+          "value": "58%",
+          "meaning": "该实验简洁文本的可用性指标相对改善"
+        },
+        {
+          "value": "47%",
+          "meaning": "该实验可扫描文本的可用性指标相对改善"
+        }
+      ],
+      "source_local": "research/us-shopping/nng-scanning.txt",
+      "sha256": "6b56b6ecab7afb8b0aad4258986bfeaac50e5a8c3698aa5febb7ed3a92f872d2",
+      "quote_verified": true
+    },
+    {
+      "id": "US-E6",
+      "url": "https://www.nngroup.com/articles/concise-scannable-and-objective-how-to-write-for-the-web/",
+      "title": "Nielsen Norman Group — Concise, Scannable, and Objective",
+      "published_or_updated": "页面标1997-01-01；正文实验为1997夏，日期元数据不一致",
+      "captured_date": "2026-10-29",
+      "quote": "We conducted three studies in which a total of 81 users read Web pages. The first two studies were exploratory and qualitative and were aimed at generating insight into how users read and what they like and dislike. The third study was a measurement study aimed at quantifying the potential benefits from some of the most promising writing styles identified in the first two studies. All three studies were conducted during the summer of 1997 in the SunSoft usability laboratories in Menlo Park, CA.",
+      "scope": "明确美国加州实验地点；81人含三个研究，定量51人；不能说81人都参与5版本实验。",
+      "implication": "以美国执行的历史实验补充可扫描文本证据，尤其适合DIY清单、步骤、配送与总价这种任务性信息。",
+      "limitation": "不是全体美国人的审美偏好调查，也不是PixelKnot增单证明；本项主要用于交代US-E5样本来源，不能当独立复制实验。",
+      "numbers": [
+        {
+          "value": "81人",
+          "meaning": "三个历史研究总人数"
+        },
+        {
+          "value": "51人",
+          "meaning": "五版本定量可用性研究人数"
+        }
+      ],
+      "source_local": "research/us-shopping/nng-concise.txt",
+      "sha256": "8ae4ec157a70566326c6d4ace511e0c06d74f0af290aaa0cf61f2103fe022b1c",
+      "quote_verified": true
+    },
+    {
+      "id": "US-E7",
+      "url": "https://www.nngroup.com/articles/recognition-and-recall/",
+      "title": "Nielsen Norman Group — Memory Recognition and Recall in User Interfaces",
+      "published_or_updated": "2024-01-15",
+      "captured_date": "2026-10-29",
+      "quote": "How do you promote recognition? By making information and interface functions visible and easily accessible.",
+      "scope": "一般认知和可用性原则；没有特定美国购买者样本或转化数值。",
+      "implication": "选择2 Pack时让已选1/2、所选商品、总价和下一步始终可见；“Choose your second design”比笼统“Select Products”更能提示当前任务。",
+      "limitation": "“Select Products”不是不地道英语；改变是减少状态歧义的实验，不是禁止美国网站使用该词。",
+      "numbers": [],
+      "source_local": "research/us-shopping/nng-recognition.txt",
+      "sha256": "968e6b6d317beab5bb0cea533758d83daa4d0b497f2621252f310245ac6c165d",
+      "quote_verified": true
+    },
+    {
+      "id": "US-E8",
+      "url": "https://www.nist.gov/pml/owm/si-units-length",
+      "title": "NIST — SI Units: Length / inch definition",
+      "published_or_updated": "以2026-10-29抓取页面为准；定义源于1959公告",
+      "captured_date": "2026-10-29",
+      "quote": "The value for the inch, derived from the value of the Yard effective July 1, 1959, is exactly equivalent to 25.4 mm.",
+      "scope": "美国国家标准与技术研究院，单位定义；是算术/事实来源，不是消费者偏好研究。",
+      "implication": "8×12英寸应换算20.32×30.48厘米，不能等同A4的21×29.7厘米；实测后并列英寸和公制，标明画芯与外框。",
+      "limitation": "该来源只证明换算，不证明美国用户一定喜欢英寸优先。英寸优先可参考美国在售页面并通过美国目标用户任务测试确认。",
+      "numbers": [],
+      "source_local": "research/us-shopping/nist-length.txt",
+      "sha256": "b669eaf58034b6dec9894c4811f3f3133deebf299287e7dde5bbdd14e8857ee1",
+      "quote_verified": true
+    },
+    {
+      "id": "US-E9",
+      "url": "https://www.nist.gov/pml/time-and-frequency-division/popular-links/daylight-saving-time-dst",
+      "title": "NIST — Daylight Saving Time Rules",
+      "published_or_updated": "页面2026年夏令时说明；2026-10-29读取",
+      "captured_date": "2026-10-29",
+      "quote": "During 2026 , daylight saving time is in effect from March 8 at 2 a.m. (local time) to November 1 at 2 a.m. (local time).",
+      "scope": "美国NIST夏令时规则说明；不是消费者偏好研究，也不证明店铺实际客服排班。",
+      "implication": "客服若跟随美国东部当地时间，应避免全年仅标固定标准时EST；先核实排班，再决定用ET或明确固定时区。",
+      "limitation": "美国有地区不实行夏令时。此来源只支持时间规则，不能由网页EST字样断言客服时间错误或店铺有美国办公室。",
+      "numbers": [],
+      "source_local": "research/us-shopping/nist-dst.txt",
+      "sha256": "daadb0f1153d53bb825a1ee612710fe82dcbcd55b7a4cade6729673f797a913a",
+      "quote_verified": true
+    }
+  ],
+  "recommendation_boundaries": [
+    "美国消费者不是单一审美群体，按可理解性、价格透明、实际服务和任务行为判断。",
+    "不要说A4在美国绝对不能用；已用英寸是优点，问题是两种单位不一致。",
+    "Add to cart / Checkout / Build Your Bundle / Select Products都是美国电商可见用语；要检查它们对应的真实动作、产品对象和状态，不要按字面宣布不符合文化。",
+    "缺少可比美国顾客原始访谈与模块事件，因此不输出模块造成多少订单损失。",
+    "美国习惯示例须在实际可兑现前提下填入实测尺寸、实际制作时间、真实评价和真实退货条件。"
+  ]
+}

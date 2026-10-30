@@ -1,0 +1,309 @@
+{
+  "date": "2026-10-29",
+  "method": "Local normalized exact-quote, hash, file checks; not a transaction audit",
+  "modules": [
+    {
+      "module": "USO-FULFILL",
+      "reference_count": 5,
+      "unique_urls": 5,
+      "references": [
+        {
+          "brand": "Brooklinen",
+          "file_exists": true,
+          "hash_match": true,
+          "quotes_match": [
+            true
+          ],
+          "screenshot_exists": true
+        },
+        {
+          "brand": "Sculpd",
+          "file_exists": true,
+          "hash_match": true,
+          "quotes_match": [
+            true,
+            true
+          ],
+          "screenshot_exists": true
+        },
+        {
+          "brand": "The Woobles",
+          "file_exists": true,
+          "hash_match": true,
+          "quotes_match": [
+            true,
+            true
+          ],
+          "screenshot_exists": true
+        },
+        {
+          "brand": "Pott’d",
+          "file_exists": true,
+          "hash_match": true,
+          "quotes_match": [
+            true,
+            true
+          ],
+          "screenshot_exists": true
+        },
+        {
+          "brand": "Trtl",
+          "file_exists": true,
+          "hash_match": true,
+          "quotes_match": [
+            true
+          ],
+          "screenshot_exists": true
+        }
+      ]
+    },
+    {
+      "module": "USO-GIFT",
+      "reference_count": 5,
+      "unique_urls": 5,
+      "references": [
+        {
+          "brand": "The Woobles",
+          "file_exists": true,
+          "hash_match": true,
+          "quotes_match": [
+            true,
+            true,
+            true
+          ],
+          "screenshot_exists": false
+        },
+        {
+          "brand": "Brooklinen",
+          "file_exists": true,
+          "hash_match": true,
+          "quotes_match": [
+            true,
+            true,
+            true
+          ],
+          "screenshot_exists": false
+        },
+        {
+          "brand": "Sculpd",
+          "file_exists": true,
+          "hash_match": true,
+          "quotes_match": [
+            true,
+            true,
+            true
+          ],
+          "screenshot_exists": true
+        },
+        {
+          "brand": "Pott’d",
+          "file_exists": true,
+          "hash_match": true,
+          "quotes_match": [
+            true,
+            true
+          ],
+          "screenshot_exists": false
+        },
+        {
+          "brand": "Unwind Studio",
+          "file_exists": true,
+          "hash_match": true,
+          "quotes_match": [
+            true,
+            true,
+            true
+          ],
+          "screenshot_exists": false
+        }
+      ]
+    },
+    {
+      "module": "USO3",
+      "reference_count": 5,
+      "unique_urls": 5,
+      "references": [
+        {
+          "brand": "Sculpd",
+          "file_exists": true,
+          "hash_match": true,
+          "quotes_match": [
+            true,
+            true,
+            true
+          ],
+          "screenshot_exists": true
+        },
+        {
+          "brand": "Pott’d",
+          "file_exists": true,
+          "hash_match": true,
+          "quotes_match": [
+            true,
+            true,
+            true
+          ],
+          "screenshot_exists": true
+        },
+        {
+          "brand": "Brooklinen",
+          "file_exists": true,
+          "hash_match": true,
+          "quotes_match": [
+            true,
+            true,
+            true
+          ],
+          "screenshot_exists": true
+        },
+        {
+          "brand": "Trtl",
+          "file_exists": true,
+          "hash_match": true,
+          "quotes_match": [
+            true,
+            true,
+            true
+          ],
+          "screenshot_exists": true
+        },
+        {
+          "brand": "Blueland",
+          "file_exists": true,
+          "hash_match": true,
+          "quotes_match": [
+            true,
+            true
+          ],
+          "screenshot_exists": true
+        }
+      ]
+    },
+    {
+      "module": "USO4",
+      "reference_count": 5,
+      "unique_urls": 5,
+      "references": [
+        {
+          "brand": "The Woobles",
+          "file_exists": true,
+          "hash_match": true,
+          "quotes_match": [
+            true,
+            true,
+            true,
+            true
+          ],
+          "screenshot_exists": true
+        },
+        {
+          "brand": "Pott’d",
+          "file_exists": true,
+          "hash_match": true,
+          "quotes_match": [
+            true,
+            true
+          ],
+          "screenshot_exists": true
+        },
+        {
+          "brand": "Sculpd",
+          "file_exists": true,
+          "hash_match": true,
+          "quotes_match": [
+            true,
+            true,
+            true
+          ],
+          "screenshot_exists": true
+        },
+        {
+          "brand": "Unwind Studio",
+          "file_exists": true,
+          "hash_match": true,
+          "quotes_match": [
+            true,
+            true,
+            true
+          ],
+          "screenshot_exists": true
+        },
+        {
+          "brand": "Craftoria",
+          "file_exists": true,
+          "hash_match": true,
+          "quotes_match": [
+            true,
+            true,
+            true
+          ],
+          "screenshot_exists": true
+        }
+      ]
+    },
+    {
+      "module": "USO5",
+      "reference_count": 5,
+      "unique_urls": 5,
+      "references": [
+        {
+          "brand": "Trtl",
+          "file_exists": true,
+          "hash_match": true,
+          "quotes_match": [
+            true,
+            true,
+            true,
+            true
+          ],
+          "screenshot_exists": true
+        },
+        {
+          "brand": "Sculpd",
+          "file_exists": true,
+          "hash_match": true,
+          "quotes_match": [
+            true,
+            true,
+            true
+          ],
+          "screenshot_exists": true
+        },
+        {
+          "brand": "Pott’d",
+          "file_exists": true,
+          "hash_match": true,
+          "quotes_match": [
+            true,
+            true,
+            true,
+            true
+          ],
+          "screenshot_exists": true
+        },
+        {
+          "brand": "Blueland",
+          "file_exists": true,
+          "hash_match": true,
+          "quotes_match": [
+            true,
+            true,
+            true,
+            true
+          ],
+          "screenshot_exists": true
+        },
+        {
+          "brand": "Blueland",
+          "file_exists": true,
+          "hash_match": true,
+          "quotes_match": [
+            true,
+            true
+          ],
+          "screenshot_exists": true
+        }
+      ]
+    }
+  ]
+}

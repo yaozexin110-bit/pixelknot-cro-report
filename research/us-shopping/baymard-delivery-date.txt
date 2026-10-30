@@ -1,0 +1,567 @@
+Use “Delivery Date” Not “Shipping Speed” (41% Don’t) — From UX Research to Implementation Roadmap – Baymard
+
+Baymard Institute
+
+Product
+
+Use Cases
+
+Apply UX Best Practice
+Design with confidence
+
+UX Audit Service
+Find conversion blockers
+
+Justify UX Decisions
+Win stakeholder buy-in
+
+Grow UX Expertise
+Professional training & certification
+
+Compare your UX
+Benchmark against competitors
+
+Research & Tools
+
+Research-Backed UX Insights
+200,000+ hours of UX research
+
+UX Best Practice Guidelines
+Over 700 UX Guidelines
+
+UX Design Examples
+18,000+ Structured Design Examples
+
+UX Benchmarking
+Measure and Compare Your UX Performance
+
+UX-Ray 2.0
+Identify Your Biggest UX Opportunities
+
+UX-Query
+Instant research-backed answers
+
+Figma Plugin
+Bring research where you work
+
+“Intelligent, consumer-focused insights that are clear and actionable.”
+Will Close, Director of A/B testing at Nike.comRead 200+ Testimonials
+
+UX AuditUX Audit Services
+
+UX Audit Deepdive
+Learn more about Audits
+
+UX Audit Resources
+Free articles on UX audits
+
+UX Audit Industries
+35+ ecommerce industries covered
+
+"An eye opener. This UX audit helped validate assumptions we had and provided visibility on issues we overlooked."
+Michael Tran, Sr. Business Analyst at Sony PlayStationRead 200+ Testimonials
+
+Research Focus
+
+Industries
+
+ B2C Retail:
+Direct-to-Consumer, 
+Luxury Goods, 
+Apparel & Accessories, 
+Footwear, 
+Jewelry & Watches, 
+Eyewear, 
+Home & Hardware, 
+Electronics & Office, 
+Mass Merchant, 
+Furniture & Home Decor, 
+Health & Beauty, 
+Sports Gear & Equipment, 
+Vitamins & Supplements, 
+Automotive Parts, 
+Toys, Crafts & Hobbies, 
+Merchandise & Print-to-Order, 
+Pet Food & Care, 
+Video Games, 
+Educational Reading & Books, 
+Event Ticketing
+
+ Subscriptions & Services:
+Digital Subscriptions & SaaS, 
+Telco, 
+ISP, 
+Insurance, 
+Online Learning
+
+ Travel & Accommodation:
+Travel Accommodations, 
+Travel Tours & Experience Booking, 
+Flight Booking & Airlines
+
+ B2B:
+Electronic Components & Machinery, 
+Medical & Pharma, 
+B2B Ecommerce, 
+Digital Subscriptions & SaaS, 
+Merchandise & Print-to-Order
+
+ Food & Consumables:
+Online Grocery, 
+Food Delivery & Takeout, 
+Beverages, 
+E-cigarette & Vaping, 
+Meal Kits, 
+Consumables Subscriptions, 
+Vitamins & Supplements
+Themes
+
+Homepage & Category
+
+On-Site Search
+
+Accessibility
+
+Product List
+
+Product Page
+
+Cart & Checkout
+
+Accounts & Self-Service
+
+Mobile Web
+
+Mobile App
+
+“Intelligent, consumer-focused insights that are clear and actionable.”
+Will Close, Director of A/B testing at Nike.comRead 200+ Testimonials
+
+Resources
+
+UX Research Articles
+450+ UX articles based on large-scale usability research
+
+Knowledge Hub
+Discover UX best practices, industry trends, and latest news
+
+Company News & Product Updates
+Discover the latest company and product updates from Baymard
+
+Testimonials
+See how teams use Baymard to improve their UX Search for Research and Resources
+
+Pricing
+Log In
+Book a Demo
+
+Baymard InstituteNavigation
+
+Free UX Research
+Research Articles
+Use “Delivery Date” Not “Shipping Speed” (41% Don’t) — From UX Research to Implementation Roadmap
+
+Research Articles
+Use “Delivery Date” Not “Shipping Speed” (41% Don’t) — From UX Research to Implementation Roadmap
+
+Iva Olah
+UX Researcher
+
+Published Jun 27, 2023
+
+Key Takeaways
+
+“Delivery Speed” requires users to estimate themselves when they can expect to receive their order
+
+41% of sites in our benchmark didn’t provide the delivery date, forcing participants to come to a halt to investigate or even guess when their order would arrive
+
+Providing an estimated “Delivery Date” for each delivery option directly within the shipping-selection interface removes this burden from users
+
+When it comes to delivery speed, users have one main concern: “When will I receive my order?”
+
+The solution historically used within e-commerce is to clearly state the shipping speed for each of the shipping options: for example, “Standard: 2 Business Days - $4.95”.
+
+However, across multiple rounds of Baymard’s large-scale checkout UX testing, we’ve consistently observed participants come to a complete halt in an attempt to extrapolate or guesstimate when their order would arrive when provided with only the shipping speed, often leading to hesitation and even cart abandonment when timeliness was of utmost importance.
+
+To provide precision and clarity for users, sites should instead provide an estimated “Delivery Date” for each option directly within the shipping-selection interface.
+
+In testing, this extra level of detail and transparency vastly facilitated participants’ ability to easily compare among delivery options and weigh the cost/speed tradeoff of more expensive options.
+
+However, our e-commerce UX benchmark shows that 41% of sites don’t use delivery date, introducing complexity and uncertainty into the checkout process, with the risk that users will hesitate or base their delivery selection — or purchase decision — on faulty assumptions.
+
+In what follows, we’ll discuss our latest Premium research findings for checkout delivery and shipping:
+
+Why “shipping speed” fails to meet users’ delivery information needs
+
+How a “Delivery Date” simplifies things for users
+
+Why it’s important to ensure the delivery date is as accurate as possible
+
+2 ways to calculate delivery dates in checkout
+
+Why “Shipping Speed” Fails to Meet Users’ Delivery Information Needs
+
+“It doesn’t say ‘estimated date’ or anything…if it’s two to three business days at $4.99. I don’t really know.” This participant had no information about the speed or timing of the different shipping options at Theo Chocolates, and neither did the name of each option hold any clues. While “FedEx (Standard Overnight)” gives some indication of speed, “Standard Shipping (Flat Rate)” is much more opaque.
+
+“Okay, so my options are $5.95 for ‘Ground Shipping’, which is 3–8 business days. Two business days for $19, the next business day for $29. So the only way to guarantee it’ll get there in time is to do either next day or two business days….So this is Thursday, so it’s definitely not gonna ship until at least tomorrow. So Friday, and then probably not going anywhere over the weekend. So you got Monday, Tuesday. So I would say Wednesday at the earliest probably. So yeah, the two business days, it would definitely have to be the two business days. So if I did two business days, I would expect it to be there probably Monday.” Another participant at Stance performed mental calculations to determine which shipping option to select based on the anticipated arrival date — coming to a different conclusion than a previous participant.
+
+“I mean, depending on what day it is, if it’s a weekend, then it’ll probably be around four or five days, if it’s a weekday, maybe three, four days…Yeah, maybe Monday or maybe by — let’s see. So well, I would count today. So 1, 2, 3, 4, 5. So yeah, by Tuesday or Wednesday.” This participant at the Container Store opened her desktop calendar to aid her in determining when her order would arrive based on the listed delivery speed.
+
+“So, they give you 4–7 business days. So then, really today is almost over, so four days, next Wednesday, like, May 4th?” Another participant at Snowe referenced a calendar to estimate the actual order arrival date.
+
+3 additional examples of how users aren’t provided with an answer to the question they’re most concerned about when it comes to delivery speed: “When will I receive my order?”. Macy’s only provides prominent shipping names and “Transit time” (first image), John Lewis forces users to consider “working days” and public holidays (second image), and H&M simply provides an estimated delivery day range (“2–3 days”) — which many users will interpret as “I’ll get my order in 2 to 3 days from today”, not considering weekends or holidays.
+
+During testing, participants presented with only the shipping speed or shipping name often came to a full stop as they considered information that was unclear, unstated, ambiguous, or widely varying from site to site, such as the following:
+
+Whether the site also needs order-processing time (e.g., “Ships within 1 business day”) and, if so, if this is included in the shipping time or not
+
+The order cutoff time and whether today counts towards the posted shipping timing
+
+The exact definition of a “Business Day” and whether any weekends or holidays fall within the delivery range
+
+This approach proved to be a very business-centric way of conveying this information, with participants often arriving at different estimates based on differing assumptions or misunderstandings of key factors (e.g., if Saturday counts as a “Business Day” or if the order would be processed today or tomorrow).
+
+For users counting on a timely delivery, the ambiguity or uncertainty of relying on their own calculation can cause them to hesitate, unsure of which shipping option to select — or abandon their order for a site that states the expected delivery more clearly.
+
+How a “Delivery Date” Simplifies Things for Users
+
+“I’d like it delivered. ‘Delivers Thursday’.” This participant shopping for a gift at Apple easily determined that his order would arrive by the desired date with the estimated delivery dates listed next to each shipping option.
+
+“So it says it gets here by Thursday, April 28th, and I want it there by next Saturday, and next Saturday’s the 30th. So, yeah, it would get there just in time.” This participant checking out at Everlane confidently selected “Standard Shipping”, knowing that the order would arrive by her desired date.
+
+Ace Hardware (first image), REI (second image), and GAP (third image) all prominently display the estimated arrival date for utmost clarity when comparing shipping options.
+
+Amazon knows users don’t care if their order is being shipped via “Standard” or “Premium” delivery: users are instead simply provided with the date they can expect to receive their order.
+
+To provide precision and clarity for users concerned over when they will receive their order, sites should instead provide an estimated “Delivery Date” for each option directly within the shipping-selection interface.
+
+By calculating the anticipated delivery date, sites can remove a sizable burden from users, as they won’t need to be concerned about the order cutoff day, whether there are any holidays coming up, whether any of the available delivery methods deliver on Saturdays or not, whether the site has any order-processing time, how long order processing might take, or whether the site’s internal cutoff time for processing orders has passed or not.
+
+Rather, all they will have to consider, for example, is whether they want to pay $2 extra to receive the order “Thursday, April 2nd” rather than “Saturday, April 4th”.
+
+To further facilitate comparison, the estimated delivery date should appear prominently alongside the cost of each option (including on the Product Page if possible; see “Product Pages Need to Show ‘Estimated Shipping Costs’”) directly on the page within checkout.
+
+Doing so allows users to easily review the most relevant shipping details and efficiently decide which option will best suit their needs.
+
+Why It’s Important to Ensure the Delivery Date Is as Accurate as Possible
+
+Importantly, participants in testing interpreted the delivery date provided by the site as a clear promise or guarantee of delivery by that date.
+
+While this may not have an immediate impact on conversion rate for the user’s current checkout session, it can have a profound long-term impact if the user’s expectation of a clear “promise by the site” is broken.
+
+Therefore, because users are more likely to see the delivery date as a promise by the site, it’s important that the delivery date calculation be as accurate as possible.
+
+Including too much safety margin can lead users to think that the delivery options are too slow or expensive, resulting in cart abandonment, while including too little safety margin can cause users to be disappointed that the site’s promise was not kept if they receive their order after the specified delivery date.
+
+To ensure sites can deliver on the expectations set by an estimated delivery date, delivery date calculations should dynamically update to reflect known reasons for possible delays, including extra order-processing time during peak periods, supply issues or backorders, handling time, holiday delays, customs processes, etc.
+
+This is particularly important for sites with a high proportion of gift orders, as well as orders around the holiday shopping season, when users’ concerns for timely delivery are particularly high (see also “Users Overlook ‘Store Pickup’ When Not Presented as a Shipping Option”).
+
+“So in the morning tomorrow £10. Anytime tomorrow £5. Within three working days, Thursday or Friday, then it will be free.” This participant on Argos (UK) was satisfied that the free option had a delivery range — “Within 3 working days: By Fri 2nd July”.
+
+Additionally, to prevent the disappointment of a “late” delivery, sites can opt to provide a range of expected delivery dates; for example, “Arrives April 3 to April 9th”.
+
+In testing, such ranges performed better than ranges of delivery speed (e.g., “3–7 Business Days”) because they were significantly easier for participants to interpret.
+
+“I don’t like the fact that there’s still an estimated delivery day that’s too far of a window, especially if you’re giving a gift to somebody…I just kind of wish that this would give me a better ballpark of when I’d be receiving it. That’s just like such a wide window, you know?” This participant on Etsy lamented the weeklong window for estimated delivery as too wide, wanting a more precise estimate of when to expect her order.
+
+However, some participants in testing hesitated to move forward when the estimated window was too wide (typically, more than 5–7 days), desiring a more precise estimate on which to base their expectations for delivery.
+
+In practice, sites should consider the balance of accuracy (as the logistics of fulfilling and delivering orders is often outside of the site’s control and is likely to vary) and precision to determine how narrow of a window it’s possible to provide.
+
+Note that the tested sites formulated the delivery date range in multiple different ways, such as “Get it by April 9th”, “Delivered on or before April 9th”, or “Arrives April 3rd–April 9th” — however, none of these formulations was observed to consistently perform better than the others.
+
+2 Ways to Calculate Delivery Dates in Checkout
+
+When it comes to calculating an accurate delivery date, there are two general approaches, each with its own benefits and drawbacks:
+
+Use a postal service API to calculate the date of arrival
+
+Code your own system to calculate delivery dates
+
+Calculation Option #1: Relying on Postal Service APIs
+
+Most postal services or shipping carriers will offer an API to their customers, which will typically include some sort of a “delivery calculator”.
+
+Given that predicting and managing delivery times is central to these businesses, they tend to be fairly good at calculating such estimates with a high degree of accuracy.
+
+Furthermore, using a third-party API reduces the number of calculations needed on the site’s end, since all calculations after the parcel has been handed over are taken care of by the postal service API.
+
+It’s important to note, however, that this is a reduction, not an elimination, of calculations that the site needs to do, since the site will still need to accurately calculate processing time.
+
+While most shipping calculators will respond even if the site doesn’t provide them with a “date of shipment”, they do this by simply assuming it will be shipped on the current day (see also “Product Pages: ‘Free Shipping’ Should Not Only Be in a Site-Wide Banner”).
+
+In order for the resulting delivery dates to be accurate, it is therefore important that the site calculates when the business will actually hand over the package to the postal firm, and provide the postal firm’s API with that information.
+
+For instance, consider a scenario in which orders placed at a site after 4pm don’t get shipped until the next workday, that this site doesn’t process orders on weekends, and that a user places their order on a Friday at 5pm: in this case, the site would want to provide the API with Monday as the date of shipment.
+
+To take another example, what if the user has chosen gift wrapping for their order and placed it at 3:45pm: will it still get processed the same day or does the extra handling needed for wrapping put it in the next day’s queue?
+
+Other important considerations when integrating parts of the checkout process with any third-party service is third-party speed and stability, because by using an API to calculate the delivery date, the site is effectively making the checkout step dependent on a third-party service — which can be problematic.
+
+It’s therefore important that a fallback is displayed in case of slow response times or, worse yet, actual downtime.
+
+A mock-up of what it might look like with loading spinners that get replaced when (or if) the delivery dates are returned from the third-party postal service API. In case the API doesn’t respond within, say, a 5-second threshold, the page would fall back on just displaying shipping speeds.
+
+A reasonable solution is to initially show the (less-than-ideal) shipping speed and then perform an AJAX request immediately upon page load to fetch the actual delivery dates, replacing the shipping speeds with the dates once they are returned.
+
+This way, the page load times of the checkout process aren’t impacted by the third-party service at all: if the postal service API quickly returns the estimated delivery dates, the shipping speeds get replaced more or less immediately, but if the service happens to be down or slow, the user still has information about the shipping options (it just isn’t optimal).
+
+When it comes to relying on a third-party API to calculate delivery dates, the core tradeoff is that while the actual date calculations are simplified (although not eliminated), there must be fallback solutions available to avoid making the speed and stability of the checkout dependent on a third-party system.
+
+Calculation Option #2: Having the Site Calculate the Delivery Date
+
+Alternatively, rather than relying on a third-party API, the delivery dates can be calculated instead by the site itself.
+
+While it’s typically not overly complicated to calculate a delivery date, it can be very complicated to calculate an accurate one for every order, at any day and time of the year.
+
+And while it may not be easy, it is possible to develop a system that calculates estimated delivery dates with reasonable accuracy.
+
+Below are the three primary steps that must be completed in order to calculate a delivery date:
+
+1) Calculate the current date and time. The site needs to know the current date and time in order to determine if the order falls within certain time cutoffs and whether there are any nondelivery days (e.g., weekends and holidays) that should be accounted for — this will serve as the baseline for the delivery date calculations.
+
+2) Calculate the processing time. It’s important to know how long it will be before the order is actually handed over to the shipping company — for example, will the parcel be handed over to the postal firm today or tomorrow, or perhaps even later?
+
+3) Calculate the transit time. The final step in estimating a delivery date is the most obvious one — once the parcel has been handed over to the shipping firm, how long will it take them to deliver it to the customer?
+
+Additionally, for processing time there are a wide range of internal factors that must be accounted for, such as the following:
+
+The site’s cutoff times for same-day shipment
+
+Stock availability of the products in the order (and, if not in stock, their expected restock time)
+
+The days on which the site processes orders (e.g., does the site also handle orders on weekends or only on weekdays? Are there any upcoming holidays which need to be accounted for?)
+
+When the user has opted for gift wrapping, whether that has an impact on processing times
+
+Current transaction volume vs. available processing capacity (e.g., staff shortages during flu season and high-volume seasons such as Christmas may lead to increased processing times)
+
+The two main considerations here are the speed of the shipping option along with the nondelivery dates for that option (see also “Have Direct Links to ‘Return Policy’ and ‘Shipping Info’ in the Footer”).
+
+It’s important to note that there are very often differences in the nondelivery days depending on the chosen shipping method; for instance, expedited shipping is often (but not always) delivered on Saturdays, and some shipping couriers will even deliver on Sundays with their premium “express” shipping option (again varying from postal service to postal service).
+
+Converting business days to actual days thus increases in complexity as you add more shipping options, firms, and destinations (since holiday calendars will vary from country to country).
+
+The ultimate benefit for a site to develop its own system for calculating delivery dates is that it avoids any dependency on third-party systems, which means that the site can display delivery dates for shipping options without needing any fallback solutions or post page load fetching.
+
+Remove the Guesswork for Users Trying to Determine When Their Order Will Arrive
+
+“So here, this is what I like to see — it has the timeframe in number of days…It’s nice that you don’t have to click back and forth to figure that out. It’s all given to you right there.” This participant appreciated the transparency of a specific estimated date range for his delivery at American Eagle.
+
+Providing an anticipated “Delivery Date” for each shipping option will greatly reduce the guesswork required by users to calculate when their order will arrive — such as determining order-processing and cutoff times, how to define a “Business Day”, or whether deliveries are also made on weekends or holidays.
+
+A highly accurate estimated delivery date can be provided in checkout by either using a postal service API or coding your own system to calculate the date of arrival for an order — keeping in mind that each of these options has its own pros and cons, which must be carefully weighed in relation to your site’s needs.
+
+What matters is that either method offers a clear and accurate “Delivery Date” to users, thus removing the hesitation and uncertainty surrounding how to calculate the delivery date themselves.
+
+However, 41% of e-commerce sites fail to provide an estimated delivery date within the shipping-selection interface, increasing checkout friction and the possibility for order abandonment.
+
+This article presents the research findings from just 1 of the 700+ UX guidelines in Baymard – get full access to learn how to create a “State of the Art” ecommerce user experience.
+
+If you want to know how your website performs and compares, then learn more about getting Baymard to conduct a UX Audit of your site.
+
+Iva Olah
+UX Researcher
+
+Published Jun 27, 2023
+
+Iva is a former UX Researcher at Baymard. Her research areas and specializations include Apparel & Accessories, Product Lists & Filtering, and Ticketing. She has worked in UX research, design, and technical communications since 2015. Iva has a PhD in Early Modern Art History from the University of Chicago.
+If you have any comments on this article you can leave them on LinkedIn
+
+Share:
+
+Related Articles
+
+Have Direct Links to ‘Return Policy’ and ‘Shipping Info’ in the Footer (20% don’t)
+
+Product Pages: ‘Free Shipping’ Should Not Only Be in a Site-Wide Banner (32% Get It Wrong)
+
+Product Pages Need to Show ‘Estimated Shipping Costs’ (Yet 43% of Sites Don’t)
+
+Checkout UX 2025: 10 Pitfalls and Best Practices
+Popular
+
+Make “Guest Checkout” the Most Prominent Option (47% Don’t)
+
+See all 70 ‘Cart & Checkout’ articles
+
+User Experience Research, Delivered Weekly
+
+Join 60,000+ UX professionals and get a new UX article every week.
+
+Loading...
+
+Ready to turn every UX decision into a revenue driver?
+
+Make best-in-class design decisions and improve conversions with validated, industry-specific UX research and benchmarks.
+BOOK A DEMOSEE PRICING
+
+Baymard’s UX research is used by 29,000+ UX professionals and by 71% of all Fortune 500 ecommerce companies
+
+UX Audit Service
+Led by human experts
+30 UX researchers, benchmarkers, and auditors specializing in 35+ ecommerce industries.Tailored to your needs
+Customizable service; audit your entire site, specific flows, and competitor sites.Independent & objective
+Independent party to align stakeholders with evidence.
+
+Free UX Research
+Research Articles
+Read 450+ free, in-depth best practice articles based on Baymard's deep UX research findings.Knowledge Hub
+The latest ecommerce UX insights, practical guides, trends, and company news from Baymard.Benchmarks
+Case studies of 344 top ecommerce sites. Ranked using 275,000+ UX performance scores.UX Design Examples
+Over 18,000 annotated ecommerce UX design examples to inspire your next project.
+
+Product
+UX-Ray 2.0
+Identify your biggest UX opportunitiesUX-Query
+AI-powered UX research assistantFigma Plugin
+Research-backed UX best practices in FigmaReview Tool
+Expert UX review of your designsPersonalized Research
+Custom UX research for your needsTraining & UX Certification
+Learn UX best practices
+
+Research Focus
+IndustriesThemesHomepage & CategoryOn-Site SearchAccessibilityProduct ListProduct PageCart & CheckoutAccounts & Self-ServiceMobile WebMobile App
+
+Company:
+About
+Testimonials
+Our Methodology
+Jobs
+Speaking
+
+Support:
+Privacy Policy
+Terms & Conditions
+Roadmap & Changelog
+Status
+
+Resources:
+Cart Abandonment Stats
+Credit Card Patterns
+UX Blog
+
+Subscribe to Free UX Articles
+
+Loading...
+Delivered weekly, ad-free full-length research articles, 1-click unsubscribe at any time
+
+US: +1 (315) 216-7151
+EU: +45 88 10 85 58
+info@baymard.com
+
+© Baymard Institute 2026
+
+US: +1 (315) 216-7151
+EU: +45 88 10 85 58
+info@baymard.com
+Follow us on
+InstagramX (Twitter)LinkedIn
+
+Apply UX Best Practice
+Design with confidence
+
+UX Audit Service
+Find conversion blockers
+
+Justify UX Decisions
+Win stakeholder buy-in
+
+Grow UX Expertise
+Professional training & certification
+
+Compare your UX
+Benchmark against competitors
+
+Research-Backed UX Insights
+200,000+ hours of UX research
+
+UX Best Practice Guidelines
+Over 700 UX Guidelines
+
+UX Design Examples
+18,000+ Structured Design Examples
+
+UX Benchmarking
+Measure and Compare Your UX Performance
+
+UX-Ray 2.0
+Identify Your Biggest UX Opportunities
+
+UX-Query
+Instant research-backed answers
+
+Figma Plugin
+Bring research where you work
+
+UX AuditUX Audit Services
+
+UX Audit Deepdive
+Learn more about Audits
+
+UX Audit Resources
+Free articles on UX audits
+
+UX Audit Industries
+35+ ecommerce industries covered
+
+"An eye opener. This UX audit helped validate assumptions we had and provided visibility on issues we overlooked."
+Michael Tran, Sr. Business Analyst at Sony PlayStationRead 200+ Testimonials
+
+UX Audit Deepdive
+Learn more about Audits
+
+UX Audit Resources
+Free articles on UX audits
+
+UX Audit Industries
+35+ ecommerce industries covered
+
+Homepage & Category
+
+On-Site Search
+
+Accessibility
+
+Product List
+
+Product Page
+
+Cart & Checkout
+
+Accounts & Self-Service
+
+Mobile Web
+
+Mobile App
+
+UX Research Articles
+450+ UX articles based on large-scale usability research
+
+Knowledge Hub
+Discover UX best practices, industry trends, and latest news
+
+Company News & Product Updates
+Discover the latest company and product updates from Baymard
+
+Testimonials
+See how teams use Baymard to improve their UX
+
+Company:
+About
+Testimonials
+Our Methodology
+Jobs
+Speaking
+
+Support:
+Privacy Policy
+Terms & Conditions
+Roadmap & Changelog
+Status
+
+Resources:
+Cart Abandonment Stats
+Credit Card Patterns
+UX Blog

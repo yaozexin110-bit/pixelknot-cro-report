@@ -1,0 +1,194 @@
+- link "Skip to content":
+  - /url: "#MainContent"
+- region "Announcement":
+  - generic: Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF
+- region "Announcement":
+  - generic: Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF
+- region "Announcement":
+  - generic: Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF
+- region "Announcement":
+  - generic: Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF
+- region "Announcement":
+  - generic: Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF
+- region "Announcement":
+  - generic: Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF
+- region "Announcement":
+  - generic: Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF
+- region "Announcement":
+  - generic: Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF
+- banner:
+  - navigation:
+    - list:
+      - button "SHOP":
+        - generic: SHOP
+      - button "COLLECTIONS":
+        - generic: COLLECTIONS
+      - link "Track Order":
+        - /url: https://www.pixelknot.ai/apps/17TRACK
+        - generic: Track Order
+  - link "PixelKnot":
+    - /url: /
+  - button "Search":
+  - button "Hello, Login":
+  - button "0":
+    - generic: "0"
+- main:
+  - navigation "breadcrumbs":
+    - link "Home":
+      - /url: /
+    - text: Refund policy
+  - heading "Refund policy" [level=1]
+  - paragraph: At PixelKnot, we take pride in the quality and artistic integrity of our AI-enabled Button Art. Our refund and return policy is designed to be transparent while accounting for the unique nature of our products.
+  - paragraph:
+    - strong: 14-Day Return Window (Small-Scale DIY Kits)
+  - paragraph:
+    - text: Standard small-scale DIY Button Art Kits (e.g., Pink-Purple Butterfly, Teddy Bear, Starry Night) are eligible for return within
+    - strong: 14 days
+    - text: of the date you received the item.
+  - list:
+    - strong: "Condition:"
+    - text: To be eligible for a return, your item must be in the same condition that you received it, unused, and in its original packaging.
+    - strong: "Shipping:"
+    - text: Customers are responsible for the cost of return shipping.
+  - paragraph:
+    - strong: 2. Non-Returnable Items (Custom & Large-Scale Art)
+  - paragraph:
+    - text: Due to the highly personalized nature and significant logistics involved, the following items
+    - strong: cannot be returned or exchanged
+    - text: ":"
+  - list:
+    - strong: "Ready-to-Hang Artwork:"
+    - text: Large-scale pieces (e.g., 24x24 inches and larger) that are pre-assembled.
+    - strong: "Custom Button Art:"
+    - text: Any piece created through our "Let Us Design for You" or personalized photo conversion services.
+    - strong: "Sale Items:"
+    - text: Items purchased during clearance or as part of a final sale promotion.
+  - paragraph:
+    - strong: 3. Damages and Quality Issues
+  - paragraph:
+    - text: Please inspect your order upon reception. If the item is defective, damaged, or if you receive the wrong item, contact us immediately at
+    - strong: contact@pixelknot.ai
+    - text: .
+  - list:
+    - text: For quality issues (e.g., loose buttons or missing parts), please provide a clear photo of the problem. Our lead agent
+    - strong: Flora
+    - text: will assist in providing replacement parts or a suitable resolution to ensure your art is complete.
+  - paragraph:
+    - strong: 4. Cancellations
+  - paragraph: Orders for DIY Kits can be cancelled within 24 hours of purchase. Once an order has been processed or dispatched from our warehouse, it cannot be cancelled. Custom art orders cannot be cancelled once the design process has begun.
+  - paragraph:
+    - strong: 5. How to Start a Return
+  - paragraph:
+    - text: To start a return, you must first contact us at
+    - strong: contact@pixelknot.ai
+    - text: ". Once your return request is accepted, please send your package to our return address:"
+    - generic: PixelKnot Returns Department
+    - generic: 22000 Opportunity Way, Docks 1-5,
+    - generic: Riverside,
+    - generic: CA
+    - generic: 92518, United States
+  - strong: Items sent back to us without first requesting a return will not be accepted.
+  - paragraph
+  - paragraph:
+    - strong:
+      - generic: 6. Refunds
+  - paragraph:
+    - generic: Once we receive and inspect your returned package, we will notify you of the approval of your refund.
+    - generic: If approved, your refund will be processed back to your original payment method within 5–7 business days.
+    - generic: Please note that the actual
+    - generic: posting date
+    - generic: is subject to your bank or card
+    - generic: issuer
+    - generic: "'s processing time."
+  - paragraph:
+    - strong: "Business Entity:"
+    - text: Color Creaty Pty Ltd
+    - strong: "Support Email:"
+    - text: contact@pixelknot.ai
+- contentinfo:
+  - link "logo":
+    - /url: /
+  - heading "Color Creaty Pty Ltd" [level=2]
+  - list:
+    - paragraph:
+      - text: We're here for you
+      - text: "Monday – Friday: 9:00 AM – 5:00 PM (EST)"
+    - generic: 21 Olive Street, Helensvale, QLD 4212, AU
+    - link "contact@pixelknot.ai":
+      - /url: mailto:contact@pixelknot.ai
+    - list:
+      - link "Facebook":
+        - /url: https://www.facebook.com/pixelknotart
+        - generic: Facebook
+      - link "Instagram":
+        - /url: https://www.instagram.com/buttoncanvas_pixelknot/
+        - generic: Instagram
+      - link "TikTok":
+        - /url: https://www.tiktok.com/@button_artwork
+        - generic: TikTok
+      - link "Pinterest":
+        - /url: https://www.pinterest.com/ButtonCanvas/
+        - generic: Pinterest
+  - heading "CUSTOMER CARE" [level=2]
+  - list:
+    - link "FAQ":
+      - /url: /pages/faq
+    - link "Shipping Information":
+      - /url: /policies/shipping-policy
+    - link "Returns & Refunds":
+      - /url: /policies/refund-policy
+    - link "Contact Us":
+      - /url: /pages/contact-us
+  - heading "SHOP" [level=2]
+  - list:
+    - link "DIY Button Art":
+      - /url: /collections/diy-button-art
+    - link "Finished Artwork":
+      - /url: /collections/finished-artwork
+    - link "Bestsellers":
+      - /url: /collections/bestsellers
+    - link "New Arrival":
+      - /url: /collections/new-arrival
+    - link "Your Privacy Choices":
+      - /url: /pages/data-sharing-opt-out
+    - link "Track Your Order":
+      - /url: https://www.pixelknot.ai/apps/17TRACK
+  - heading "ABOUT PIXELKNOT" [level=2]
+  - list:
+    - link "Our Story":
+      - /url: /pages/about-us
+    - link "Inspired Spaces":
+      - /url: /blogs/customized-story
+    - link "Collab with Us":
+      - /url: /pages/collab-us
+  - button "Follow on Shop":
+    - text: Follow on
+    - img "Shop"
+  - list:
+    - link "Privacy Policy":
+      - /url: /policies/privacy-policy
+    - link "Refund Policy":
+      - /url: /policies/refund-policy
+    - link "Shipping policy":
+      - /url: /policies/shipping-policy
+    - link "Payment Policy":
+      - /url: /pages/payment-policy
+    - link "Terms of Service":
+      - /url: /policies/terms-of-service
+  - text: © 2026,
+  - link "PixelKnot":
+    - /url: /
+  - link "Powered by Shopify":
+    - /url: https://www.shopify.com?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore
+  - list:
+    - img "American Express"
+    - img "Apple Pay"
+    - img "Google Pay"
+    - img "Mastercard"
+    - img "PayPal"
+    - img "Shop Pay"
+    - img "Union Pay"
+    - img "Visa"
+  - button "Scroll to top":
+- button "Chat. Open chat":
+  - generic: Chat

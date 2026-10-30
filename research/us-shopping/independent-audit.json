@@ -1,0 +1,273 @@
+{
+  "date": "2026-10-29",
+  "review": "Independent local evidence audit; no new live scraping or backend access",
+  "result": "Evidence and reference quotes support cautiously worded recommendations. One wording correction recommended before merge.",
+  "counts": {
+    "research_sources": 8,
+    "patterns": 5,
+    "reference_instances": 25,
+    "research_quote_matches": 8,
+    "reference_quote_matches": 25
+  },
+  "source_checks": [
+    {
+      "id": "US-E1",
+      "quote_in_local": true,
+      "hash_matches": true
+    },
+    {
+      "id": "US-E2",
+      "quote_in_local": true,
+      "hash_matches": true
+    },
+    {
+      "id": "US-E3",
+      "quote_in_local": true,
+      "hash_matches": true
+    },
+    {
+      "id": "US-E4",
+      "quote_in_local": true,
+      "hash_matches": true
+    },
+    {
+      "id": "US-E5",
+      "quote_in_local": true,
+      "hash_matches": true
+    },
+    {
+      "id": "US-E6",
+      "quote_in_local": true,
+      "hash_matches": true
+    },
+    {
+      "id": "US-E7",
+      "quote_in_local": true,
+      "hash_matches": true
+    },
+    {
+      "id": "US-E8",
+      "quote_in_local": true,
+      "hash_matches": true
+    }
+  ],
+  "reference_checks": [
+    {
+      "pattern": "USF1",
+      "brand": "The Woobles",
+      "all_quotes_in_local_or_dom": true,
+      "screenshot_exists": true,
+      "url": "https://thewoobles.com/products/penguin-crochet-kit"
+    },
+    {
+      "pattern": "USF1",
+      "brand": "Unwind Studio",
+      "all_quotes_in_local_or_dom": true,
+      "screenshot_exists": true,
+      "url": "https://www.unwind.studio/products/portuguese-sardine-bookmark-needlepoint-kit"
+    },
+    {
+      "pattern": "USF1",
+      "brand": "Sculpd",
+      "all_quotes_in_local_or_dom": true,
+      "screenshot_exists": true,
+      "url": "https://sculpd.com/products/sculpd"
+    },
+    {
+      "pattern": "USF1",
+      "brand": "Pott’d",
+      "all_quotes_in_local_or_dom": true,
+      "screenshot_exists": true,
+      "url": "https://getpottd.com/products/pottd-home-air-dry-clay-pottery-kit"
+    },
+    {
+      "pattern": "USF1",
+      "brand": "Craftoria",
+      "all_quotes_in_local_or_dom": true,
+      "screenshot_exists": true,
+      "url": "https://www.craftoria.com/en-ww/products/custom-paint-by-numbers-kit"
+    },
+    {
+      "pattern": "USF2",
+      "brand": "The Woobles",
+      "all_quotes_in_local_or_dom": true,
+      "screenshot_exists": true,
+      "url": "https://thewoobles.com/products/penguin-crochet-kit"
+    },
+    {
+      "pattern": "USF2",
+      "brand": "Pott’d",
+      "all_quotes_in_local_or_dom": true,
+      "screenshot_exists": true,
+      "url": "https://getpottd.com/products/pottd-home-air-dry-clay-pottery-kit"
+    },
+    {
+      "pattern": "USF2",
+      "brand": "Sculpd",
+      "all_quotes_in_local_or_dom": true,
+      "screenshot_exists": true,
+      "url": "https://sculpd.com/products/sculpd-pottery-date-night-bundle"
+    },
+    {
+      "pattern": "USF2",
+      "brand": "Unwind Studio",
+      "all_quotes_in_local_or_dom": true,
+      "screenshot_exists": true,
+      "url": "https://www.unwind.studio/products/portuguese-sardine-bookmark-needlepoint-kit"
+    },
+    {
+      "pattern": "USF2",
+      "brand": "Craftoria",
+      "all_quotes_in_local_or_dom": true,
+      "screenshot_exists": true,
+      "url": "https://www.craftoria.com/en-ww/products/custom-paint-by-numbers-kit"
+    },
+    {
+      "pattern": "USF3",
+      "brand": "Sculpd",
+      "all_quotes_in_local_or_dom": true,
+      "screenshot_exists": true,
+      "url": "https://sculpd.com/products/sculpd-pottery-date-night-bundle"
+    },
+    {
+      "pattern": "USF3",
+      "brand": "Pott’d",
+      "all_quotes_in_local_or_dom": true,
+      "screenshot_exists": true,
+      "url": "https://getpottd.com/products/creative-gift-bundle-for-one"
+    },
+    {
+      "pattern": "USF3",
+      "brand": "Trtl",
+      "all_quotes_in_local_or_dom": true,
+      "screenshot_exists": true,
+      "url": "https://trtltravel.com/products/double-comfort-bundle-2"
+    },
+    {
+      "pattern": "USF3",
+      "brand": "Blueland",
+      "all_quotes_in_local_or_dom": true,
+      "screenshot_exists": true,
+      "url": "https://www.blueland.com/products/the-clean-suite"
+    },
+    {
+      "pattern": "USF3",
+      "brand": "Brooklinen",
+      "all_quotes_in_local_or_dom": true,
+      "screenshot_exists": true,
+      "url": "https://www.brooklinen.com/pages/all-bundles"
+    },
+    {
+      "pattern": "USF4",
+      "brand": "Trtl",
+      "all_quotes_in_local_or_dom": true,
+      "screenshot_exists": true,
+      "url": "https://trtltravel.com/products/double-comfort-bundle-2"
+    },
+    {
+      "pattern": "USF4",
+      "brand": "Blueland",
+      "all_quotes_in_local_or_dom": true,
+      "screenshot_exists": true,
+      "url": "https://www.blueland.com/pages/build-your-bundle"
+    },
+    {
+      "pattern": "USF4",
+      "brand": "Sculpd",
+      "all_quotes_in_local_or_dom": true,
+      "screenshot_exists": true,
+      "url": "https://sculpd.com/products/sculpd-pottery-date-night-bundle"
+    },
+    {
+      "pattern": "USF4",
+      "brand": "Pott’d",
+      "all_quotes_in_local_or_dom": true,
+      "screenshot_exists": true,
+      "url": "https://getpottd.com/products/creative-gift-bundle-for-one"
+    },
+    {
+      "pattern": "USF4",
+      "brand": "Brooklinen",
+      "all_quotes_in_local_or_dom": true,
+      "screenshot_exists": true,
+      "url": "https://www.brooklinen.com/pages/all-bundles"
+    },
+    {
+      "pattern": "USF5",
+      "brand": "The Woobles",
+      "all_quotes_in_local_or_dom": true,
+      "screenshot_exists": true,
+      "url": "https://thewoobles.com/products/penguin-crochet-kit"
+    },
+    {
+      "pattern": "USF5",
+      "brand": "Sculpd",
+      "all_quotes_in_local_or_dom": true,
+      "screenshot_exists": true,
+      "url": "https://sculpd.com/products/sculpd"
+    },
+    {
+      "pattern": "USF5",
+      "brand": "Pott’d",
+      "all_quotes_in_local_or_dom": true,
+      "screenshot_exists": true,
+      "url": "https://getpottd.com/products/pottd-home-air-dry-clay-pottery-kit"
+    },
+    {
+      "pattern": "USF5",
+      "brand": "Blueland",
+      "all_quotes_in_local_or_dom": true,
+      "screenshot_exists": true,
+      "url": "https://www.blueland.com/products/the-clean-suite"
+    },
+    {
+      "pattern": "USF5",
+      "brand": "Trtl",
+      "all_quotes_in_local_or_dom": true,
+      "screenshot_exists": true,
+      "url": "https://trtltravel.com/products/double-comfort-bundle-2"
+    }
+  ],
+  "must_correct": [
+    {
+      "location": "copy-audit.json US-C2 data_basis",
+      "current": "Only one selection means main price is discounted selected subtotal",
+      "problem": "Observed dollar amounts alone do not verify whether the component internally labels/calculates it as subtotal or per-kit price. The evidence supports amount ambiguity, not a confirmed implementation meaning.",
+      "recommended": "State the two observed states and equal-price arithmetic; say the incomplete main amount lacks a clear total/per-kit/selected-subtotal label."
+    }
+  ],
+  "merge_notes": [
+    {
+      "topic": "Current-page freshness",
+      "recommendation": "Use the latest us-shopping PixelKnot screenshots/DOM; acknowledge Save with a Bundle explanation and generic included-items FAQ already exist. Do not state those are absent."
+    },
+    {
+      "topic": "US vs general usability",
+      "recommendation": "Keep US-E1 as US self-reported abandonment reasons; US-E3 is a 2017 product-page study, not 2026 population incidence. US-E5 and US-E6 are one 1997 family of studies, not two independent replications."
+    },
+    {
+      "topic": "Dates and measurements",
+      "recommendation": "Keep exact NIST conversion and conditional artwork/frame dimensions; require physical measurement before deciding between 8x12in and A4."
+    },
+    {
+      "topic": "Five reference pages per form",
+      "recommendation": "All 25 instances have five URLs per pattern and quotes matched within source_local or browser_dom. Some quotes are present only in browser_dom; source links should include both where supplied."
+    },
+    {
+      "topic": "Market-localization scope",
+      "recommendation": "Do not label Craftoria en-ww or Unwind as a perfect US-localized site; they support dimension-object/content structure only, as patterns.json already notes."
+    },
+    {
+      "topic": "English commitments",
+      "recommendation": "Retain brackets and conditional notes for measured dimensions, tested making time, instructions, reviews, arrival dates, support timezone and return terms. Do not publish proposed promises on store without verification."
+    },
+    {
+      "topic": "No unsupported attribution",
+      "recommendation": "Do not connect Baymard 40/12/20% or NN/g 58/47% to PixelKnot lost sales or expected uplift. Existing files correctly explain the denominator and limitation."
+    }
+  ],
+  "excluded_sources": [
+    "baymard-description.txt and baymard-specifications.txt only 47 characters; not used by evidence.json",
+    "FTC fetch returned 404; not used by evidence.json"
+  ]
+}

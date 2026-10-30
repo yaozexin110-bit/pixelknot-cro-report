@@ -1,0 +1,450 @@
+- text: Poor Great Poor Great Poor      Great Poor Great
+- link "Skip to content":
+  - /url: "#MainContent"
+- region "Announcement":
+  - generic: Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF
+- region "Announcement":
+  - generic: Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF
+- region "Announcement":
+  - generic: Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF
+- region "Announcement":
+  - generic: Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF
+- region "Announcement":
+  - generic: Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF
+- region "Announcement":
+  - generic: Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF
+- region "Announcement":
+  - generic: Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF
+- region "Announcement":
+  - generic: Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF Save with a Bundle： 2 Pieces 15% OFF ｜ 3 Pieces 20% OFF
+- banner:
+  - navigation:
+    - list:
+      - button "SHOP":
+        - generic: SHOP
+      - button "COLLECTIONS":
+        - generic: COLLECTIONS
+      - link "Track Order":
+        - /url: https://www.pixelknot.ai/apps/17TRACK
+        - generic: Track Order
+  - link "PixelKnot":
+    - /url: /
+  - button "Search":
+  - button "Hello, Login":
+  - button "0":
+    - generic: "0"
+- main:
+  - navigation "breadcrumbs":
+    - link "Home":
+      - /url: /
+    - text: Christmas Snowman
+  - region "Gallery Viewer":
+    - status
+    - link "Skip to product information":
+      - /url: "#ProductInfo-template--28078638792771__main"
+    - img "Christmas Snowman button art displayed as festive holiday decor in a cozy living room"
+    - button "Slide left" [disabled]:
+    - button "Slide right":
+    - button "Slide left" [disabled]:
+    - list:
+      - button "Load image 1 in gallery view":
+        - img "Christmas Snowman button art displayed as festive holiday decor in a cozy living room"
+      - button "Load image 2 in gallery view":
+        - img "Christmas Snowman button artwork held beside a snowy window, adding a festive touch to a room"
+      - button "Load image 3 in gallery view":
+        - img "People creating Christmas Snowman Button Art with a DIY kit as a relaxing craft project"
+      - button "Load image 4 in gallery view":
+        - img "Christmas Snowman Button Art DIY kit presented as a thoughtful gift for a home decor and craft lover"
+      - button "Load image 5 in gallery view":
+        - img "Christmas Snowman Button Art DIY kit with artwork board, colorful buttons, frame, and craft supplies"
+      - button "Load image 6 in gallery view":
+        - img "Christmas Snowman Button Art DIY kit shown in its product packaging beside the framed artwork and craft supplies"
+      - button "Play video 1 in gallery view":
+        - img "Christmas Snowman"
+      - button "Play video 2 in gallery view":
+        - img "Christmas Snowman"
+      - button "Play video 3 in gallery view":
+        - img "Christmas Snowman"
+      - button "Play video 4 in gallery view":
+        - img "Christmas Snowman"
+      - button "Play video 5 in gallery view":
+        - img "Christmas Snowman"
+    - button "Slide right":
+  - paragraph: DIY Button Art Kit
+  - heading "Christmas Snowman" [level=1]
+  - status:
+    - generic: $69.00 USD
+  - status:
+    - text: 23 in stock
+  - paragraph: Free standard U.S. shipping
+  - paragraph: "U.S. stock usually ships the same business day. Estimated delivery: 3–5 business days after shipment."
+  - button "Delivery times & exceptions"
+  - paragraph: Make a little Christmas magic, one button at a time.
+  - paragraph: Create your own textured snowman, then frame it for a festive corner of your home.
+  - list:
+    - generic: Frame included
+    - generic: 8" x 12" artwork
+    - generic: Guided design
+  - generic: Select size
+  - button "Size Guide"
+  - button "8\" x 12\" $69.00 USD":
+    - generic: 8" x 12"
+    - generic: $69.00 USD
+  - combobox
+  - generic: Build Your Bundle
+  - radiogroup:
+    - radio "$ $ $ $ $ 2 Pack Save 15% $69.00 $58.65 1 + Select Products Christmas Snowman $69.00 $58.65 8\" x 12\" Select Products" [checked]:
+      - generic: $
+      - generic: $
+      - generic: $
+      - generic: $
+      - generic: $
+      - text: $ $ $
+      - generic: 2 Pack
+      - generic: Save 15%
+      - generic: $69.00
+      - generic: $58.65
+      - generic: "1"
+      - generic: +
+      - button "Select Products":
+        - img "Select Products":
+      - generic: Christmas Snowman
+      - generic: $69.00
+      - generic: $58.65
+      - generic: 8" x 12"
+      - button "Select Products":
+        - generic: Select Products
+    - radio "$ $ $ $ $ 3 Pack Save 20% $69.00 $55.20 1 + Select Products + Select Products Christmas Snowman $69.00 $55.20 Select Products Select Products":
+      - generic: $
+      - generic: $
+      - generic: $
+      - generic: $
+      - generic: $
+      - text: $ $ $
+      - generic: 3 Pack
+      - generic: Save 20%
+      - generic: $69.00
+      - generic: $55.20
+      - generic: "1"
+      - generic: +
+      - button "Select Products":
+        - img "Select Products":
+      - generic: +
+      - button "Select Products":
+        - img "Select Products":
+      - generic: Christmas Snowman
+      - generic: $69.00
+      - generic: $55.20
+      - button "Select Products":
+        - generic: Select Products
+      - button "Select Products":
+        - generic: Select Products
+    - radio "$ $ $ $ $ 4 Pack Save 20% $69.00 $55.20 1 + Select Products + Select Products + Select Products Christmas Snowman $69.00 $55.20 Select Products Select Products Select Products":
+      - generic: $
+      - generic: $
+      - generic: $
+      - generic: $
+      - generic: $
+      - text: $ $ $
+      - generic: 4 Pack
+      - generic: Save 20%
+      - generic: $69.00
+      - generic: $55.20
+      - generic: "1"
+      - generic: +
+      - button "Select Products":
+        - img "Select Products":
+      - generic: +
+      - button "Select Products":
+        - img "Select Products":
+      - generic: +
+      - button "Select Products":
+        - img "Select Products":
+      - generic: Christmas Snowman
+      - generic: $69.00
+      - generic: $55.20
+      - button "Select Products":
+        - generic: Select Products
+      - button "Select Products":
+        - generic: Select Products
+      - button "Select Products":
+        - generic: Select Products
+  - button "Decrease quantity for Christmas Snowman":
+    - generic: Decrease quantity for Christmas Snowman
+  - spinbutton "quantity-input": "1"
+  - button "Increase quantity for Christmas Snowman":
+    - generic: Increase quantity for Christmas Snowman
+  - button "Checkout":
+    - generic: Checkout
+  - button "Add to cart":
+    - generic: Add to cart
+  - heading "Save with a Bundle" [level=2]
+  - paragraph: Choose 2 pieces and save 15%, or choose 3 and save 20%. Build your bundle and add it to your cart to get the discount.
+  - strong: Secure Payment
+  - list:
+    - img "American Express"
+    - img "Apple Pay"
+    - img "Google Pay"
+    - img "Mastercard"
+    - img "PayPal"
+    - img "Shop Pay"
+    - img "Union Pay"
+    - img "Visa"
+  - text: 
+  - generic "Description":
+    - heading "Description" [level=2]
+  - paragraph: A familiar winter character takes on a playful new texture in Christmas Snowman, where the simple charm of a snowman meets the unexpected surface of layered Button Art. Cool winter tones and festive accents give the piece a cheerful seasonal feel, while the dimensional construction keeps it feeling more like a small work of art than a conventional holiday decoration.
+  - paragraph: The design carries an easy sense of nostalgia, making it a natural addition to Christmas displays without requiring an elaborate decorating style. The raised buttons create subtle changes in texture and light across the composition, adding depth that becomes more apparent up close. It works especially well in entryways, living rooms, bedrooms, craft spaces, or alongside other seasonal decorations.
+  - paragraph: The making process is part of the holiday appeal. Sorting the buttons and building the snowman step by step creates a calm activity for a winter afternoon, whether you enjoy crafting on your own or making it part of a festive family tradition. Once complete, the artwork can be brought out year after year as a reusable piece of Christmas home decor.
+  - list:
+    - listitem: Festive Button Art featuring a cheerful winter snowman
+    - listitem: Layered buttons create a raised surface with texture and subtle light reflection
+    - listitem: Guided acrylic art board makes the design approachable to assemble
+    - listitem: Relaxing DIY craft activity for the Christmas season
+    - listitem: Designed to become reusable holiday wall decor and a seasonal home accent
+    - listitem: A thoughtful gift for craft lovers, families, and fans of festive decor
+  - button "READ MORE"
+  - button "FRAME DETAILS":
+    - text: FRAME DETAILS
+  - button "SHIPPING INFORMATION":
+    - text: SHIPPING INFORMATION
+  - button "MATERIALS & CARE":
+    - text: MATERIALS & CARE
+  - heading "You May Also Love" [level=2]
+  - paragraph: Discover more Button Art designed to bring color, texture, and personality into your home.
+  - list:
+    - group "1 / 10":
+      - link "A Quiet Moment button art featuring a panda climbing a tree in a peaceful natural landscape A Quiet Moment panda button art displayed as nature-inspired wall decor in a cozy living room":
+        - /url: /products/a-quiet-moment?variant=43717485428803
+        - img "A Quiet Moment button art featuring a panda climbing a tree in a peaceful natural landscape"
+        - img "A Quiet Moment panda button art displayed as nature-inspired wall decor in a cozy living room"
+      - generic: Sold out
+      - heading "CardLink-template--28078638792771__related-products-7810999713859 Badge-template--28078638792771__related-products-7810999713859" [level=3]:
+        - link "CardLink-template--28078638792771__related-products-7810999713859 Badge-template--28078638792771__related-products-7810999713859":
+          - /url: /products/a-quiet-moment
+          - text: A quiet moment
+      - status:
+        - generic: $1,580.00 USD
+    - group "2 / 10":
+      - link "Autumn Gold button art featuring a leaf-covered path lined with golden trees Autumn Gold button art displayed as scenic landscape wall decor in a cozy living room":
+        - /url: /products/autumn-gold?variant=43715191865411
+        - img "Autumn Gold button art featuring a leaf-covered path lined with golden trees"
+        - img "Autumn Gold button art displayed as scenic landscape wall decor in a cozy living room"
+      - generic: Sold out
+      - heading "CardLink-template--28078638792771__related-products-7591126597699 Badge-template--28078638792771__related-products-7591126597699" [level=3]:
+        - link "CardLink-template--28078638792771__related-products-7591126597699 Badge-template--28078638792771__related-products-7591126597699":
+          - /url: /products/autumn-gold
+          - text: Autumn gold
+      - status:
+        - generic: $1,580.00 USD
+    - group "3 / 10":
+      - link "Blue Butterfly button art kit featuring a vibrant blue butterfly design Blue Butterfly button art displayed as colorful wall decor in a cozy living room":
+        - /url: /products/blue-butterfly?variant=43030487760963
+        - img "Blue Butterfly button art kit featuring a vibrant blue butterfly design"
+        - img "Blue Butterfly button art displayed as colorful wall decor in a cozy living room"
+      - generic: "2 Pieces: 15% OFF 3 Pieces: 20% OFF"
+      - heading "CardLink-template--28078638792771__related-products-7591122501699 Badge-template--28078638792771__related-products-7591122501699" [level=3]:
+        - link "CardLink-template--28078638792771__related-products-7591122501699 Badge-template--28078638792771__related-products-7591122501699":
+          - /url: /products/blue-butterfly
+          - text: Blue butterfly
+      - status:
+        - generic: $69.00 USD
+    - group "4 / 10":
+      - link "Blue Reverie Calla Lilies button art featuring three elegant calla lilies on a clean blue background Blue Reverie Calla Lilies button art displayed as elegant floral wall decor in a cozy living room":
+        - /url: /products/blue-reverie-calla-lilies?variant=43287021879363
+        - img "Blue Reverie Calla Lilies button art featuring three elegant calla lilies on a clean blue background"
+        - img "Blue Reverie Calla Lilies button art displayed as elegant floral wall decor in a cozy living room"
+      - generic: Sold out
+      - heading "CardLink-template--28078638792771__related-products-7664952475715 Badge-template--28078638792771__related-products-7664952475715" [level=3]:
+        - link "CardLink-template--28078638792771__related-products-7664952475715 Badge-template--28078638792771__related-products-7664952475715":
+          - /url: /products/blue-reverie-calla-lilies
+          - text: Blue reverie calla lilies
+      - status:
+        - generic: $1,580.00 USD
+    - group "5 / 10":
+      - link "Broccoli button art kit featuring a vibrant green broccoli design Broccoli button art displayed as colorful wall decor in a cozy living room":
+        - /url: /products/broccoli?variant=43030533767235
+        - img "Broccoli button art kit featuring a vibrant green broccoli design"
+        - img "Broccoli button art displayed as colorful wall decor in a cozy living room"
+      - generic: "2 Pieces: 15% OFF 3 Pieces: 20% OFF"
+      - heading "CardLink-template--28078638792771__related-products-7591123746883 Badge-template--28078638792771__related-products-7591123746883" [level=3]:
+        - link "CardLink-template--28078638792771__related-products-7591123746883 Badge-template--28078638792771__related-products-7591123746883":
+          - /url: /products/broccoli
+          - text: Broccoli
+      - status:
+        - generic: $69.00 USD
+    - group "6 / 10":
+      - link "Chasing Light button art kit featuring a bright sunflower reaching toward the light PixelKnot Chasing Light Button Art adding a tactile artistic touch to everyday living spaces.":
+        - /url: /products/chasing-light?variant=43464687091779
+        - img "Chasing Light button art kit featuring a bright sunflower reaching toward the light"
+        - img "PixelKnot Chasing Light Button Art adding a tactile artistic touch to everyday living spaces."
+      - generic: "2 Pieces: 15% OFF 3 Pieces: 20% OFF"
+      - heading "CardLink-template--28078638792771__related-products-7728005054531 Badge-template--28078638792771__related-products-7728005054531" [level=3]:
+        - link "CardLink-template--28078638792771__related-products-7728005054531 Badge-template--28078638792771__related-products-7728005054531":
+          - /url: /products/chasing-light
+          - text: Chasing light
+      - status:
+        - generic: $69.00 USD
+    - group "7 / 10":
+      - link "Chinese Princess button art featuring a woman in traditional Chinese hanfu on a red background Chinese Princess button art displayed as unique wall decor in a modern interior":
+        - /url: /products/chinese-princess?variant=43066215661635
+        - img "Chinese Princess button art featuring a woman in traditional Chinese hanfu on a red background"
+        - img "Chinese Princess button art displayed as unique wall decor in a modern interior"
+      - generic: "2 Pieces: 15% OFF 3 Pieces: 20% OFF"
+      - heading "CardLink-template--28078638792771__related-products-7610063355971 Badge-template--28078638792771__related-products-7610063355971" [level=3]:
+        - link "CardLink-template--28078638792771__related-products-7610063355971 Badge-template--28078638792771__related-products-7610063355971":
+          - /url: /products/chinese-princess
+          - text: Chinese princess
+      - status:
+        - generic: $69.00 USD
+    - group "8 / 10":
+      - link "Christmas Tree button art kit featuring a colorful Christmas tree topped with a gold star PixelKnot Christmas Tree textured button artwork styled for the holiday season":
+        - /url: /products/christmas-tree?variant=43189768945731
+        - img "Christmas Tree button art kit featuring a colorful Christmas tree topped with a gold star"
+        - img "PixelKnot Christmas Tree textured button artwork styled for the holiday season"
+      - generic: "2 Pieces: 15% OFF 3 Pieces: 20% OFF"
+      - heading "CardLink-template--28078638792771__related-products-7646347427907 Badge-template--28078638792771__related-products-7646347427907" [level=3]:
+        - link "CardLink-template--28078638792771__related-products-7646347427907 Badge-template--28078638792771__related-products-7646347427907":
+          - /url: /products/christmas-tree
+          - text: Christmas tree
+      - status:
+        - generic: $69.00 USD
+    - group "9 / 10":
+      - link "Colorful Flower button art featuring a vibrant arrangement of colorful flowers Colorful Flower button art displayed as statement floral wall decor in a modern interior":
+        - /url: /products/colorful-flower?variant=43710068588611
+        - img "Colorful Flower button art featuring a vibrant arrangement of colorful flowers"
+        - img "Colorful Flower button art displayed as statement floral wall decor in a modern interior"
+      - generic: Sold out
+      - heading "CardLink-template--28078638792771__related-products-7626674012227 Badge-template--28078638792771__related-products-7626674012227" [level=3]:
+        - link "CardLink-template--28078638792771__related-products-7626674012227 Badge-template--28078638792771__related-products-7626674012227":
+          - /url: /products/colorful-flower
+          - text: Colorful flower
+      - status:
+        - generic: $1,460.00 USD
+    - group "10 / 10":
+      - link "Coral Harmony button art featuring four clownfish swimming in a vibrant green pond Coral Harmony button art displayed as colorful aquatic wall decor in a cozy living room":
+        - /url: /products/coral-harmony?variant=43715389489219
+        - img "Coral Harmony button art featuring four clownfish swimming in a vibrant green pond"
+        - img "Coral Harmony button art displayed as colorful aquatic wall decor in a cozy living room"
+      - generic: Sold out
+      - heading "CardLink-template--28078638792771__related-products-7648323797059 Badge-template--28078638792771__related-products-7648323797059" [level=3]:
+        - link "CardLink-template--28078638792771__related-products-7648323797059 Badge-template--28078638792771__related-products-7648323797059":
+          - /url: /products/coral-harmony
+          - text: Coral harmony
+      - status:
+        - generic: $1,580.00 USD
+  - button "Previous slide" [disabled]:
+  - button "Next slide":
+  - region "Art that feels personal":
+    - paragraph: The PixelKnot process
+    - heading "Art that feels personal" [level=2]
+    - paragraph: Each Button Art piece turns small details into a finished work you can live with every day. Explore the texture, color, and care behind the design.
+    - link "Explore the collection":
+      - /url: /collections/new-arrival
+    - img "Colorful button artwork displayed in a home interior"
+  - region "A creative ritual with a finished result":
+    - paragraph: Made for everyday spaces
+    - heading "A creative ritual with a finished result" [level=2]
+    - paragraph: Slow down, place each detail, and watch the image take shape. When the project is complete, the artwork becomes a tactile accent for a shelf, desk, or wall.
+    - link "See more Button Art":
+      - /url: /collections/finished-artwork
+    - img "Button artwork detail with warm color and texture"
+  - region "Frequently asked questions":
+    - paragraph: Need to know
+    - heading "Frequently asked questions" [level=2]
+    - generic "What is included with my order?":
+      - generic: What is included with my order?
+      - generic: +
+    - generic "Is Button Art beginner-friendly?":
+      - generic: Is Button Art beginner-friendly?
+      - generic: +
+    - generic "What if my order arrives damaged or something is missing?":
+      - generic: What if my order arrives damaged or something is missing?
+      - generic: +
+- contentinfo:
+  - link "logo":
+    - /url: /
+  - heading "Color Creaty Pty Ltd" [level=2]
+  - list:
+    - paragraph:
+      - text: We're here for you
+      - text: "Monday – Friday: 9:00 AM – 5:00 PM (EST)"
+    - generic: 21 Olive Street, Helensvale, QLD 4212, AU
+    - link "contact@pixelknot.ai":
+      - /url: mailto:contact@pixelknot.ai
+    - list:
+      - link "Facebook":
+        - /url: https://www.facebook.com/pixelknotart
+        - generic: Facebook
+      - link "Instagram":
+        - /url: https://www.instagram.com/buttoncanvas_pixelknot/
+        - generic: Instagram
+      - link "TikTok":
+        - /url: https://www.tiktok.com/@button_artwork
+        - generic: TikTok
+      - link "Pinterest":
+        - /url: https://www.pinterest.com/ButtonCanvas/
+        - generic: Pinterest
+  - heading "CUSTOMER CARE" [level=2]
+  - list:
+    - link "FAQ":
+      - /url: /pages/faq
+    - link "Shipping Information":
+      - /url: /policies/shipping-policy
+    - link "Returns & Refunds":
+      - /url: /policies/refund-policy
+    - link "Contact Us":
+      - /url: /pages/contact-us
+  - heading "SHOP" [level=2]
+  - list:
+    - link "DIY Button Art":
+      - /url: /collections/diy-button-art
+    - link "Finished Artwork":
+      - /url: /collections/finished-artwork
+    - link "Bestsellers":
+      - /url: /collections/bestsellers
+    - link "New Arrival":
+      - /url: /collections/new-arrival
+    - link "Your Privacy Choices":
+      - /url: /pages/data-sharing-opt-out
+    - link "Track Your Order":
+      - /url: https://www.pixelknot.ai/apps/17TRACK
+  - heading "ABOUT PIXELKNOT" [level=2]
+  - list:
+    - link "Our Story":
+      - /url: /pages/about-us
+    - link "Inspired Spaces":
+      - /url: /blogs/customized-story
+    - link "Collab with Us":
+      - /url: /pages/collab-us
+  - button "Follow on Shop":
+    - text: Follow on
+    - img "Shop"
+  - list:
+    - link "Privacy Policy":
+      - /url: /policies/privacy-policy
+    - link "Refund Policy":
+      - /url: /policies/refund-policy
+    - link "Shipping policy":
+      - /url: /policies/shipping-policy
+    - link "Payment Policy":
+      - /url: /pages/payment-policy
+    - link "Terms of Service":
+      - /url: /policies/terms-of-service
+  - text: © 2026,
+  - link "PixelKnot":
+    - /url: /
+  - link "Powered by Shopify":
+    - /url: https://www.shopify.com?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore
+  - list:
+    - img "American Express"
+    - img "Apple Pay"
+    - img "Google Pay"
+    - img "Mastercard"
+    - img "PayPal"
+    - img "Shop Pay"
+    - img "Union Pay"
+    - img "Visa"
+  - button "Scroll to top":
+- button "Chat. Open chat":
+  - generic: Chat

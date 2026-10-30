@@ -1,0 +1,812 @@
+- button "Use Website In a Screen-Reader Mode"
+- link "Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window":
+  - /url: https://accessibe.com/blog/knowledgebase/screen-reader-guide
+- region "Skip Links":
+  - link "Skip to Content":
+    - /url: "#acsbContent"
+    - text: Skip to Content
+    - generic: ↵
+    - text: ENTER
+- dialog:
+  - text: Simplify Text
+  - button:
+- banner:
+  - group "3 / 3":
+    - link "Free Shipping Over $50 + Free Returns":
+      - /url: /
+      - paragraph: Free Shipping Over $50 + Free Returns
+  - group "1 / 3":
+    - 'link "New: Blueland Rewards Program Get Up to 5% Back →"':
+      - /url: /pages/rewards
+      - paragraph: "New: Blueland Rewards Program"
+      - generic: "|"
+      - paragraph:
+        - strong: Get Up to 5% Back →
+  - group "2 / 3":
+    - link "PowerDuo Laundry Tablets Shop Our Most Powerful Formula →":
+      - /url: /products/powerduo-laundry-tablets
+      - paragraph: PowerDuo Laundry Tablets
+      - generic: "|"
+      - paragraph:
+        - generic: Shop Our Most Powerful Formula →
+  - button "Previous slide":
+    - img "Slider Navigation Left"
+  - button "Next slide":
+    - img "Slider Navigation Right"
+  - button
+  - button
+  - navigation "Header Menu":
+    - list:
+      - button "Shop":
+        - generic: Shop
+      - list:
+        - link "Shop All":
+          - /url: /collections/all
+        - link "Bestsellers":
+          - /url: /collections/bestsellers
+          - generic: Bestsellers
+        - link "Starter Kits":
+          - /url: /collections/starter-kits
+          - generic: Starter Kits
+        - link "Refills":
+          - /url: /collections/refills
+          - generic: Refills
+        - link "Bundle & Save":
+          - /url: /pages/build-your-bundle
+          - generic: Bundle & Save
+        - list:
+          - generic: Up to 35% Off
+        - link "1 Year Bundles":
+          - /url: /collections/1-year-bundles
+          - generic: 1 Year Bundles
+        - link "Autoship":
+          - /url: /pages/get-subscription
+          - generic: Autoship
+        - list:
+          - generic: Save 20%
+      - list:
+        - link "Dish":
+          - /url: /collections/dish
+          - generic: Dish
+        - link "Laundry":
+          - /url: /collections/laundry
+          - generic: Laundry
+        - list:
+          - generic: NEW SCENT
+        - link "Toilet":
+          - /url: /collections/toilet
+          - generic: Toilet
+        - link "Hand Soap":
+          - /url: /collections/soaps
+          - generic: Hand Soap
+        - link "Spray Cleaners":
+          - /url: /collections/cleaners
+          - generic: Spray Cleaners
+        - link "Extras":
+          - /url: /collections/extras
+          - generic: Extras
+      - link "Learn More":
+        - /url: /pages/rewards
+        - img "Blueland Rewards Logo on a cloudy sky background"
+        - paragraph: Get Up to 5% Back
+        - paragraph: Earn points with every purchase
+        - generic: Learn More
+      - link "Get Refills":
+        - /url: /collections/refills
+        - generic: Get Refills
+      - button "Bundle & Save":
+        - generic: Bundle & Save
+      - list:
+        - link "Build a Bundle":
+          - /url: /pages/build-your-bundle
+        - list:
+          - generic: UP TO 35% OFF
+        - link "1 Year Bundles":
+          - /url: /collections/1-year-bundles
+        - link "Bestselling Kits":
+          - /url: /collections/bestselling-kits
+    - link "Go to homepage":
+      - /url: /
+      - img "Blueland logo"
+    - list:
+      - button "About Us":
+        - generic: About Us
+      - list:
+        - link "Who We Are":
+          - /url: /pages/about-us
+        - link "Certifications":
+          - /url: /pages/certifications
+        - link "Products":
+          - /url: /pages/product-philosophy
+        - link "Packaging":
+          - /url: /pages/packaging
+      - button "Our Mission":
+        - generic: Our Mission
+      - list:
+        - link "The Problem with Plastic":
+          - /url: /pages/why-plastic
+        - link "Our Mission & Impact":
+          - /url: /pages/mission
+        - link "Advocacy":
+          - /url: /pages/advocacy
+        - 'link "Blog: The Cleanist"':
+          - /url: /blogs/blog
+    - button "Open search":
+      - img "Search"
+    - link "Go to account page":
+      - /url: /account
+      - img "Account"
+    - button "Open cart":
+      - img "Cart"
+      - generic: "0"
+- main:
+  - navigation "Inner Menu":
+    - list:
+      - link "Starter Kits":
+        - /url: /collections/starter-kits
+      - link "Refills":
+        - /url: /collections/refills
+      - link "Bestsellers":
+        - /url: /collections/bestsellers
+      - link "Dish":
+        - /url: /collections/dish
+      - link "Laundry":
+        - /url: /collections/laundry
+      - link "Toilet":
+        - /url: /collections/toilet
+      - link "Hand Soap":
+        - /url: /collections/soaps
+      - link "Spray Cleaners":
+        - /url: /collections/cleaners
+      - link "Extras":
+        - /url: /collections/extras
+  - region "Clean Suite Kit image gallery":
+    - group "Image 1 of 10":
+      - img "A collection of BLUELAND cleaning products, including spray bottles in different colors, foaming hand soap, tablet refills, powder containers, a scrubbing brush, and a blue cleaning cloth, arranged on a white background."
+      - list:
+        - generic: "Product badge: Bestseller"
+        - generic: Bestseller
+        - generic: "Product badge: 33% Kit Savings"
+        - generic: 33% Kit Savings
+    - group "Image 2 of 10"
+    - group "Image 3 of 10"
+    - group "Image 4 of 10"
+    - group "Image 5 of 10"
+    - group "Image 6 of 10"
+    - group "Image 7 of 10"
+    - group "Image 8 of 10"
+    - group "Image 9 of 10"
+    - group "Image 10 of 10"
+  - group "Thumbnail 1 of 10":
+    - button "Slide to product image 1. A collection of BLUELAND cleaning products, including spray bottles in different colors, foaming hand soap, tablet refills, powder containers, a scrubbing brush, and a blue cleaning cloth, arranged on a white background.":
+      - img "A collection of BLUELAND cleaning products, including spray bottles in different colors, foaming hand soap, tablet refills, powder containers, a scrubbing brush, and a blue cleaning cloth, arranged on a white background."
+  - group "Thumbnail 2 of 10":
+    - 'button "Slide to product image 2. The Clean Suite Kit display features BlueLand’s plastic-free, plant-based products: laundry detergent, dish soap, hand soap, glass and mirror cleaner, bathroom cleaner, multi-surface cleaner, and toilet bowl cleaner."':
+      - 'img "The Clean Suite Kit display features BlueLand’s plastic-free, plant-based products: laundry detergent, dish soap, hand soap, glass and mirror cleaner, bathroom cleaner, multi-surface cleaner, and toilet bowl cleaner."'
+  - group "Thumbnail 3 of 10":
+    - 'button "Slide to product image 3. A white tablet dissolves in water, creating bubbles against a blue background. Text below reads: Powerful Clean, 100% Plastic-Free Formulas."':
+      - 'img "A white tablet dissolves in water, creating bubbles against a blue background. Text below reads: Powerful Clean, 100% Plastic-Free Formulas."'
+  - group "Thumbnail 4 of 10":
+    - 'button "Slide to product image 4. A white baby onesie is shown against a blue sky background, split in half: the left side has a large pink stain, labeled BEFORE, and the right side is clean, labeled AFTER. Text above reads Easy Cleaning, Powerful Results."':
+      - 'img "A white baby onesie is shown against a blue sky background, split in half: the left side has a large pink stain, labeled BEFORE, and the right side is clean, labeled AFTER. Text above reads Easy Cleaning, Powerful Results."'
+  - group "Thumbnail 5 of 10":
+    - button "Slide to product image 5. A video about Blueland's Clean Suite Kit":
+      - img "A video about Blueland's Clean Suite Kit"
+      - img "Play"
+  - group "Thumbnail 6 of 10":
+    - 'button "Slide to product image 6. A person drops a white cleaning tablet into a toilet. On the left, icons and text highlight features: Microplastic-Free Formula, Safe for Sensitive Skin, and Free From Harsh Chemicals."':
+      - 'img "A person drops a white cleaning tablet into a toilet. On the left, icons and text highlight features: Microplastic-Free Formula, Safe for Sensitive Skin, and Free From Harsh Chemicals."'
+  - group "Thumbnail 7 of 10":
+    - 'button "Slide to product image 7. A hand holding a white tablet against a blue sky. Text lists substances the tablet is free from: microplastics (PVA), parabens, ammonia, phthalates, chlorine, dyes, and phosphates."':
+      - 'img "A hand holding a white tablet against a blue sky. Text lists substances the tablet is free from: microplastics (PVA), parabens, ammonia, phthalates, chlorine, dyes, and phosphates."'
+  - group "Thumbnail 8 of 10":
+    - button "Slide to product image 8. A smiling family enjoys a picnic outdoors. Certification logos on the left indicate the products they use are cruelty free, cradle to cradle certified, EPA safer choice, and USDA certified biobased.":
+      - img "A smiling family enjoys a picnic outdoors. Certification logos on the left indicate the products they use are cruelty free, cradle to cradle certified, EPA safer choice, and USDA certified biobased."
+  - group "Thumbnail 9 of 10":
+    - 'button "Slide to product image 9. Comparison of cleaning products: On the left, three white tablets float on a blue sky background with checkmarks listing eco-friendly features. On the right, plastic bottles and packets with crosses note less sustainable attributes."':
+      - 'img "Comparison of cleaning products: On the left, three white tablets float on a blue sky background with checkmarks listing eco-friendly features. On the right, plastic bottles and packets with crosses note less sustainable attributes."'
+  - group "Thumbnail 10 of 10":
+    - button "Slide to product image 10. Two different styles of clear foaming hand soap bottles with white pumps on a light background, featuring the brand 'Blueland' and headline text \"Pump & Style May Vary.\" Smaller text is at the bottom of the image reading \"In our commitment to sustainability, pump style and model may vary during inventory transition\".":
+      - img "Two different styles of clear foaming hand soap bottles with white pumps on a light background, featuring the brand 'Blueland' and headline text \"Pump & Style May Vary.\" Smaller text is at the bottom of the image reading \"In our commitment to sustainability, pump style and model may vary during inventory transition\"."
+  - button "Previous thumbnails" [disabled]:
+  - button "Next thumbnails":
+  - link "Starter Kits":
+    - /url: /collections/starter-kits
+    - generic: Starter Kits
+  - heading "Clean Suite Kit" [level=2]
+  - button "4.7 out of 5 stars, 58,604 reviews for Clean Suite Kit":
+    - img "4.7 out of 5 stars, 58,604 reviews for Clean Suite Kit":
+      - generic: Rated 4.7 out of 5, 58,604 reviews
+      - list:
+      - generic: "4.7"
+      - generic: (58,604)
+  - heading "What’s Included In Your First Order" [level=6]
+  - list:
+    - listitem: • Foaming Hand Soap (1 Forever Bottle + 1 Refill Tablet)
+    - listitem: • Dishwasher Detergent (1 Forever Tin + 60 Refill Tablets)
+    - listitem: • Free & Clear Laundry Detergent (1 Forever Tin + 60 Refill Tablets)
+    - listitem: • Free & Clear Oxi Laundry Booster (1 Forever Tin + 1 500g Refill Pouch)
+    - text: • • • • •
+  - button "View More"
+  - generic: Your plan
+  - button "5% Back In Rewards Save 20% with Autoship Delay or cancel anytime. The original price was $110. The sale price is $88. Recurring refills (Every 3 months) What's Included? Hand Soap Tablet Refills 5 Tablets Dishwasher Detergent Tablet Refills 60 Tablets Laundry Detergent Tablet Refills 60 Tablets Toilet Bowl Cleaner Tablet Refills 14 Tablets Dish Soap Powder Refills 1 Pouch Multi-Surface Cleaner Tablet Refills 3 Tablets Bathroom Cleaner Tablet Refills 3 Tablets Glass + Mirror Cleaner Tablet Refills 2 Tablets":
+    - generic: 5% Back In Rewards
+    - text: Save
+    - generic: 20%
+    - text: with Autoship
+    - button:
+    - generic: Delay or cancel anytime.
+    - paragraph: The original price was $110. The sale price is $88.
+    - generic: $110
+    - generic: $88
+    - text: Recurring refills
+    - generic: (Every 3 months)
+    - button "What's Included?":
+      - generic: What's Included?
+    - generic: Hand Soap Tablet Refills
+    - generic: 5 Tablets
+    - generic: Dishwasher Detergent Tablet Refills
+    - generic: 60 Tablets
+    - generic: Laundry Detergent Tablet Refills
+    - generic: 60 Tablets
+    - generic: Toilet Bowl Cleaner Tablet Refills
+    - generic: 14 Tablets
+    - generic: Dish Soap Powder Refills
+    - generic: 1 Pouch
+    - generic: Multi-Surface Cleaner Tablet Refills
+    - generic: 3 Tablets
+    - generic: Bathroom Cleaner Tablet Refills
+    - generic: 3 Tablets
+    - generic: Glass + Mirror Cleaner Tablet Refills
+    - generic: 2 Tablets
+  - button "3% Back In Rewards Buy One Time $110":
+    - generic: 3% Back In Rewards
+    - generic: Buy One Time
+    - generic: $110
+  - paragraph: Today’s Total
+  - paragraph: $88
+  - paragraph: Recurring
+  - paragraph: $105.57
+  - button "Add To Cart":
+    - generic: Add To Cart
+  - img "Blueland Rewards"
+  - button "Blueland Rewards":
+    - img "Blueland Rewards"
+  - paragraph:
+    - text: Earn
+    - generic: 440 points
+  - generic: "|"
+  - link "Sign Up or Log in to Blueland Rewards":
+    - /url: /account/rewards
+    - text: Sign Up or Log in
+  - paragraph: Free 100-Day Returns | Free Shipping over $50
+  - heading "Popular Add-On" [level=3]
+  - link "PowerDuo Laundry Tablets, 60 Tablets / Fragrance-Free":
+    - /url: /products/powerduo-laundry-tablets
+    - img "A bag of PowerDuo Laundry Tablets, designed for 60 loads, provides an effective 2-in-1 solution for both stain and odor removal. This fragrance-free laundry detergent is packaged in entirely plastic-free materials, making it ideal for those committed to zero waste living. The image displays the tablets along with multiple certification icons."
+    - heading "PowerDuo Laundry Tablets" [level=4]
+    - paragraph: 60 Tablets / Fragrance-Free
+  - button "PowerDuo Laundry Tablets Add. Price is $24":
+    - status:
+      - generic: Loading...
+    - generic: Add
+    - generic: "|"
+    - paragraph: $24
+  - list:
+    - button "Overview":
+      - generic: Overview
+    - button "Ingredients":
+      - generic: Ingredients
+    - button "Sustainability":
+      - generic: Sustainability
+  - paragraph: Upgrade your entire cleaning routine with bestsellers that make it easy to keep your entire family safe and your whole home clean. From dirty dishes and dirty laundry to dirty hands and surfaces, the Clean Suite does it all with 100% plastic-free formulas. It’s a better set of basics—and it’s better for the planet too.
+  - paragraph: Includes Free & Clear Laundry Detergent and Oxi Booster, Dishwasher Detergent, Dish Soap Powder, Foaming Hand Soap, Lemon Cedar Toilet Cleaner, and Glass + Mirror, Multi-Surface and Bathroom Cleaner Sprays.
+  - list:
+    - strong: Clean Ingredients
+    - text: ": 100% microplastic-free tablets made with plant and mineral-based cleaning power so they’re safe for use around everyone in the family. Leaping Bunny (cruelty-free) and Cradle to Cradle Certified™."
+    - strong: Powerfully Effective
+    - text: ": Tried, tested and proven to perform alongside major brands"
+    - strong: 33% Kit Savings
+    - text: ": Get all our bestsellers in one home cleaning kit to save money and emissions"
+  - paragraph
+  - link "What's Included":
+    - /url: "#included"
+    - text: What's Included
+  - link "Our Values":
+    - /url: "#safe-home-cleaner-planet"
+    - text: Our Values
+  - link "Recommendations":
+    - /url: "#recommendations"
+    - text: Recommendations
+  - link "Reviews":
+    - /url: "#reviews"
+    - text: Reviews
+  - heading "What's In Your Kit" [level=2]
+  - generic: All tested alongside major brands at an independent third party lab
+  - group "1 / 9":
+    - generic "Foaming Hand Soap":
+      - img "A clear pump bottle labeled BLUELAND is filled with liquid, next to a small packet labeled BLUELAND Foaming Hand Soap Lavender Eucalyptus and a white round tablet, all on a white background."
+    - generic "Foaming Hand Soap":
+      - heading "Foaming Hand Soap" [level=2]
+    - paragraph: Wash away dirt and grime with Perrine Lemon scented suds
+  - group "2 / 9":
+    - generic "Laundry Detergent":
+      - img "Laundry detergent tin and tablets"
+    - generic "Laundry Detergent":
+      - heading "Laundry Detergent" [level=2]
+    - paragraph: Proven to clean common stains with HE & standard machines with unscented tablets
+  - group "3 / 9":
+    - generic "OXI LAUNDRY BOOSTER":
+      - img "oxi laundry booster and tin"
+    - generic "OXI LAUNDRY BOOSTER":
+      - heading "OXI LAUNDRY BOOSTER" [level=2]
+    - paragraph: Lift stains, brighten whites, and remove odors in a single unscented scoop
+  - group "4 / 9":
+    - generic "Toilet Bowl Cleaner":
+      - img "Toilet bowl cleaner tin and tablet"
+    - generic "Toilet Bowl Cleaner":
+      - heading "Toilet Bowl Cleaner" [level=2]
+    - paragraph: Powers through hard water stains, rust stains, and limescale in a bright Lemon Cedar scent
+  - group "5 / 9":
+    - generic "Dishwasher Tablets":
+      - img "A package of Blueland Dishwasher Detergent Tablets, labeled “60 loads” and “100% plastic-free,” next to a rectangular metal tin with a blue lid and the Blueland logo."
+    - generic "Dishwasher Tablets":
+      - heading "Dishwasher Tablets" [level=2]
+    - paragraph: Power away grease, grime and stuck-on foods for sparkling clean dishes with unscented plastic-free tablets
+  - group "6 / 9":
+    - generic "Dish Soap Powder":
+      - img "A bottle of powder soap next to a package of soap."
+    - generic "Dish Soap Powder":
+      - heading "Dish Soap Powder" [level=2]
+    - paragraph: Clean stubborn, baked-on food with unscented powder that transforms into powerful suds
+  - group "7 / 9":
+    - generic "Multi-Surface Cleaner":
+      - img "A clear spray bottle labeled Blueland Multi-Surface filled with yellow liquid sits next to a small packet labeled Blueland Fresh Lemon and a beige cleaning tablet, all on a white background."
+    - generic "Multi-Surface Cleaner":
+      - heading "Multi-Surface Cleaner" [level=2]
+    - paragraph: Cut grease and grime across counters, sealed stone, and wood with plant-based cleaning power in a Fresh Lemon scent
+  - group "8 / 9":
+    - generic "Bathroom Cleaner":
+      - img "A clear spray bottle labeled Blueland Bathroom with pink liquid inside is next to a packet labeled Blueland Cleaner Tablet Eucalyptus Mint and a pink cleaning tablet on a white background."
+    - generic "Bathroom Cleaner":
+      - heading "Bathroom Cleaner" [level=2]
+    - paragraph: Power away mold and mildew across tubs, tiles and counters with plant-based cleaning power in a fresh Eucalyptus Mint scent
+  - group "9 / 9":
+    - generic "Glass + Mirror Cleaner":
+      - img "A clear spray bottle filled with blue liquid is labeled Blueland Clean and sits next to a brown packet labeled Blueland Cleaner Tablet Unscented and a white cleaning tablet, all on a white background."
+    - generic "Glass + Mirror Cleaner":
+      - heading "Glass + Mirror Cleaner" [level=2]
+    - paragraph: Wash away dirt, fingerprints and streaks across glass, mirrors and windows with unscented, plant-based cleaning power
+  - button "Previous slide" [disabled]:
+    - button "Slider Navigation Left" [disabled]:
+      - img "Slider Navigation Left"
+  - button "Next slide":
+    - button "Slider Navigation Right":
+      - img "Slider Navigation Right"
+  - heading "Safe Home, Cleaner Planet" [level=2]
+  - tablist:
+    - tab "Certified Clean Ingredients" [selected]:
+      - button "Certified Clean Ingredients":
+        - heading "Certified Clean Ingredients" [level=3]
+    - tab "Planet-Friendly Packaging":
+      - button "Planet-Friendly Packaging":
+        - heading "Planet-Friendly Packaging" [level=3]
+  - tabpanel "Certified Clean Ingredients":
+    - paragraph: "Certified clean ingredients that are safe and gentle for everyone in the family, but strong enough to power through life’s toughest messes. Formulas free from:"
+    - img "Microplastics"
+    - paragraph: Microplastics
+    - img "Parabens"
+    - paragraph: Parabens
+    - img "Ammonia"
+    - paragraph: Ammonia
+    - img "Phthalates"
+    - paragraph: Phthalates
+    - img "Chlorine"
+    - paragraph: Chlorine
+    - img "Bleach"
+    - paragraph: Bleach
+    - img "Dyes"
+    - paragraph: Dyes
+    - img "Preservatives"
+    - paragraph: Preservatives
+    - img "Safer Choice U.S. EPA Partner of the Year Logo"
+    - img "Cradle to Cradle logo"
+    - img "Certified B Corporation Logo"
+    - img "Leaping Bunny logo"
+    - img "Climate Neutral Certified logo"
+    - img "A woman and a young girl smile as they wash their hands at the kitchen sink, with fresh lemons and a Blueland foaming hand soap bottle nearby. Sunlight streams through greenery outside the large window behind them."
+  - heading "You’ll Also Love..." [level=2]
+  - region "Products carousel":
+    - group "1 / 3":
+      - link "A bag of PowerDuo Laundry Tablets, designed for 60 loads, provides an effective 2-in-1 solution for both stain and odor removal. This fragrance-free laundry detergent is packaged in entirely plastic-free materials, making it ideal for those committed to zero waste living. The image displays the tablets along with multiple certification icons. New":
+        - /url: /products/powerduo-laundry-tablets?Scent=Fragrance-Free&Count=60+Tablets
+        - img "A bag of PowerDuo Laundry Tablets, designed for 60 loads, provides an effective 2-in-1 solution for both stain and odor removal. This fragrance-free laundry detergent is packaged in entirely plastic-free materials, making it ideal for those committed to zero waste living. The image displays the tablets along with multiple certification icons."
+        - list:
+          - generic: New
+          - generic: New
+      - text: Quick Add
+      - list:
+        - button "Add to cart option 60 Tablets":
+          - generic: 60 Tablets
+        - button "Add to cart option 120 Tablets":
+          - generic: 120 Tablets
+        - button "Add to cart option 300 Tablets":
+          - generic: 300 Tablets
+      - link "PowerDuo Laundry Tablets":
+        - /url: /products/powerduo-laundry-tablets?Scent=Fragrance-Free&Count=60+Tablets
+        - heading "PowerDuo Laundry Tablets" [level=3]
+      - paragraph: $19.20+
+      - generic: The price is $19.20.
+    - group "2 / 3":
+      - link "Five BlueLand foaming hand soap refill packets in different scents—Lavender Eucalyptus, Perrine Lemon, Iris Agave, Pacific Mist, and Cedar Fig—are arranged on a white background with white soap tablets. Bestseller":
+        - /url: /products/hand-soap-refill-packs?Pack+Size=5+Tablets&Scent=Classic+Variety
+        - img "Five BlueLand foaming hand soap refill packets in different scents—Lavender Eucalyptus, Perrine Lemon, Iris Agave, Pacific Mist, and Cedar Fig—are arranged on a white background with white soap tablets."
+        - list:
+          - generic: Bestseller
+          - generic: Bestseller
+      - text: Quick Add
+      - list:
+        - button "Add to cart option 5 Tablets":
+          - generic: 5 Tablets
+        - button "Add to cart option 10 Tablets":
+          - generic: 10 Tablets
+        - button "Add to cart option 30 Tablets":
+          - generic: 30 Tablets
+      - link "Hand Soap Tablet Refills":
+        - /url: /products/hand-soap-refill-packs?Pack+Size=5+Tablets&Scent=Classic+Variety
+        - heading "Hand Soap Tablet Refills" [level=3]
+      - paragraph: $10+
+      - generic: The price is $10.
+    - group "3 / 3":
+      - link "Three natural loofah sponges with rounded edges are stacked on a white background. One sponge has a visible fabric label, and another has a light blue trim along the side.":
+        - /url: /products/scrub-sponge?Pack+Size=3+Sponges
+        - img "Three natural loofah sponges with rounded edges are stacked on a white background. One sponge has a visible fabric label, and another has a light blue trim along the side."
+      - button "Out Of Stock" [disabled]:
+        - generic: Out Of Stock
+      - link "Scrub Sponge":
+        - /url: /products/scrub-sponge?Pack+Size=3+Sponges
+        - heading "Scrub Sponge" [level=3]
+      - paragraph: $11.20+
+      - generic: The price is $11.20.
+  - region "Rated 4.7 out of 5 stars Based on 58,604 reviews":
+    - generic: "4.7"
+    - generic: Rated 4.7 out of 5 stars
+    - generic: Based on 58,604 reviews
+    - generic: "5"
+    - generic: Rated out of 5 stars
+    - generic: 48.4k
+    - 'button "Total 5 star reviews: 48.4k. Filter by 5 star reviews"'
+    - generic: "4"
+    - generic: Rated out of 5 stars
+    - generic: 7.4k
+    - 'button "Total 4 star reviews: 7.4k. Filter by 4 star reviews"'
+    - generic: "3"
+    - generic: Rated out of 5 stars
+    - generic: 1.4k
+    - 'button "Total 3 star reviews: 1.4k. Filter by 3 star reviews"'
+    - generic: "2"
+    - generic: Rated out of 5 stars
+    - generic: "704"
+    - 'button "Total 2 star reviews: 704. Filter by 2 star reviews"'
+    - generic: "1"
+    - generic: Rated out of 5 stars
+    - generic: "683"
+    - 'button "Total 1 star reviews: 683. Filter by 1 star reviews"'
+    - status
+    - strong: 94%
+    - text: would recommend these products
+    - heading "Reviews Summary Generated by AI from 100 most recent customer reviews Last updated 1 month ago" [level=2]:
+      - generic: Reviews Summary
+      - tooltip "Generated by AI from 100 most recent customer reviews Last updated 1 month ago":
+        - generic: Generated by AI from 100 most recent customer reviews
+        - generic: Last updated 1 month ago
+    - generic: Customers say these tablets are easy to use, effective at cleaning, and convenient to store. Many reviews highlight the compact design compared to traditional liquid bottles, making them ideal for travel and laundromats. Users report that laundry tablets leave clothes smelling fresh, while dishwasher tablets clean dishes without residue. The powder dish soap works well with minimal suds. Customers appreciate the plastic-free packaging and compostable materials. Some note that heavily soiled dishes may require additional tablets, and occasional dissolution issues occur. Overall, users find these products perform comparably to conventional options while reducing environmental impact.
+    - region "Carousel of customer-uploaded media. Press left and right arrows to navigate. Press enter or space to open more details.":
+      - text: 
+      - list:
+        - text: 
+        - 'button "Customer-uploaded image. Click to see more details. The image represents: Modern kitchen sink with stainless steel faucet, white countertop with marble pattern, a white water filter bottle, toilet brush holder, and a clear glass vase with white roses and green foliage. Dining chairs and living room visible in background."':
+          - 'img "Customer-uploaded image. Click to see more details. The image represents: Modern kitchen sink with stainless steel faucet, white countertop with marble pattern, a white water filter bottle, toilet brush holder, and a clear glass vase with white roses and green foliage. Dining chairs and living room visible in background."'
+        - text: 
+        - 'button "Customer-uploaded image. Click to see more details. The image represents: A clear glass bottle of foaming hand soap with a black pump dispenser sits on a bathroom counter next to a white sink, with faucets visible in the background."':
+          - 'img "Customer-uploaded image. Click to see more details. The image represents: A clear glass bottle of foaming hand soap with a black pump dispenser sits on a bathroom counter next to a white sink, with faucets visible in the background."'
+        - text: 
+        - 'button "Customer-uploaded image. Click to see more details. The image represents: A person''s hand holding open a light blue container labeled \"BLUELAND\" filled with white circular tablets or pods, photographed outdoors on a granite countertop."':
+          - 'img "Customer-uploaded image. Click to see more details. The image represents: A person''s hand holding open a light blue container labeled \"BLUELAND\" filled with white circular tablets or pods, photographed outdoors on a granite countertop."'
+        - text: 
+        - 'button "Customer-uploaded image. Click to see more details. The image represents: A windowsill display featuring a terracotta plant pot with green foliage on the left, a stainless steel container labeled \"BLUE-LAND\" in the center, and a dark textured object with a decorative finial on the right, all arranged on a wooden shelf above cream-colored subway tiles."':
+          - 'img "Customer-uploaded image. Click to see more details. The image represents: A windowsill display featuring a terracotta plant pot with green foliage on the left, a stainless steel container labeled \"BLUE-LAND\" in the center, and a dark textured object with a decorative finial on the right, all arranged on a wooden shelf above cream-colored subway tiles."'
+        - text: 
+        - 'button "Customer-uploaded image. Click to see more details. The image represents: Three Blueland laundry products on a white shelf: purple container of laundry detergent tablets, pink container of oxi laundry booster, and brown paper refill bag of oxi laundry booster in Spring Bloom scent"':
+          - 'img "Customer-uploaded image. Click to see more details. The image represents: Three Blueland laundry products on a white shelf: purple container of laundry detergent tablets, pink container of oxi laundry booster, and brown paper refill bag of oxi laundry booster in Spring Bloom scent"'
+        - text: 
+        - 'button "Customer-uploaded image. Click to see more details. The image represents: Blueland cleaning products on a shelf including toilet bowl cleaner tablets in yellow packaging and two cylindrical containers for laundry booster and detergent tablets"':
+          - 'img "Customer-uploaded image. Click to see more details. The image represents: Blueland cleaning products on a shelf including toilet bowl cleaner tablets in yellow packaging and two cylindrical containers for laundry booster and detergent tablets"'
+        - text: 
+        - 'button "Customer-uploaded image. Click to see more details. The image represents: A blue container of Blueland dishwasher tablets sits on a counter next to its brown cardboard packaging box"':
+          - 'img "Customer-uploaded image. Click to see more details. The image represents: A blue container of Blueland dishwasher tablets sits on a counter next to its brown cardboard packaging box"'
+        - text: 
+        - 'button "Customer-uploaded image. Click to see more details. The image represents: Kitchen shelf with glass storage jars containing white tablets and powder, plus a cleaning spray bottle"':
+          - 'img "Customer-uploaded image. Click to see more details. The image represents: Kitchen shelf with glass storage jars containing white tablets and powder, plus a cleaning spray bottle"'
+        - text: 
+        - 'button "Customer-uploaded image. Click to see more details. The image represents: Collection of Blueland cleaning product containers in pastel colors including toilet cleaner, laundry detergent tablets, oxi laundry booster, toilet bowl cleaner tablets, and dishwasher tablets arranged on a white surface"':
+          - 'img "Customer-uploaded image. Click to see more details. The image represents: Collection of Blueland cleaning product containers in pastel colors including toilet cleaner, laundry detergent tablets, oxi laundry booster, toilet bowl cleaner tablets, and dishwasher tablets arranged on a white surface"'
+        - text: 
+        - button:
+        - text: 
+        - button:
+        - text: 
+        - button:
+        - text: 
+        - button:
+        - text: 
+        - button:
+        - text: 
+        - button:
+        - text: 
+        - button:
+      - button ""
+      - generic: Slide 1 selected
+    - heading "Customers Talked About" [level=2]
+    - menu:
+      - menuitem "Effectiveness"
+      - menuitem "Scent"
+      - menuitem "Packaging"
+      - menuitem "Convenience"
+      - menuitem "Sustainability"
+    - button " Filters":
+      - generic: 
+      - generic: Filters
+    - region " Filters"
+    - link " Write a Review (Opens in a new tab)":
+      - /url: https://okendo.reviews/?subscriberId=e6d9f49e-7e6c-4065-9eab-110a3e81ece4&productId=shopify-4669945610295&locale=en&okeChannel=reviews-widget-write-review-button
+      - text:  Write a Review
+      - generic: (Opens in a new tab)
+    - generic: 58,604 reviews
+    - text: Sort
+    - combobox "Sort":
+      - option "Featured" [selected]
+      - option "Most Recent"
+      - option "Oldest"
+      - option "Most Helpful"
+      - option "Photos & Videos"
+      - option "Highest Rating"
+      - option "Lowest Rating"
+      - option "Least Helpful"
+    - list:
+      - strong: Lana R.
+      - text: Verified Buyer
+      - generic: 
+      - link:
+        - /url: //shop.blueland.com/products/dishwasher-starter-set?variant=40310700638263
+      - generic: Reviewing
+      - link "View Dishwasher Detergent Starter Set":
+        - /url: //shop.blueland.com/products/dishwasher-starter-set?variant=40310700638263
+        - text: Dishwasher Detergent Starter Set
+        - generic: 60 Tablets / Fragrance-Free
+      - generic:  I recommend this product
+      - generic: Rated 5 out of 5 stars
+      - generic: 1 year ago
+      - heading "Works great and non-toxic!" [level=2]
+      - paragraph: Aesthetic container, no plastic waste, and my dishes are clean! I was worried about it not being as effective as the chemical packed junk I used before, but it's awesome!
+      - generic: Featured
+      - tooltip "Incentivized review This review was received as part of a promotion or in exchange for an incentive. The incentive was offered to both positive and negative reviews.":
+        - generic: Incentivized review
+        - generic: This review was received as part of a promotion or in exchange for an incentive. The incentive was offered to both positive and negative reviews.
+      - generic:  
+      - strong: Aubrey D.
+      - text: Verified Buyer
+      - generic: 
+      - link:
+        - /url: //shop.blueland.com/products/dishwasher-starter-set?variant=40310700671031
+      - generic: Reviewing
+      - link "View Dishwasher Detergent Starter Set":
+        - /url: //shop.blueland.com/products/dishwasher-starter-set?variant=40310700671031
+        - text: Dishwasher Detergent Starter Set
+        - generic: 120 Tablets / Fragrance-Free
+      - generic:  I recommend this product
+      - generic: Rated 5 out of 5 stars
+      - generic: 2 years ago
+      - heading "Happy to be non toxic!" [level=2]
+      - paragraph: Since having my son I have become more and more aware of trying to slowly replace household goods for healthier alternatives. Since switching I've been very happy with how this product works and notice less of a soapy taste on our dishes from the traditional dishwasher pods.
+      - generic: Featured
+      - tooltip "Incentivized review This review was received as part of a promotion or in exchange for an incentive. The incentive was offered to both positive and negative reviews.":
+        - generic: Incentivized review
+        - generic: This review was received as part of a promotion or in exchange for an incentive. The incentive was offered to both positive and negative reviews.
+      - generic:  
+      - strong: Kelley R.
+      - text: Verified Buyer
+      - generic: 
+      - link:
+        - /url: //shop.blueland.com/products/laundry-refill-packs?variant=32130211643447
+      - generic: Reviewing
+      - link "View Laundry Detergent Tablet Refills":
+        - /url: //shop.blueland.com/products/laundry-refill-packs?variant=32130211643447
+        - text: Laundry Detergent Tablet Refills
+        - generic: 60 Tablets / Free & Clear
+      - generic:  I recommend this product
+      - generic: Rated 5 out of 5 stars
+      - generic: 2 years ago
+      - heading "Highly Recomment" [level=2]
+      - paragraph: Laundry was my first step towards a non-toxic or low toxic lifestyle. This is the best non- toxic laundry detergent I have found. Highly recommend.
+      - generic: Featured
+      - generic:  
+      - strong: Janene C.
+      - text: Verified Buyer
+      - generic: 
+      - link:
+        - /url: //shop.blueland.com/products/laundry-refill-packs?variant=41199867527223
+      - generic: Reviewing
+      - link "View Laundry Detergent Tablet Refills":
+        - /url: //shop.blueland.com/products/laundry-refill-packs?variant=41199867527223
+        - text: Laundry Detergent Tablet Refills
+        - generic: 120 Tablets / Spring Bloom
+      - generic:  I recommend this product
+      - generic: Rated 5 out of 5 stars
+      - generic: 4 hours ago
+      - heading "Love them" [level=2]
+      - paragraph: I love the ease of using them and the smaller footprint on the environment
+      - tooltip "Incentivized review This review was received as part of a promotion or in exchange for an incentive. The incentive was offered to both positive and negative reviews.":
+        - generic: Incentivized review
+        - generic: This review was received as part of a promotion or in exchange for an incentive. The incentive was offered to both positive and negative reviews.
+      - generic:  
+      - strong: Claire M.
+      - text: Verified Buyer
+      - generic: 
+      - link:
+        - /url: //shop.blueland.com/products/laundry-refill-packs?variant=32130211643447
+      - generic: Reviewing
+      - link "View Laundry Detergent Tablet Refills":
+        - /url: //shop.blueland.com/products/laundry-refill-packs?variant=32130211643447
+        - text: Laundry Detergent Tablet Refills
+        - generic: 60 Tablets / Free & Clear
+      - generic:  I recommend this product
+      - generic: Rated 5 out of 5 stars
+      - generic: 6 hours ago
+      - heading "Lovely" [level=2]
+      - paragraph: They are so clean and effective
+      - generic:  
+      - strong: Christiana V.
+      - text: Verified Buyer
+      - generic: 
+      - link:
+        - /url: //shop.blueland.com/products/multi-surface-refill-packs?variant=40441044500535
+      - generic: Reviewing
+      - link "View Multi-Surface Cleaner Tablet Refills":
+        - /url: //shop.blueland.com/products/multi-surface-refill-packs?variant=40441044500535
+        - text: Multi-Surface Cleaner Tablet Refills
+        - generic: 2 Tablets / Fresh Lemon
+      - generic:  I recommend this product
+      - generic: Rated 5 out of 5 stars
+      - generic: 8 hours ago
+      - heading "Good and easy to use" [level=2]
+      - paragraph: I like this cleaning product. Great for everyday use
+      - tooltip "Incentivized review This review was received as part of a promotion or in exchange for an incentive. The incentive was offered to both positive and negative reviews.":
+        - generic: Incentivized review
+        - generic: This review was received as part of a promotion or in exchange for an incentive. The incentive was offered to both positive and negative reviews.
+      - generic:  
+      - strong: Sophie M.
+      - text: Verified Buyer
+      - generic: 
+      - link:
+        - /url: //shop.blueland.com/products/dish-soap-refill-packs?variant=31652075700279
+      - generic: Reviewing
+      - link "View Dish Soap Powder Refills":
+        - /url: //shop.blueland.com/products/dish-soap-refill-packs?variant=31652075700279
+        - text: Dish Soap Powder Refills
+        - generic: 1 Pouch / Fragrance-Free
+      - generic:  I recommend this product
+      - generic: Rated 5 out of 5 stars
+      - generic: 8 hours ago
+      - heading "Love this dish soap" [level=2]
+      - paragraph: It suds up nicely, gets things clean and I found it easy
+      - paragraph: To go from using a liquid to a powder.
+      - tooltip "Incentivized review This review was received as part of a promotion or in exchange for an incentive. The incentive was offered to both positive and negative reviews.":
+        - generic: Incentivized review
+        - generic: This review was received as part of a promotion or in exchange for an incentive. The incentive was offered to both positive and negative reviews.
+      - generic:  
+    - alert:
+      - generic: Loading...
+    - alert:
+      - generic: Loading...
+    - link "Show more reviews":
+      - /url: "?okeReviewsNextUrl=%252Fstores%252Fe6d9f49e-7e6c-4065-9eab-110a3e81ece4%252Fproducts%252Fshopify-4669945610295%252Freviews%253Flimit%253D7%2526orderBy%253Dtag%25253AuC3sTVP%252520desc%2526orderBy%253Drating%252520desc%2526lastEvaluated%253D%25257B%252522from%252522%25253A7%25257D&okeReviewsPageNum=2"
+      - text: Show More
+    - status
+- contentinfo:
+  - heading "Even our emails are cleaner" [level=3]
+  - paragraph: No spam ever—just exclusive offers, cleaner cleaning tips, and new product launches.
+  - textbox "Email Address"
+  - button "Submit":
+  - text: By signing up, you consent to our
+  - link "Privacy Policy":
+    - /url: /pages/privacy
+  - text: . You may unsubscribe at any time.
+  - list:
+    - link "instagram":
+      - /url: https://www.instagram.com/blueland/
+      - img "instagram"
+    - link "facebook":
+      - /url: https://www.facebook.com/liveblueland/
+      - img "facebook"
+    - link "tiktok":
+      - /url: https://www.tiktok.com/@blueland
+      - img "tiktok"
+    - link "linkedin":
+      - /url: https://www.linkedin.com/company/liveblueland/
+      - img "linkedin"
+    - link "youtube":
+      - /url: https://www.youtube.com/channel/UCVXZZT6E093tP7IiebaLyxw
+      - img "youtube"
+  - list:
+    - heading "Shop" [level=3]
+    - list:
+      - link "All":
+        - /url: /collections/all
+      - link "Bestsellers":
+        - /url: /collections/bestsellers
+      - link "Starter Kits":
+        - /url: /collections/starter-kits
+      - link "Refills":
+        - /url: /collections/refills
+      - link "Autoship":
+        - /url: /pages/get-subscription
+      - link "Build Your Bundle":
+        - /url: /pages/build-your-bundle
+    - heading "About" [level=3]
+    - list:
+      - link "Our Mission":
+        - /url: /pages/mission
+      - link "Blog":
+        - /url: /blogs/blog
+      - link "Careers":
+        - /url: https://jobs.lever.co/blueland
+      - link "Affiliate Program":
+        - /url: /pages/affiliate
+      - link "Students & Grads Discount":
+        - /url: https://connect.studentbeans.com/v4/hosted/blueland/us
+      - link "Community Discount":
+        - /url: https://connect.studentbeans.com/v4/hosted/blueland-discounts/us
+      - link "Wholesale Inquiries":
+        - /url: https://wholesale.blueland.com/pages/wholesale-login
+      - link "Store Locator":
+        - /url: /pages/store-locator
+    - heading "Help" [level=3]
+    - list:
+      - link "Contact Us":
+        - /url: https://help.blueland.com/en-US/contact
+      - link "Returns & Exchanges":
+        - /url: /pages/return-policy
+      - link "FAQ":
+        - /url: https://help.blueland.com/en-US
+      - button "Accessibility Tool"
+  - button "Open dropdown":
+    - generic: United States (USD $)
+    - img "Chevron"
+  - img "Certified Corporation"
+  - img "Climate Neutral Certified"
+  - paragraph: Copyright © 2026 Blueland
+  - list:
+    - link "help@blueland.com":
+      - /url: mailto:help@blueland.com
+      - paragraph: help@blueland.com
+    - link "Terms & Conditions":
+      - /url: /pages/terms
+      - paragraph: Terms & Conditions
+    - link "Privacy Policy":
+      - /url: /pages/privacy
+      - paragraph: Privacy Policy
+    - button "Your Privacy Choices":
+      - generic: Your Privacy Choices
+- region "Cookie bar":
+  - paragraph:
+    - text: We use cookies to run this site, measure traffic, and personalize content. You can accept, reject, or manage your privacy choices anytime.
+    - link "Privacy Policy":
+      - /url: /pages/privacy
+  - group "Cookie consent actions":
+    - button "Preferences"
+    - button "Reject"
+    - button "Accept"
+- region "Live chat":
+  - iframe [id="chat-button"]:
+    - button "Chat with us":

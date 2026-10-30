@@ -1,0 +1,726 @@
+- button "Use Website In a Screen-Reader Mode"
+- link "Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window":
+  - /url: https://accessibe.com/blog/knowledgebase/screen-reader-guide
+- region "Skip Links":
+  - link "Skip to Content":
+    - /url: "#acsbContent"
+    - text: Skip to Content
+    - generic: ↵
+    - text: ENTER
+- dialog:
+  - text: Simplify Text
+  - button:
+- banner:
+  - group "2 / 3":
+    - link "PowerDuo Laundry Tablets Shop Our Most Powerful Formula →":
+      - /url: /products/powerduo-laundry-tablets
+      - paragraph: PowerDuo Laundry Tablets
+      - generic: "|"
+      - paragraph:
+        - generic: Shop Our Most Powerful Formula →
+  - group "3 / 3":
+    - link "Free Shipping Over $50 + Free Returns":
+      - /url: /
+      - paragraph: Free Shipping Over $50 + Free Returns
+  - group "1 / 3":
+    - 'link "New: Blueland Rewards Program Get Up to 5% Back →"':
+      - /url: /pages/rewards
+      - paragraph: "New: Blueland Rewards Program"
+      - generic: "|"
+      - paragraph:
+        - strong: Get Up to 5% Back →
+  - button "Previous slide":
+    - img "Slider Navigation Left"
+  - button "Next slide":
+    - img "Slider Navigation Right"
+  - button
+  - button
+  - navigation "Header Menu":
+    - list:
+      - button "Shop":
+        - generic: Shop
+      - list:
+        - link "Shop All":
+          - /url: /collections/all
+        - link "Bestsellers":
+          - /url: /collections/bestsellers
+          - generic: Bestsellers
+        - link "Starter Kits":
+          - /url: /collections/starter-kits
+          - generic: Starter Kits
+        - link "Refills":
+          - /url: /collections/refills
+          - generic: Refills
+        - link "Bundle & Save":
+          - /url: /pages/build-your-bundle
+          - generic: Bundle & Save
+        - list:
+          - generic: Up to 35% Off
+        - link "1 Year Bundles":
+          - /url: /collections/1-year-bundles
+          - generic: 1 Year Bundles
+        - link "Autoship":
+          - /url: /pages/get-subscription
+          - generic: Autoship
+        - list:
+          - generic: Save 20%
+      - list:
+        - link "Dish":
+          - /url: /collections/dish
+          - generic: Dish
+        - link "Laundry":
+          - /url: /collections/laundry
+          - generic: Laundry
+        - list:
+          - generic: NEW SCENT
+        - link "Toilet":
+          - /url: /collections/toilet
+          - generic: Toilet
+        - link "Hand Soap":
+          - /url: /collections/soaps
+          - generic: Hand Soap
+        - link "Spray Cleaners":
+          - /url: /collections/cleaners
+          - generic: Spray Cleaners
+        - link "Extras":
+          - /url: /collections/extras
+          - generic: Extras
+      - link "Learn More":
+        - /url: /pages/rewards
+        - img "Blueland Rewards Logo on a cloudy sky background"
+        - paragraph: Get Up to 5% Back
+        - paragraph: Earn points with every purchase
+        - generic: Learn More
+      - link "Get Refills":
+        - /url: /collections/refills
+        - generic: Get Refills
+      - button "Bundle & Save":
+        - generic: Bundle & Save
+      - list:
+        - link "Build a Bundle":
+          - /url: /pages/build-your-bundle
+        - list:
+          - generic: UP TO 35% OFF
+        - link "1 Year Bundles":
+          - /url: /collections/1-year-bundles
+        - link "Bestselling Kits":
+          - /url: /collections/bestselling-kits
+    - link "Go to homepage":
+      - /url: /
+      - img "Blueland logo"
+    - list:
+      - button "About Us":
+        - generic: About Us
+      - list:
+        - link "Who We Are":
+          - /url: /pages/about-us
+        - link "Certifications":
+          - /url: /pages/certifications
+        - link "Products":
+          - /url: /pages/product-philosophy
+        - link "Packaging":
+          - /url: /pages/packaging
+      - button "Our Mission":
+        - generic: Our Mission
+      - list:
+        - link "The Problem with Plastic":
+          - /url: /pages/why-plastic
+        - link "Our Mission & Impact":
+          - /url: /pages/mission
+        - link "Advocacy":
+          - /url: /pages/advocacy
+        - 'link "Blog: The Cleanist"':
+          - /url: /blogs/blog
+    - button "Open search":
+      - img "Search"
+    - link "Go to account page":
+      - /url: /account
+      - img "Account"
+    - button "Open cart":
+      - img "Cart"
+      - generic: "0"
+- main:
+  - navigation "Inner Menu":
+    - list:
+      - link "Starter Kits":
+        - /url: /collections/starter-kits
+      - link "Refills":
+        - /url: /collections/refills
+      - link "Bestsellers":
+        - /url: /collections/bestsellers
+      - link "Dish":
+        - /url: /collections/dish
+      - link "Laundry":
+        - /url: /collections/laundry
+      - link "Toilet":
+        - /url: /collections/toilet
+      - link "Hand Soap":
+        - /url: /collections/soaps
+      - link "Spray Cleaners":
+        - /url: /collections/cleaners
+      - link "Extras":
+        - /url: /collections/extras
+  - img "A dish brush, stacked bowls, a hand soap bottle bottle, and Blueland cleaning tablets are arranged on a light blue surface with plenty of empty space in the center."
+  - heading "Build Your Bundle & Save" [level=1]:
+    - paragraph: Build Your Bundle & Save
+  - paragraph: Create a custom starter set and save up to 15% (or 35% when you subscribe!)
+  - list:
+    - button "A bag of PowerDuo Laundry Tablets, designed for 60 loads, provides an effective 2-in-1 solution for both stain and odor removal. This fragrance-free laundry detergent is packaged in entirely plastic-free materials, making it ideal for those committed to zero waste living. The image displays the tablets along with multiple certification icons. PowerDuo Laundry Tablets New":
+      - img "A bag of PowerDuo Laundry Tablets, designed for 60 loads, provides an effective 2-in-1 solution for both stain and odor removal. This fragrance-free laundry detergent is packaged in entirely plastic-free materials, making it ideal for those committed to zero waste living. The image displays the tablets along with multiple certification icons."
+      - img "PowerDuo Laundry Tablets"
+      - list:
+        - generic: New
+        - generic: New
+    - img "4.8 out of 5 stars, 271 reviews for PowerDuo Laundry Tablets":
+      - generic: Rated 4.8 out of 5, 271 reviews
+      - list:
+      - generic: "4.8"
+      - generic: (271)
+    - heading "PowerDuo Laundry Tablets" [level=3]
+    - paragraph: $19.20+
+    - generic: The price is $19.20.
+    - paragraph: 60 Tablets
+    - button "Open dropdown":
+      - generic: Fragrance-Free
+      - img "Chevron"
+    - button "Add one PowerDuo Laundry Tablets to your bundle":
+      - generic: Add to Bundle
+    - button "Learn More":
+      - generic: Learn More
+    - button "A Dishwasher Detergent Starter Set sits behind a metal tin filled with tablets, beside a clear wine glass, stacked white dishes with gold rims, and silverware on a white surface. A woman kneels in front of an open dishwasher, placing a BlueLand dishwasher tablet inside while holding the package. Clean dishes are loaded in the dishwasher, and sunlight streams through a window in the background. Bestseller":
+      - img "A Dishwasher Detergent Starter Set sits behind a metal tin filled with tablets, beside a clear wine glass, stacked white dishes with gold rims, and silverware on a white surface."
+      - img "A woman kneels in front of an open dishwasher, placing a BlueLand dishwasher tablet inside while holding the package. Clean dishes are loaded in the dishwasher, and sunlight streams through a window in the background."
+      - list:
+        - generic: Bestseller
+        - generic: Bestseller
+    - img "4.8 out of 5 stars, 22,841 reviews for Dishwasher Detergent Starter Set":
+      - generic: Rated 4.8 out of 5, 22,841 reviews
+      - list:
+      - generic: "4.8"
+      - generic: (22,841)
+    - heading "Dishwasher Detergent Starter Set" [level=3]
+    - paragraph: $20+
+    - generic: The price is $20.
+    - paragraph: 60 Tablets
+    - button "Open dropdown":
+      - generic: Fragrance-Free
+      - img "Chevron"
+    - button "Add one Dishwasher Detergent Starter Set to your bundle":
+      - generic: Add to Bundle
+    - button "Learn More":
+      - generic: Learn More
+    - button "A Toilet Bowl Cleaner Starter Set—featuring Blueland’s septic-safe, plastic-free toilet cleaner tablets in an open tin along with eco-friendly cleaning tablets, stacked toilet paper rolls, a cleaning brush, and loose tablets—is arranged on a white background. A person’s hand holding a round white cleaning tablet over an open toilet bowl, preparing to drop it in. A partial view of stacked toilet paper rolls and wooden floor is visible in the background. Bestseller":
+      - img "A Toilet Bowl Cleaner Starter Set—featuring Blueland’s septic-safe, plastic-free toilet cleaner tablets in an open tin along with eco-friendly cleaning tablets, stacked toilet paper rolls, a cleaning brush, and loose tablets—is arranged on a white background."
+      - img "A person’s hand holding a round white cleaning tablet over an open toilet bowl, preparing to drop it in. A partial view of stacked toilet paper rolls and wooden floor is visible in the background."
+      - list:
+        - generic: Bestseller
+        - generic: Bestseller
+    - img "4.8 out of 5 stars, 12,790 reviews for Toilet Bowl Cleaner Starter Set":
+      - generic: Rated 4.8 out of 5, 12,790 reviews
+      - list:
+      - generic: "4.8"
+      - generic: (12,790)
+    - heading "Toilet Bowl Cleaner Starter Set" [level=3]
+    - paragraph: $18.40+
+    - generic: The price is $18.40.
+    - paragraph: 14 Tablets
+    - button "Open dropdown":
+      - generic: Wild Lavender
+      - img "Chevron"
+    - button "Add one Toilet Bowl Cleaner Starter Set to your bundle":
+      - generic: Add to Bundle
+    - button "Learn More":
+      - generic: Learn More
+    - button "A bottle of liquid with a black pump. A person washes their soapy hands under running water from a brass faucet above a white sink, with a soap dispenser and a small vase of flowers nearby. Bestseller":
+      - img "A bottle of liquid with a black pump."
+      - img "A person washes their soapy hands under running water from a brass faucet above a white sink, with a soap dispenser and a small vase of flowers nearby."
+      - list:
+        - generic: Bestseller
+        - generic: Bestseller
+    - img "4.8 out of 5 stars, 40,665 reviews for Slate Hand Soap Starter Set":
+      - generic: Rated 4.8 out of 5, 40,665 reviews
+      - list:
+      - generic: "4.8"
+      - generic: (40,665)
+    - heading "Slate Hand Soap Starter Set" [level=3]
+    - paragraph: $14.40+
+    - generic: The price is $14.40.
+    - paragraph:
+      - text: 3 Tablets
+      - generic: "|"
+      - generic: "Color: Slate"
+    - button "Open dropdown":
+      - generic: Classic Variety
+      - img "Chevron"
+    - button "Add one Slate Hand Soap Starter Set to your bundle":
+      - generic: Add to Bundle
+    - button "Learn More":
+      - generic: Learn More
+    - button "A clear pump bottle labeled BLUELAND is filled with liquid, next to a small packet labeled BLUELAND Foaming Hand Soap Lavender Eucalyptus and a white round tablet, all on a white background. A person washes their soapy hands under running water from a brass faucet above a white sink, with a soap dispenser and a small vase of flowers nearby.":
+      - img "A clear pump bottle labeled BLUELAND is filled with liquid, next to a small packet labeled BLUELAND Foaming Hand Soap Lavender Eucalyptus and a white round tablet, all on a white background."
+      - img "A person washes their soapy hands under running water from a brass faucet above a white sink, with a soap dispenser and a small vase of flowers nearby."
+    - img "4.8 out of 5 stars, 40,665 reviews for Signature Hand Soap Starter Set":
+      - generic: Rated 4.8 out of 5, 40,665 reviews
+      - list:
+      - generic: "4.8"
+      - generic: (40,665)
+    - heading "Signature Hand Soap Starter Set" [level=3]
+    - paragraph: $14.40+
+    - generic: The price is $14.40.
+    - paragraph:
+      - text: 3 Tablets
+      - generic: "|"
+      - generic: "Color: Signature"
+    - button "Open dropdown":
+      - generic: Classic Variety
+      - img "Chevron"
+    - button "Add one Signature Hand Soap Starter Set to your bundle":
+      - generic: Add to Bundle
+    - button "Learn More":
+      - generic: Learn More
+    - button "A package of Blueland laundry detergent tablets, a purple refillable container with tablets, and a neatly folded stack of towels with a cloth on top, displayed on a white background. A woman sits by a front-loading washing machine, holding a package of Blue Land laundry detergent tablets. An open laundry basket sits nearby, and she is placing laundry into the washing machine. New Scent":
+      - img "A package of Blueland laundry detergent tablets, a purple refillable container with tablets, and a neatly folded stack of towels with a cloth on top, displayed on a white background."
+      - img "A woman sits by a front-loading washing machine, holding a package of Blue Land laundry detergent tablets. An open laundry basket sits nearby, and she is placing laundry into the washing machine."
+      - list:
+        - generic: New Scent
+        - generic: New Scent
+    - img "4.7 out of 5 stars, 14,954 reviews for Laundry Detergent Starter Set":
+      - generic: Rated 4.7 out of 5, 14,954 reviews
+      - list:
+      - generic: "4.7"
+      - generic: (14,954)
+    - heading "Laundry Detergent Starter Set" [level=3]
+    - paragraph: $20+
+    - generic: The price is $20.
+    - paragraph: 60 Tablets
+    - button "Open dropdown":
+      - generic: Free & Clear
+      - img "Chevron"
+    - button "Add one Laundry Detergent Starter Set to your bundle":
+      - generic: Add to Bundle
+    - button "Learn More":
+      - generic: Learn More
+    - button "A package of Blueland Oxi Laundry Booster sits next to a pink canister with an open lid and two neatly folded white towels, all on a white background. A bag and a canister of Blueland Oxi Laundry Booster are on a marble countertop next to a folded white towel and a wicker laundry basket, with a washing machine visible below.":
+      - img "A package of Blueland Oxi Laundry Booster sits next to a pink canister with an open lid and two neatly folded white towels, all on a white background."
+      - img "A bag and a canister of Blueland Oxi Laundry Booster are on a marble countertop next to a folded white towel and a wicker laundry basket, with a washing machine visible below."
+    - img "4.9 out of 5 stars, 6,736 reviews for Oxi Laundry Booster Starter Set":
+      - generic: Rated 4.9 out of 5, 6,736 reviews
+      - list:
+      - generic: "4.9"
+      - generic: (6,736)
+    - heading "Oxi Laundry Booster Starter Set" [level=3]
+    - paragraph: $14.40+
+    - generic: The price is $14.40.
+    - paragraph: 25 Loads
+    - button "Open dropdown":
+      - generic: Clear Skies
+      - img "Chevron"
+    - button "Add one Oxi Laundry Booster Starter Set to your bundle":
+      - generic: Add to Bundle
+    - button "Learn More":
+      - generic: Learn More
+    - button "Blue bowls, a wooden dish brush, and a reusable bottle labeled Dish Soap sit beside Blueland’s Dish Soap Powder Starter Set—an eco-friendly, plastic-free cleaning powder in blue and tan packaging with a mountain graphic. A hand pouring dish soap powder into a reusable silicone dish soap dispenser.":
+      - img "Blue bowls, a wooden dish brush, and a reusable bottle labeled Dish Soap sit beside Blueland’s Dish Soap Powder Starter Set—an eco-friendly, plastic-free cleaning powder in blue and tan packaging with a mountain graphic."
+      - img "A hand pouring dish soap powder into a reusable silicone dish soap dispenser."
+    - img "4.6 out of 5 stars, 6,950 reviews for Dish Soap Powder Starter Set":
+      - generic: Rated 4.6 out of 5, 6,950 reviews
+      - list:
+      - generic: "4.6"
+      - generic: (6,950)
+    - heading "Dish Soap Powder Starter Set" [level=3]
+    - paragraph: $14.40+
+    - generic: The price is $14.40.
+    - paragraph:
+      - text: 1 Pouch
+      - generic: "|"
+      - generic: "Scent: Fragrance-Free"
+    - button "Add one Dish Soap Powder Starter Set to your bundle":
+      - generic: Add to Bundle
+    - button "Learn More":
+      - generic: Learn More
+    - button "A clear spray bottle labeled Blueland Multi-Surface filled with yellow liquid sits next to a small packet labeled Blueland Fresh Lemon and a beige cleaning tablet, all on a white background. A person in a beige sweater sprays cleaner from a clear bottle onto a marble countertop and wipes it with a blue cloth.":
+      - img "A clear spray bottle labeled Blueland Multi-Surface filled with yellow liquid sits next to a small packet labeled Blueland Fresh Lemon and a beige cleaning tablet, all on a white background."
+      - img "A person in a beige sweater sprays cleaner from a clear bottle onto a marble countertop and wipes it with a blue cloth."
+    - img "4.8 out of 5 stars, 7,740 reviews for Multi-Surface Cleaner Starter Set":
+      - generic: Rated 4.8 out of 5, 7,740 reviews
+      - list:
+      - generic: "4.8"
+      - generic: (7,740)
+    - heading "Multi-Surface Cleaner Starter Set" [level=3]
+    - paragraph: $12.80+
+    - generic: The price is $12.80.
+    - paragraph:
+      - text: 2 Tablets
+      - generic: "|"
+      - generic: "Scent: Fresh Lemon"
+    - button "Add one Multi-Surface Cleaner Starter Set to your bundle":
+      - generic: Add to Bundle
+    - button "Learn More":
+      - generic: Learn More
+    - button "A clear spray bottle labeled Blueland Bathroom with pink liquid inside is next to a packet labeled Blueland Cleaner Tablet Eucalyptus Mint and a pink cleaning tablet on a white background. A person sprays cleaner from a pink bottle onto a white bathroom sink while wiping with a blue cloth. A gold faucet and a potted plant are visible in the background.":
+      - img "A clear spray bottle labeled Blueland Bathroom with pink liquid inside is next to a packet labeled Blueland Cleaner Tablet Eucalyptus Mint and a pink cleaning tablet on a white background."
+      - img "A person sprays cleaner from a pink bottle onto a white bathroom sink while wiping with a blue cloth. A gold faucet and a potted plant are visible in the background."
+    - img "4.8 out of 5 stars, 4,458 reviews for Bathroom Cleaner Starter Set":
+      - generic: Rated 4.8 out of 5, 4,458 reviews
+      - list:
+      - generic: "4.8"
+      - generic: (4,458)
+    - heading "Bathroom Cleaner Starter Set" [level=3]
+    - paragraph: $12.80+
+    - generic: The price is $12.80.
+    - paragraph:
+      - text: 2 Tablets
+      - generic: "|"
+      - generic: "Scent: Eucalyptus Mint"
+    - button "Add one Bathroom Cleaner Starter Set to your bundle":
+      - generic: Add to Bundle
+    - button "Learn More":
+      - generic: Learn More
+    - button "A clear spray bottle filled with blue liquid is labeled Blueland Clean and sits next to a brown packet labeled Blueland Cleaner Tablet Unscented and a white cleaning tablet, all on a white background. A person in a blue top sprays cleaner onto a large oval bathroom mirror above a beige sink, holding a cloth. There is a potted plant, soap dispenser, and gold fixtures on the tiled countertop.":
+      - img "A clear spray bottle filled with blue liquid is labeled Blueland Clean and sits next to a brown packet labeled Blueland Cleaner Tablet Unscented and a white cleaning tablet, all on a white background."
+      - img "A person in a blue top sprays cleaner onto a large oval bathroom mirror above a beige sink, holding a cloth. There is a potted plant, soap dispenser, and gold fixtures on the tiled countertop."
+    - img "4.6 out of 5 stars, 2,281 reviews for Glass + Mirror Cleaner Starter Set":
+      - generic: Rated 4.6 out of 5, 2,281 reviews
+      - list:
+      - generic: "4.6"
+      - generic: (2,281)
+    - heading "Glass + Mirror Cleaner Starter Set" [level=3]
+    - paragraph: $12.80+
+    - generic: The price is $12.80.
+    - paragraph:
+      - text: 2 Tablets
+      - generic: "|"
+      - generic: "Scent: Fragrance-Free"
+    - button "Add one Glass + Mirror Cleaner Starter Set to your bundle":
+      - generic: Add to Bundle
+    - button "Learn More":
+      - generic: Learn More
+  - heading "Customize Your Bundle" [level=2]
+  - list:
+    - paragraph: Start Building Your Bundle
+    - paragraph: Add Your Second - Save 5%
+    - paragraph: Add Your Third - Save 10%
+    - paragraph: Add Your Fourth - Save 15%
+  - button "Add bundle to cart" [disabled]:
+    - generic: Add to Cart
+  - paragraph: Free 100-Day Returns | Free Shipping over $50
+  - paragraph:
+    - paragraph:
+      - emphasis: Bundle discounts cannot be combined with other discounts, except the additional subscription discount. See
+      - link "bundle discount terms here":
+        - /url: /pages/build-your-bundle-terms
+      - emphasis: .
+  - heading "Not sure where to start? Try one of our bestsellers!" [level=2]
+  - region "Products carousel":
+    - link "A collection of BLUELAND cleaning products, including spray bottles in different colors, foaming hand soap, tablet refills, powder containers, a scrubbing brush, and a blue cleaning cloth, arranged on a white background. Bestseller 33% Kit Savings":
+      - /url: /products/the-clean-suite
+      - img "A collection of BLUELAND cleaning products, including spray bottles in different colors, foaming hand soap, tablet refills, powder containers, a scrubbing brush, and a blue cleaning cloth, arranged on a white background."
+      - list:
+        - generic: Bestseller
+        - generic: Bestseller
+        - generic: 33% Kit Savings
+        - generic: 33% Kit Savings
+    - button "Quick Add":
+      - generic: Quick Add
+    - link "4.7 out of 5 stars, 58,604 reviews for Clean Suite Kit":
+      - /url: /products/the-clean-suite
+      - img "4.7 out of 5 stars, 58,604 reviews for Clean Suite Kit":
+        - generic: Rated 4.7 out of 5, 58,604 reviews
+        - list:
+        - generic: "4.7"
+        - generic: (58,604)
+    - link "Clean Suite Kit":
+      - /url: /products/the-clean-suite
+      - heading "Clean Suite Kit" [level=3]
+    - paragraph: $163
+    - paragraph: $88+
+    - generic: The original price was $163. The sale price is $88.
+    - link "Three BlueLand cleaning products—Toilet Bowl Cleaner Tablets, Laundry Detergent Tablets, and Dishwasher Detergent Tablets—are displayed in colorful pouches behind matching refillable tins with scattered cleaning tablets and brushes. Bestseller 21% Kit Savings":
+      - /url: /products/the-tablet-trio?Dishwasher%2FLaundry+Scent=Fragrance-Free
+      - img "Three BlueLand cleaning products—Toilet Bowl Cleaner Tablets, Laundry Detergent Tablets, and Dishwasher Detergent Tablets—are displayed in colorful pouches behind matching refillable tins with scattered cleaning tablets and brushes."
+      - list:
+        - generic: Bestseller
+        - generic: Bestseller
+        - generic: 21% Kit Savings
+        - generic: 21% Kit Savings
+    - button "Quick Add":
+      - generic: Quick Add
+    - link "4.8 out of 5 stars, 48,996 reviews for Tablet Trio Kit":
+      - /url: /products/the-tablet-trio?Dishwasher%2FLaundry+Scent=Fragrance-Free
+      - img "4.8 out of 5 stars, 48,996 reviews for Tablet Trio Kit":
+        - generic: Rated 4.8 out of 5, 48,996 reviews
+        - list:
+        - generic: "4.8"
+        - generic: (48,996)
+    - link "Tablet Trio Kit":
+      - /url: /products/the-tablet-trio?Dishwasher%2FLaundry+Scent=Fragrance-Free
+      - heading "Tablet Trio Kit" [level=3]
+    - paragraph: $73
+    - paragraph: $46.40+
+    - generic: The original price was $73. The sale price is $46.40.
+    - radio "Fragrance-Free" [checked]
+    - radio "Scented"
+    - generic: "Dishwasher/Laundry Scent: Fragrance-Free"
+    - link "The Dishwasher & Laundry Detergent Kit is shown with two pouches and two metal containers, tablets displayed in front. The packaging highlights a plastic-free design and powerful cleaning performance. 15% Kit Savings":
+      - /url: /products/dishwasher-laundry-duo?Scent=Free+%26+Clear&Quantity=60+Dishwasher+%26+60+Laundry+Tablets
+      - img "The Dishwasher & Laundry Detergent Kit is shown with two pouches and two metal containers, tablets displayed in front. The packaging highlights a plastic-free design and powerful cleaning performance."
+      - list:
+        - generic: 15% Kit Savings
+        - generic: 15% Kit Savings
+    - text: Quick Add
+    - list:
+      - button "Add to cart option 60 Dishwasher & 60 Laundry Tablets":
+        - generic: 60 Dishwasher & 60 Laundry Tablets
+      - button "Add to cart option 120 Dishwasher & 120 Laundry Tablets":
+        - generic: 120 Dishwasher & 120 Laundry Tablets
+    - link "4.8 out of 5 stars, 35,412 reviews for Dishwasher & Laundry Detergent Kit":
+      - /url: /products/dishwasher-laundry-duo?Scent=Free+%26+Clear&Quantity=60+Dishwasher+%26+60+Laundry+Tablets
+      - img "4.8 out of 5 stars, 35,412 reviews for Dishwasher & Laundry Detergent Kit":
+        - generic: Rated 4.8 out of 5, 35,412 reviews
+        - list:
+        - generic: "4.8"
+        - generic: (35,412)
+    - link "Dishwasher & Laundry Detergent Kit":
+      - /url: /products/dishwasher-laundry-duo?Scent=Free+%26+Clear&Quantity=60+Dishwasher+%26+60+Laundry+Tablets
+      - heading "Dishwasher & Laundry Detergent Kit" [level=3]
+    - paragraph: $50
+    - paragraph: $36+
+    - generic: The original price was $50. The sale price is $36.
+    - radio "Free & Clear" [checked]
+    - radio "Scented"
+    - generic: "Scent: Free & Clear"
+    - link "Four clear bottles of BlueLand cleaning products, each with a labeled spray or foaming pump, are displayed in a row with four corresponding refill packets in front of them on a white background. Bestseller 25% Kit Savings":
+      - /url: /products/the-clean-essentials
+      - img "Four clear bottles of BlueLand cleaning products, each with a labeled spray or foaming pump, are displayed in a row with four corresponding refill packets in front of them on a white background."
+      - list:
+        - generic: Bestseller
+        - generic: Bestseller
+        - generic: 25% Kit Savings
+        - generic: 25% Kit Savings
+    - button "Quick Add":
+      - generic: Quick Add
+    - link "4.7 out of 5 stars, 26,107 reviews for Clean Essentials Kit":
+      - /url: /products/the-clean-essentials
+      - img "4.7 out of 5 stars, 26,107 reviews for Clean Essentials Kit":
+        - generic: Rated 4.7 out of 5, 26,107 reviews
+        - list:
+        - generic: "4.7"
+        - generic: (26,107)
+    - link "Clean Essentials Kit":
+      - /url: /products/the-clean-essentials
+      - heading "Clean Essentials Kit" [level=3]
+    - paragraph: $58
+    - paragraph: $36.80+
+    - generic: The original price was $58. The sale price is $36.80.
+    - link "Two pastel-colored BLUELAND containers (one for Oxi Laundry Booster, one for Laundry Detergent Tablets) are next to stacked colorful towels and three blue wool dryer balls. Two detergent tablets are in front of the containers. 🏆 Award Winner 20% Kit Savings":
+      - /url: /products/laundry-essentials-kit?Scent=Free+%26+Clear
+      - img "Two pastel-colored BLUELAND containers (one for Oxi Laundry Booster, one for Laundry Detergent Tablets) are next to stacked colorful towels and three blue wool dryer balls. Two detergent tablets are in front of the containers."
+      - list:
+        - generic: 🏆 Award Winner
+        - generic: 🏆 Award Winner
+        - generic: 20% Kit Savings
+        - generic: 20% Kit Savings
+    - button "Quick Add":
+      - generic: Quick Add
+    - link "4.8 out of 5 stars, 24,982 reviews for Laundry Essentials Kit":
+      - /url: /products/laundry-essentials-kit?Scent=Free+%26+Clear
+      - img "4.8 out of 5 stars, 24,982 reviews for Laundry Essentials Kit":
+        - generic: Rated 4.8 out of 5, 24,982 reviews
+        - list:
+        - generic: "4.8"
+        - generic: (24,982)
+    - link "Laundry Essentials Kit":
+      - /url: /products/laundry-essentials-kit?Scent=Free+%26+Clear
+      - heading "Laundry Essentials Kit" [level=3]
+    - paragraph: $61
+    - paragraph: $40.80+
+    - generic: The original price was $61. The sale price is $40.80.
+    - radio "Free & Clear" [checked]
+    - radio "Spring Bloom"
+    - generic: "Scent: Free & Clear"
+    - link "The Dishwasher Detergent & Toilet Bowl Cleaner Kit is shown with two packages—Toilet Bowl Cleaner Tablets (14) and Dishwasher Detergent Tablets (60)—plus two tins of white tablets, all set against a white background. 15% Kit Savings":
+      - /url: /products/dishwasher-toilet-duo
+      - img "The Dishwasher Detergent & Toilet Bowl Cleaner Kit is shown with two packages—Toilet Bowl Cleaner Tablets (14) and Dishwasher Detergent Tablets (60)—plus two tins of white tablets, all set against a white background."
+      - list:
+        - generic: 15% Kit Savings
+        - generic: 15% Kit Savings
+    - button "Quick Add":
+      - generic: Quick Add
+    - link "4.8 out of 5 stars, 32,239 reviews for Dishwasher Detergent & Toilet Bowl Cleaner Kit":
+      - /url: /products/dishwasher-toilet-duo
+      - img "4.8 out of 5 stars, 32,239 reviews for Dishwasher Detergent & Toilet Bowl Cleaner Kit":
+        - generic: Rated 4.8 out of 5, 32,239 reviews
+        - list:
+        - generic: "4.8"
+        - generic: (32,239)
+    - link "Dishwasher Detergent & Toilet Bowl Cleaner Kit":
+      - /url: /products/dishwasher-toilet-duo
+      - heading "Dishwasher Detergent & Toilet Bowl Cleaner Kit" [level=3]
+    - paragraph: $48
+    - paragraph: $34.40+
+    - generic: The original price was $48. The sale price is $34.40.
+    - link "The Laundry Detergent & Toilet Bowl Cleaner Kit is displayed with grey tins, some open to reveal the plastic-free white tablets, all set against a white background. 15% Kit Savings":
+      - /url: /products/laundry-toilet-duo?Laundry+Scent=Free+%26+Clear
+      - img "The Laundry Detergent & Toilet Bowl Cleaner Kit is displayed with grey tins, some open to reveal the plastic-free white tablets, all set against a white background."
+      - list:
+        - generic: 15% Kit Savings
+        - generic: 15% Kit Savings
+    - button "Quick Add":
+      - generic: Quick Add
+    - link "4.7 out of 5 stars, 26,267 reviews for Laundry Detergent & Toilet Bowl Cleaner Kit":
+      - /url: /products/laundry-toilet-duo?Laundry+Scent=Free+%26+Clear
+      - img "4.7 out of 5 stars, 26,267 reviews for Laundry Detergent & Toilet Bowl Cleaner Kit":
+        - generic: Rated 4.7 out of 5, 26,267 reviews
+        - list:
+        - generic: "4.7"
+        - generic: (26,267)
+    - link "Laundry Detergent & Toilet Bowl Cleaner Kit":
+      - /url: /products/laundry-toilet-duo?Laundry+Scent=Free+%26+Clear
+      - heading "Laundry Detergent & Toilet Bowl Cleaner Kit" [level=3]
+    - paragraph: $48
+    - paragraph: $34.40+
+    - generic: The original price was $48. The sale price is $34.40.
+    - radio "Free & Clear" [checked]
+    - radio "Spring Bloom"
+    - generic: "Laundry Scent: Free & Clear"
+    - link "The Dish Essentials Kit, featuring a dish soap bottle, blue-lidded metal tin, stacked white plates, blue glasses, and a wooden scrub brush on a white surface, is perfect for those seeking microplastic-free and plant-based cleaning solutions. 15% Kit Savings":
+      - /url: /products/the-dish-duo
+      - img "The Dish Essentials Kit, featuring a dish soap bottle, blue-lidded metal tin, stacked white plates, blue glasses, and a wooden scrub brush on a white surface, is perfect for those seeking microplastic-free and plant-based cleaning solutions."
+      - list:
+        - generic: 15% Kit Savings
+        - generic: 15% Kit Savings
+    - button "Quick Add":
+      - generic: Quick Add
+    - link "4.8 out of 5 stars, 29,905 reviews for Dish Essentials Kit":
+      - /url: /products/the-dish-duo
+      - img "4.8 out of 5 stars, 29,905 reviews for Dish Essentials Kit":
+        - generic: Rated 4.8 out of 5, 29,905 reviews
+        - list:
+        - generic: "4.8"
+        - generic: (29,905)
+    - link "Dish Essentials Kit":
+      - /url: /products/the-dish-duo
+      - heading "Dish Essentials Kit" [level=3]
+    - paragraph: $43
+    - paragraph: $30.40+
+    - generic: The original price was $43. The sale price is $30.40.
+  - generic: Previous arrow button
+  - img "Arrow Left"
+  - generic: Next arrow button
+  - img "Arrow Right"
+  - heading "Build Your Bundle FAQs" [level=2]
+  - list:
+    - button "Close accordion for How do I build my own cleaning bundle?" [expanded]:
+      - heading "How do I build my own cleaning bundle?" [level=3]
+      - img "Chevron Down"
+    - paragraph:
+      - text: At Blueland, we offer a build-your-own cleaning supplies bundle designed to make home cleaning easier, safer, and more sustainable. Your carefully curated bundle includes a selection of
+      - link "eco-friendly cleaning products":
+        - /url: https://www.blueland.com/
+      - text: that are tough on dirt yet gentle on the planet. Whether you're tackling the kitchen, bathroom, or any other household task, this complete set is designed to have everything you need to keep your home sparkling clean without harmful chemicals.
+    - button "Open accordion for Can I customize my bundle to fit my specific cleaning needs?":
+      - heading "Can I customize my bundle to fit my specific cleaning needs?" [level=3]
+      - img "Chevron Down"
+    - paragraph: With our "Build Your Own Bundle" feature, you can select the products that best suit your cleaning needs. Whether you're focused on specific areas of your home or prefer certain scents, you have the flexibility to create a bundle tailored to you.
+    - paragraph: Blueland’s cleaning bundle is perfect for anyone looking to reduce their environmental footprint without sacrificing cleaning power. Each item in the bundle is made with clean ingredients and designed to clean all surfaces—from countertops and glass to kitchen appliances. With products that are as effective as they are eco-friendly, you’ll enjoy a clean and fresh home without any harsh chemicals.
+    - button "Open accordion for Do I save money when I build my own cleaning bundle?":
+      - heading "Do I save money when I build my own cleaning bundle?" [level=3]
+      - img "Chevron Down"
+    - paragraph: When you build your own bundle, you'll enjoy tiered savings on the products you choose. It's a great way to save while stocking up on eco-friendly cleaning essentials. Shop Blueland’s cleaning supplies bundle today, and enjoy a more sustainable, safe way to maintain a clean and healthy home.
+- contentinfo:
+  - heading "Even our emails are cleaner" [level=3]
+  - paragraph: No spam ever—just exclusive offers, cleaner cleaning tips, and new product launches.
+  - textbox "Email Address"
+  - button "Submit":
+  - text: By signing up, you consent to our
+  - link "Privacy Policy":
+    - /url: /pages/privacy
+  - text: . You may unsubscribe at any time.
+  - list:
+    - link "instagram":
+      - /url: https://www.instagram.com/blueland/
+      - img "instagram"
+    - link "facebook":
+      - /url: https://www.facebook.com/liveblueland/
+      - img "facebook"
+    - link "tiktok":
+      - /url: https://www.tiktok.com/@blueland
+      - img "tiktok"
+    - link "linkedin":
+      - /url: https://www.linkedin.com/company/liveblueland/
+      - img "linkedin"
+    - link "youtube":
+      - /url: https://www.youtube.com/channel/UCVXZZT6E093tP7IiebaLyxw
+      - img "youtube"
+  - list:
+    - heading "Shop" [level=3]
+    - list:
+      - link "All":
+        - /url: /collections/all
+      - link "Bestsellers":
+        - /url: /collections/bestsellers
+      - link "Starter Kits":
+        - /url: /collections/starter-kits
+      - link "Refills":
+        - /url: /collections/refills
+      - link "Autoship":
+        - /url: /pages/get-subscription
+      - link "Build Your Bundle":
+        - /url: /pages/build-your-bundle
+    - heading "About" [level=3]
+    - list:
+      - link "Our Mission":
+        - /url: /pages/mission
+      - link "Blog":
+        - /url: /blogs/blog
+      - link "Careers":
+        - /url: https://jobs.lever.co/blueland
+      - link "Affiliate Program":
+        - /url: /pages/affiliate
+      - link "Students & Grads Discount":
+        - /url: https://connect.studentbeans.com/v4/hosted/blueland/us
+      - link "Community Discount":
+        - /url: https://connect.studentbeans.com/v4/hosted/blueland-discounts/us
+      - link "Wholesale Inquiries":
+        - /url: https://wholesale.blueland.com/pages/wholesale-login
+      - link "Store Locator":
+        - /url: /pages/store-locator
+    - heading "Help" [level=3]
+    - list:
+      - link "Contact Us":
+        - /url: https://help.blueland.com/en-US/contact
+      - link "Returns & Exchanges":
+        - /url: /pages/return-policy
+      - link "FAQ":
+        - /url: https://help.blueland.com/en-US
+      - button "Accessibility Tool"
+  - button "Open dropdown":
+    - generic: United States (USD $)
+    - img "Chevron"
+  - img "Certified Corporation"
+  - img "Climate Neutral Certified"
+  - paragraph: Copyright © 2026 Blueland
+  - list:
+    - link "help@blueland.com":
+      - /url: mailto:help@blueland.com
+      - paragraph: help@blueland.com
+    - link "Terms & Conditions":
+      - /url: /pages/terms
+      - paragraph: Terms & Conditions
+    - link "Privacy Policy":
+      - /url: /pages/privacy
+      - paragraph: Privacy Policy
+    - button "Your Privacy Choices":
+      - generic: Your Privacy Choices
+- region "Cookie bar":
+  - paragraph:
+    - text: We use cookies to run this site, measure traffic, and personalize content. You can accept, reject, or manage your privacy choices anytime.
+    - link "Privacy Policy":
+      - /url: /pages/privacy
+  - group "Cookie consent actions":
+    - button "Preferences"
+    - button "Reject"
+    - button "Accept"
+- region "Live chat":
+  - iframe [id="chat-button"]:
+    - button "Chat with us":

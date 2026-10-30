@@ -1,0 +1,429 @@
+- banner:
+  - navigation:
+    - link "Littledata logo":
+      - /url: /
+      - img "Littledata logo"
+    - link "Productopen menu":
+      - /url: /shopify
+      - text: Product
+      - img "open menu"
+    - link "Case Studies":
+      - /url: /case-studies
+      - generic: Case Studies
+    - link "Learnopen menu":
+      - /url: /demo
+      - text: Learn
+      - img "open menu"
+    - link "Pricing":
+      - /url: /plans
+      - generic: Pricing
+    - link "Demo":
+      - /url: /demo
+      - generic: Demo
+    - link "Built for Shopify":
+      - /url: https://apps.shopify.com/littledata
+      - img "Built for Shopify"
+- main:
+  - heading "What is the average checkout completion rate?" [level=1]
+  - heading "Median 49% across 435 Shopify stores, October 2026." [level=2]
+  - link "Start Free Trial":
+    - /url: https://apps.shopify.com/littledata
+    - generic: Start Free Trial
+  - button "Book a Demo":
+    - generic: Book a Demo
+  - heading "49%" [level=4]
+  - heading "Median checkout completion rate" [level=5]
+  - heading "66%" [level=4]
+  - heading "Top 20% of stores are above" [level=5]
+  - heading "74%" [level=4]
+  - heading "Top 10% of stores are above" [level=5]
+  - heading "435" [level=4]
+  - heading "Shopify stores benchmarked" [level=5]
+  - navigation "Breadcrumb":
+    - list:
+      - link "Home":
+        - /url: /
+      - generic: ">"
+      - link "Benchmarks":
+        - /url: /average-website-performance
+      - generic: ">"
+      - generic: Checkout completion rate
+  - heading "How 435 Shopify stores compare" [level=2]
+  - paragraph: Of the sessions that started checkout, the share that went on to purchase. The teal band shows the middle 60% of stores; the marker is the median.
+  - figure:
+    - 'img "Checkout completion rate across 435 Shopify stores: median 49%; middle 60% between 26% and 66%; 10th to 90th percentile 15% to 74%."':
+      - generic: 49%
+    - term: Bottom 10%
+    - definition: 15%
+    - term: Bottom 20%
+    - definition: 26%
+    - term: Median
+    - definition: 49%
+    - term: Top 20%
+    - definition: 66%
+    - term: Top 10%
+    - definition: 74%
+  - heading "Checkout completion rate on mobile and desktop" [level=2]
+  - paragraph: The median is 63% on mobile and 35% on desktop.
+  - heading "Mobile" [level=3]
+  - figure:
+    - 'img "Checkout completion rate across 414 Shopify stores on mobile: median 63%; middle 60% between 45% and 75%; 10th to 90th percentile 32% to 82%."':
+      - generic: 63%
+    - term: Bottom 10%
+    - definition: 32%
+    - term: Bottom 20%
+    - definition: 45%
+    - term: Median
+    - definition: 63%
+    - term: Top 20%
+    - definition: 75%
+    - term: Top 10%
+    - definition: 82%
+  - heading "Desktop" [level=3]
+  - figure:
+    - 'img "Checkout completion rate across 412 Shopify stores on desktop: median 35%; middle 60% between 14% and 58%; 10th to 90th percentile 7.4% to 71%."':
+      - generic: 35%
+    - term: Bottom 10%
+    - definition: 7.4%
+    - term: Bottom 20%
+    - definition: 14%
+    - term: Median
+    - definition: 35%
+    - term: Top 20%
+    - definition: 58%
+    - term: Top 10%
+    - definition: 71%
+  - heading "Checkout completion rate by industry" [level=2]
+  - paragraph:
+    - link "Health & Supplements":
+      - /url: /benchmarks/supplements
+    - text: has the highest median checkout completion rate (60%) and
+    - link "Fashion & Apparel":
+      - /url: /benchmarks/fashion
+    - text: the lowest (48%).
+  - figure "Median checkout completion rate":
+    - generic: Median checkout completion rate
+    - list:
+      - generic: All Shopify stores
+      - generic: "Median:"
+      - text: 49%
+      - link "Health & Supplements":
+        - /url: /benchmarks/supplements
+      - generic: "Median:"
+      - text: 60%
+      - link "Food & Beverage":
+        - /url: /benchmarks/food-and-beverage
+      - generic: "Median:"
+      - text: 53%
+      - link "Home & Furniture":
+        - /url: /benchmarks/home
+      - generic: "Median:"
+      - text: 51%
+      - link "Beauty & Skincare":
+        - /url: /benchmarks/beauty
+      - generic: "Median:"
+      - text: 50%
+      - link "Fashion & Apparel":
+        - /url: /benchmarks/fashion
+      - generic: "Median:"
+      - text: 48%
+  - heading "Checkout completion rate benchmarks by industry" [level=2]
+  - table "Checkout completion rate benchmarks by industry":
+    - rowgroup:
+      - row "Industry Median Top 20% Stores":
+        - columnheader "Industry"
+        - columnheader "Median"
+        - columnheader "Top 20%"
+        - columnheader "Stores"
+    - rowgroup:
+      - row "All Shopify stores 49% 66% 435":
+        - cell "All Shopify stores"
+        - cell "49%"
+        - cell "66%"
+        - cell "435"
+      - row "Fashion & Apparel 48% 61% 76":
+        - cell "Fashion & Apparel":
+          - link "Fashion & Apparel":
+            - /url: /benchmarks/fashion
+        - cell "48%"
+        - cell "61%"
+        - cell "76"
+      - row "Home & Furniture 51% 64% 63":
+        - cell "Home & Furniture":
+          - link "Home & Furniture":
+            - /url: /benchmarks/home
+        - cell "51%"
+        - cell "64%"
+        - cell "63"
+      - row "Beauty & Skincare 50% 71% 39":
+        - cell "Beauty & Skincare":
+          - link "Beauty & Skincare":
+            - /url: /benchmarks/beauty
+        - cell "50%"
+        - cell "71%"
+        - cell "39"
+      - row "Health & Supplements 60% 76% 35":
+        - cell "Health & Supplements":
+          - link "Health & Supplements":
+            - /url: /benchmarks/supplements
+        - cell "60%"
+        - cell "76%"
+        - cell "35"
+      - row "Food & Beverage 53% 69% 32":
+        - cell "Food & Beverage":
+          - link "Food & Beverage":
+            - /url: /benchmarks/food-and-beverage
+        - cell "53%"
+        - cell "69%"
+        - cell "32"
+  - heading "What's a good checkout completion rate?" [level=2]
+  - paragraph:
+    - text: A good checkout completion rate is above
+    - strong: 66%
+    - text: ": that puts a store in the top 20% of the 435 Shopify stores we benchmark. The median is"
+    - strong: 49%
+    - text: ", so half of stores sit below it, and the top 10% reach"
+    - strong: 74%
+    - text: or more. Below
+    - strong: 26%
+    - text: puts a store in the bottom 20%.
+  - heading "Checkout completion rate benchmark questions" [level=2]
+  - heading "What is a good checkout completion rate?" [level=3]:
+    - button "What is a good checkout completion rate?"
+  - heading "What is the average checkout completion rate by industry?" [level=3]:
+    - button "What is the average checkout completion rate by industry?"
+  - heading "How does checkout completion rate differ on mobile and desktop?" [level=3]:
+    - button "How does checkout completion rate differ on mobile and desktop?"
+  - heading "How is checkout completion rate calculated?" [level=3]:
+    - button "How is checkout completion rate calculated?"
+  - heading "Where do these benchmarks come from?" [level=3]:
+    - button "Where do these benchmarks come from?"
+  - heading "Why are these numbers comparable between stores?" [level=3]:
+    - button "Why are these numbers comparable between stores?"
+  - heading "Why use the median rather than the average?" [level=3]:
+    - button "Why use the median rather than the average?"
+  - heading "How are outliers handled?" [level=3]:
+    - button "How are outliers handled?"
+  - heading "How are stores assigned to an industry?" [level=3]:
+    - button "How are stores assigned to an industry?"
+  - heading "How Littledata improves your checkout completion rate" [level=2]
+  - paragraph:
+    - text: Every Shopify checkout step is tracked in GA4 by Littledata,
+    - link "server-side":
+      - /url: /shopify/google-analytics
+    - text: ", so you can see exactly where shoppers drop off between starting checkout and paying, and measure what fixes it. Purchases are recorded from Shopify's servers rather than the thank-you page, so completed checkouts aren't lost when a shopper closes the tab or blocks scripts."
+  - list:
+    - strong: Server-side tracking
+    - text: orders, carts and checkout steps tracked directly from Shopify
+    - strong: One schema everywhere
+    - text: GA4, Meta, Google Ads and Klaviyo all receive the same events
+    - strong: Live in about 10 minutes
+    - text: install the Shopify app, no Google Tag Manager or code
+  - paragraph: Benchmarks
+  - heading "Compare another metric" [level=2]
+  - paragraph: Each benchmark shows the median, the top 20% and the top 10%, with a breakdown by industry.
+  - link "All Shopify benchmarks Every metric and industry on one page.":
+    - /url: /average-website-performance
+    - text: All Shopify benchmarks
+    - generic: Every metric and industry on one page.
+  - link "Conversion rate benchmark The share of sessions that included at least one purchase.":
+    - /url: /ecommerce-conversion-rate
+    - text: Conversion rate benchmark
+    - generic: The share of sessions that included at least one purchase.
+  - link "Average order value benchmark Purchase revenue divided by the number of orders, in US dollars.":
+    - /url: /benchmarks/average-order-value
+    - text: Average order value benchmark
+    - generic: Purchase revenue divided by the number of orders, in US dollars.
+  - link "Add-to-cart rate benchmark The share of sessions in which a product was added to the cart.":
+    - /url: /benchmarks/add-to-cart-rate
+    - text: Add-to-cart rate benchmark
+    - generic: The share of sessions in which a product was added to the cart.
+  - link "Cart abandonment rate benchmark Of the sessions that added to cart, the share that did not purchase.":
+    - /url: /benchmarks/cart-abandonment-rate
+    - text: Cart abandonment rate benchmark
+    - generic: Of the sessions that added to cart, the share that did not purchase.
+  - link "Revenue per session benchmark Purchase revenue divided by all sessions, in US dollars.":
+    - /url: /benchmarks/revenue-per-session
+    - text: Revenue per session benchmark
+    - generic: Purchase revenue divided by all sessions, in US dollars.
+  - link "Revenue per customer benchmark Purchase revenue divided by the number of distinct purchasers over the 90 days, in US dollars.":
+    - /url: /benchmarks/revenue-per-customer
+    - text: Revenue per customer benchmark
+    - generic: Purchase revenue divided by the number of distinct purchasers over the 90 days, in US dollars.
+  - link "Bounce rate benchmark The share of sessions that were not engaged (under 10 seconds, one page and no conversion).":
+    - /url: /benchmarks/bounce-rate
+    - text: Bounce rate benchmark
+    - generic: The share of sessions that were not engaged (under 10 seconds, one page and no conversion).
+  - link "Pages per session benchmark The average number of pages viewed in a session.":
+    - /url: /benchmarks/pages-per-session
+    - text: Pages per session benchmark
+    - generic: The average number of pages viewed in a session.
+  - link "Mobile traffic share benchmark The share of sessions from mobile phones (tablets are counted separately and excluded).":
+    - /url: /benchmarks/mobile-traffic-share
+    - text: Mobile traffic share benchmark
+    - generic: The share of sessions from mobile phones (tablets are counted separately and excluded).
+  - paragraph: By industry
+  - heading "Benchmarks for your industry" [level=2]
+  - paragraph: Every metric for stores in one industry, compared with all Shopify stores.
+  - link "Fashion & Apparel benchmarks 76 fashion and clothing stores on Shopify.":
+    - /url: /benchmarks/fashion
+    - text: Fashion & Apparel benchmarks
+    - generic: 76 fashion and clothing stores on Shopify.
+  - link "Home & Furniture benchmarks 63 home and furniture stores on Shopify.":
+    - /url: /benchmarks/home
+    - text: Home & Furniture benchmarks
+    - generic: 63 home and furniture stores on Shopify.
+  - link "Beauty & Skincare benchmarks 39 beauty and skincare stores on Shopify.":
+    - /url: /benchmarks/beauty
+    - text: Beauty & Skincare benchmarks
+    - generic: 39 beauty and skincare stores on Shopify.
+  - link "Health & Supplements benchmarks 35 health and supplement stores on Shopify.":
+    - /url: /benchmarks/supplements
+    - text: Health & Supplements benchmarks
+    - generic: 35 health and supplement stores on Shopify.
+  - link "Food & Beverage benchmarks 32 food and beverage stores on Shopify.":
+    - /url: /benchmarks/food-and-beverage
+    - text: Food & Beverage benchmarks
+    - generic: 32 food and beverage stores on Shopify.
+  - img "Try Littledata for free"
+  - button "Start Free Trial"
+  - text: Want to learn more?
+  - link "Book a Demo":
+    - /url: /demo
+  - img "Get accurate conversions"
+- contentinfo:
+  - heading "PRODUCT" [level=5]
+  - navigation:
+    - paragraph:
+      - link "Product Updates":
+        - /url: https://help.littledata.io/changelog
+    - paragraph:
+      - link "Shopify App":
+        - /url: /shopify-app
+    - paragraph:
+      - link "Shopify Google Analytics":
+        - /url: /shopify/google-analytics
+    - paragraph:
+      - link "Why Littledata":
+        - /url: /why-littledata
+    - paragraph:
+      - link "Paid Media Connections":
+        - /url: /paid-media
+    - paragraph:
+      - link "All Connections":
+        - /url: /shopify/
+  - heading "COMPANY" [level=5]
+  - navigation:
+    - paragraph:
+      - link "About":
+        - /url: /about
+    - paragraph:
+      - link "Customers":
+        - /url: /case-studies
+    - paragraph:
+      - link "Reviews":
+        - /url: /reviews
+    - paragraph:
+      - link "Partners":
+        - /url: /partners
+    - paragraph:
+      - link "Careers":
+        - /url: https://littledata.jobs.personio.com
+    - paragraph:
+      - link "Media Assets":
+        - /url: /media
+  - heading "SUPPORT" [level=5]
+  - navigation:
+    - paragraph:
+      - link "Help Center":
+        - /url: https://help.littledata.io/
+    - paragraph:
+      - link "System Status":
+        - /url: https://status.littledata.io
+    - paragraph:
+      - link "Book a Demo":
+        - /url: /demo
+    - paragraph:
+      - link "Contact":
+        - /url: /contact-us
+    - paragraph:
+      - link "Switch from Elevar":
+        - /url: /switch-from-elevar
+  - heading "PUBLICATIONS" [level=5]
+  - navigation:
+    - paragraph:
+      - link "Blog":
+        - /url: /blog
+    - paragraph:
+      - link "Ebooks":
+        - /url: /ebooks
+  - heading "DEVELOPER DOCS" [level=5]
+  - navigation:
+    - paragraph:
+      - link "Developers":
+        - /url: https://help.littledata.io/advanced/developer
+    - paragraph:
+      - link "Google Analytics Docs":
+        - /url: https://help.littledata.io/integrations/shopify-to-google-analytics/how-it-works-shopify-to-ga4
+    - paragraph:
+      - link "Segment Docs":
+        - /url: https://help.littledata.io/integrations/shopify-to-segment/segment-to-shopify-how-it-works
+    - paragraph:
+      - link "GTM Data Layer":
+        - /url: https://help.littledata.io/advanced/developer/gtm-and-google-analytics-data-layer-for-shopify
+  - heading "RESEARCH" [level=5]
+  - navigation:
+    - paragraph:
+      - link "Shopify benchmarks":
+        - /url: /average-website-performance
+    - paragraph:
+      - link "Ecommerce conversion rate":
+        - /url: /ecommerce-conversion-rate
+    - paragraph:
+      - link "Average order value by industry":
+        - /url: /benchmarks/average-order-value
+    - paragraph:
+      - link "Average add to cart rate":
+        - /url: /benchmarks/add-to-cart-rate
+    - paragraph:
+      - link "Fashion ecommerce benchmarks":
+        - /url: /benchmarks/fashion
+  - heading "TEMPLATES" [level=5]
+  - navigation:
+    - paragraph:
+      - link "Recharge Looker Studio Template":
+        - /url: /looker-studio-templates-recharge-subscriptions
+  - link "Built for Shopify":
+    - /url: https://apps.shopify.com/littledata
+    - img "Built for Shopify"
+  - link "Klaviyo Tech Partner — Preferred":
+    - /url: /shopify/klaviyo
+    - img "Klaviyo Tech Partner — Preferred"
+  - link "Privacy Policy":
+    - /url: /privacy-policy
+  - link "Terms of Use":
+    - /url: /terms
+  - generic: ©2026 Littledata
+  - link "LinkedIn":
+    - /url: https://www.linkedin.com/company/littledata
+    - img "LinkedIn"
+  - link "X":
+    - /url: https://x.com/littledatauk
+    - img "X"
+  - link "G2":
+    - /url: https://www.g2.com/products/littledata/reviews?utm_source=Public+Website&utm_medium=referral&utm_campaign=G2+Reviews&utm_term=G2+Reviews&utm_content=Icon+in+Footer
+    - img "G2"
+- alert
+- dialog "We use cookies":
+  - heading "We use cookies" [level=2]
+  - paragraph:
+    - text: We use cookies to run this site and improve your experience. You can accept all, reject non-essential cookies, or manage your choices. Read our
+    - link "Privacy Policy":
+      - /url: /privacy-policy
+    - text: .
+  - button "Accept all"
+  - button "Reject all"
+  - button "Manage preferences":
+    - generic: Manage preferences
+- iframe [id="intercom-frame"]
+- button "Open Intercom Messenger":

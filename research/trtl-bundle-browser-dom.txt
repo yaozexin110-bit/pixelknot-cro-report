@@ -1,0 +1,329 @@
+- img "ReelUp tracking pixel"
+- link "Read the Privacy Policy":
+  - /url: https://reelup.io/pages/privacy-policy
+- alert
+- link "Up to 70% off Black Friday Sale now live! SHOP NOW":
+  - /url: /collections/all-products
+  - generic: Up to 70% off Black Friday Sale now live!
+  - generic "SHOP NOW"
+- generic: 100 days money back guarantee for pillows and accessories + Free Shipping within US
+- link "Up to 70% off Black Friday Sale now live! SHOP NOW":
+  - /url: /collections/all-products
+  - generic: Up to 70% off Black Friday Sale now live!
+  - generic "SHOP NOW"
+- generic: 100 days money back guarantee for pillows and accessories + Free Shipping within US
+- generic: 
+- generic: 
+- generic:  
+- navigation:
+  - link "Home page":
+    - /url: /
+  - list:
+    - link "Pillows":
+      - /url: https://trtltravel.com/collections/all-products
+    - text: 
+    - link "Accessories":
+      - /url: https://trtltravel.com/collections/all-products
+    - text: 
+    - link "Travel Wear":
+      - /url: /collections/travel-wear
+    - text: 
+    - link "Bundles":
+      - /url: /collections/all-bundles
+    - text: 
+    - link "Clearance":
+      - /url: /collections/clearance
+    - link "Collections":
+      - /url: "#"
+    - link "Explore":
+      - /url: "#"
+  - button "Search":
+  - text:  
+  - link "user account":
+    - /url: /account
+    - img "user account"
+  - button "cart":
+    - img "cart"
+- generic: "3"
+- generic: days
+- generic: "19"
+- generic: hours
+- generic: "16"
+- generic: mins
+- generic: "13"
+- generic: secs
+- link "SHOP NOW":
+  - /url: https://trtltravel.com/products/trtl-travel-pillow
+- link "Skip to content":
+  - /url: "#MainContent"
+- main:
+  - navigation "breadcrumbs":
+    - list:
+      - link "Home":
+        - /url: /
+      - text: /
+      - link "Double Comfort Bundle + Free Gift":
+        - /url: /products/double-comfort-bundle-2
+  - text:  
+  - generic: 30% OFF
+  - heading "Featured In:" [level=6]
+  - heading "Patented support" [level=6]
+  - paragraph: Scientifically prove to hold the head and neck in ergonomic position
+  - img "Double Comfort Bundle + Free Gift"
+  - img "Double Comfort Bundle + Free Gift"
+  - img "Double Comfort Bundle + Free Gift"
+  - img "Double Comfort Bundle + Free Gift"
+  - img "Double Comfort Bundle + Free Gift"
+  - img "Double Comfort Bundle + Free Gift"
+  - img "Double Comfort Bundle + Free Gift"
+  - generic: Sorry, your browser doesn't support embedded videos.
+  - heading "Double Comfort Bundle + Free Gift" [level=1]
+  - paragraph: Save with bundles
+  - button "Rated 4.7 out of 5 Based on 2733 reviews Click to go to reviews":
+    - generic: Rated 4.7 out of 5
+    - text: 2733 Reviews
+    - generic: Based on 2733 reviews
+    - generic: Click to go to reviews
+  - generic: $76.98
+  - generic: $109.98
+  - generic: You save $33.00
+  - paragraph: Pillow 1
+  - button "Original" [pressed]
+  - button "Cool"
+  - button "Plus"
+  - generic: Color
+  - button "Grey" [pressed]
+  - button "Black"
+  - button "Red"
+  - button "Coral"
+  - paragraph: Pillow 2
+  - button "Original" [pressed]
+  - button "Cool"
+  - button "Plus"
+  - generic: Color
+  - button "Grey" [pressed]
+  - button "Black"
+  - button "Red"
+  - button "Coral"
+  - paragraph: Free Gift - Passport Cover
+  - button "Add Bundle to Cart"
+  - paragraph:
+    - text: Ships by
+    - generic: Thu 10月 29th
+  - paragraph
+  - paragraph:
+    - strong: Free US shipping
+  - paragraph:
+    - strong: 100 Day Guarantee
+  - separator
+  - paragraph: Save on top Trtl travel essentials with this ultimate travel duo. Choose any 2 of our Trtl travel pillows - comfort and value for every journey.
+  - paragraph: Includes
+  - list:
+    - listitem: 2x Trtl Pillows of your choice
+    - listitem: 1x Free gift
+  - heading "FAQs" [level=5]
+  - paragraph:
+    - button "What's included in the Double Comfort Bundle?" [expanded]
+  - generic "What's included in the Double Comfort Bundle?":
+    - paragraph: "This bundle includes:"
+    - list:
+      - listitem: 2x pillow of your choice
+  - paragraph:
+    - button "Tips & Tricks"
+  - paragraph:
+    - button "How do I wear the Trtl Pillow?"
+  - paragraph:
+    - button "How does it compare with other TRTL Pillows?"
+  - paragraph:
+    - button "Shipping details"
+  - paragraph:
+    - button "Can I return it if I don't like it?"
+  - heading "\"Trtl has made good headway in changing the game for frequent flyers.\"" [level=3]
+  - heading "What's included?" [level=2]:
+    - strong: What's included?
+  - paragraph: Upgrade your travel experience with the Double Comfort Bundle, the perfect mix of comfort and value for any trip.
+  - paragraph: "This bundle includes:"
+  - list:
+    - listitem: 2x Trtl travel pillows of your choice
+  - heading "Top features" [level=2]
+  - heading "Patented support" [level=4]
+  - paragraph: Designed to support your head and relieve stress on your spine and muscles
+  - heading "Compact and easy to carry" [level=4]
+  - paragraph: As it’s half of the size of a regular travel pillow it’s easy to squish into your bag. You can also use the carrier bag carabiner to attach it to your luggage. It’s the ideal choice for easy travelling
+  - heading "Multiangle" [level=4]
+  - paragraph: Left? Right? Middle? It will support your neck in a way that works for you. Use as you prefer
+  - heading "Adjust tightness" [level=4]
+  - paragraph: You can decide if you’d like the pillow to be super snug or allow yourself more room. Tighten it as you like it
+  - heading "Hammock effect" [level=4]
+  - paragraph: Supersoft fleece and foam is stretched to create a comforting hammock effect
+  - heading "Water-resistant carry bag" [level=4]
+  - paragraph: The pillow includes a matching carry bag made from water-resistant fabric, complete with a carabiner for easy attachment to your bag.
+  - heading "Machine washable" [level=4]
+  - paragraph: Just take out the internal support and toss in the washing machine on the cold setting (30°)
+  - heading "Not sure which Trtl pillow is right for you?" [level=2]:
+    - strong: Not sure which Trtl pillow is right for you?
+  - paragraph: Take our quick, personalised quiz and we’ll match you with the perfect pillow tailored to your sleep style and comfort preferences.
+  - link "Take the quiz here":
+    - /url: https://trtltravel.com/pages/quiz
+  - link "Write a Review":
+    - /url: https://okendo.reviews/?subscriberId=b8e5cc2f-ee3f-4cf4-9edd-e8c9c8f2cc23&productId=shopify-10983056146625&locale=en
+  - generic: average rating
+  - text: "4.7"
+  - generic: out of 5
+  - generic: Based on 2733 reviews
+  - list "Rating distribution":
+    - generic: 5 Stars
+    - text: "2163"
+    - generic: Reviews
+    - generic: 4 Stars
+    - text: "451"
+    - generic: Reviews
+    - generic: 3 Stars
+    - text: "41"
+    - generic: Reviews
+    - generic: 2 Stars
+    - text: "30"
+    - generic: Reviews
+    - generic: 1 Star
+    - text: "48"
+    - generic: Reviews
+  - generic: 96%
+  - text: of reviewers would recommend this product to a friend
+  - generic: Customer photos and videos
+  - button "Open user-uploaded photo and review in a modal":
+    - img "Open user-uploaded photo and review in a modal"
+  - button "Open user-uploaded photo and review in a modal":
+    - img "Open user-uploaded photo and review in a modal"
+  - button "Open user-uploaded photo and review in a modal":
+    - img "Open user-uploaded photo and review in a modal"
+  - button "Open user-uploaded photo and review in a modal":
+    - img "Open user-uploaded photo and review in a modal"
+  - button "Open user-uploaded photo and review in a modal":
+    - img "Open user-uploaded photo and review in a modal"
+  - button "Open user-uploaded photo and review in a modal":
+    - img "Open user-uploaded photo and review in a modal"
+  - button " Filters":  Filters ()
+  - generic: 2733 Reviews
+  - generic: Sort by
+  - combobox "Sort by":
+    - option "Most Recent"
+    - option "Oldest"
+    - option "Photos & Videos"
+    - option "Highest Rating" [selected]
+    - option "Lowest Rating"
+    - option "Most Helpful"
+    - option "Least Helpful"
+  - article:
+    - generic: WS
+    - text: Wendy S.
+    - generic: Reviewed by Wendy S.
+    - generic:  Verified Buyer
+    - img "DOUBLE COMFORT BUNDLE"
+    - generic: Reviewing
+    - generic: DOUBLE COMFORT BUNDLE
+    - generic:  I recommend this product
+    - generic: Rated 5 out of 5
+    - generic: Review posted
+    - text: 3 days ago
+    - heading "I never want to travel without my TRTL again!" [level=2]
+    - paragraph: My husband and I just returned from Hawaii. The flights both to and from Hawaii were extremely long and body space was very limited. We were able to get good sleep because we had such wonderful neck support. The TRTL is designed so that you can partially cover your face with the scarf, which makes you feel like you're blocking the rest of the world out. My husband was able to get good sleep because of the neck support. I never want to take a flight or a long car ride without my TRTL!
+    - text:  
+  - article:
+    - generic: SE
+    - text: Steve E.
+    - generic: Reviewed by Steve E.
+    - generic:  Verified Buyer
+    - img "DOUBLE COMFORT BUNDLE"
+    - generic: Reviewing
+    - generic: DOUBLE COMFORT BUNDLE
+    - generic:  I recommend this product
+    - generic: Rated 5 out of 5
+    - generic: Review posted
+    - text: 24 days ago
+    - heading "Not used them yet" [level=2]
+    - paragraph: Not used them yet
+    - text:  
+  - article:
+    - generic: EL
+    - text: Elizabeth L.
+    - generic: Reviewed by Elizabeth L.
+    - generic:  Verified Buyer
+    - img "DOUBLE COMFORT BUNDLE"
+    - generic: Reviewing
+    - generic: DOUBLE COMFORT BUNDLE
+    - generic:  I recommend this product
+    - generic: Rated 5 out of 5
+    - generic: Review posted
+    - text: 26 days ago
+    - heading "Very Comfortable" [level=2]
+    - paragraph: Comfortable, lightweight and easy to store when not in use.
+    - text:  
+  - button "Show more"
+- heading [level=2]
+- contentinfo:
+  - heading "STAY IN TOUCH !" [level=3]
+  - paragraph: Sign up to receive exclusive discounts, hints and tips!
+  - button "Subscribe to our newsletter"
+  - link "social media twitter":
+    - /url: https://twitter.com/trtltravel
+    - generic: 
+  - link "social media facebook":
+    - /url: https://www.facebook.com/trtl
+    - generic: 
+  - link "social media instagram":
+    - /url: https://www.instagram.com/trtl
+    - generic: 
+  - link "social media tiktok":
+    - /url: https://www.tiktok.com/@trtltravel
+    - generic: 
+  - link "social media youtube":
+    - /url: https://www.youtube.com/user/trtltv
+    - generic: 
+  - heading "SUPPORT" [level=5]
+  - list:
+    - link "Track my order":
+      - /url: /pages/tracking
+    - link "Delivery":
+      - /url: /pages/delivery
+    - link "Returns":
+      - /url: /pages/returns
+    - link "FAQs":
+      - /url: /pages/frequently-asked-questions
+    - link "How to & Aftercare":
+      - /url: https://trtltravel.com/pages/after-care
+    - link "Contact Us":
+      - /url: /pages/contact-us
+    - link "Compare our pillows":
+      - /url: /pages/compare-our-pillows
+    - link "'Find your pillow' Quiz":
+      - /url: https://trtltravel.com/pages/quiz
+  - heading "TRTL" [level=5]
+  - list:
+    - link "Join Our Community":
+      - /url: https://trtltravel.com/pages/get-lost
+    - link "Corporate Gifting":
+      - /url: /pages/corporate-gifting
+    - link "Blog":
+      - /url: https://trtltravel.com/blogs/all
+    - link "Press":
+      - /url: /pages/in-the-press
+    - link "Reviews":
+      - /url: /pages/reviews
+    - link "Affiliates":
+      - /url: /pages/affiliates
+    - link "Gift Card":
+      - /url: /products/gift-card
+    - link "The Science behind the Trtl Travel Pillow":
+      - /url: https://trtltravel.com/pages/the-science-of-sleep
+  - generic: ©Coolside Limited t/a Trtl 2026
+  - link "Terms & Conditions":
+    - /url: /pages/terms-and-conditions
+  - link "Privacy Policy":
+    - /url: /pages/privacy-policy
+  - link "Intellectual Property":
+    - /url: /pages/intellectual-property
+  - generic: Markets
+  - button "Markets":
+    - text: USA
+    - generic: 
+- iframe

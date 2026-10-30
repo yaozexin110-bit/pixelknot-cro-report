@@ -1,0 +1,443 @@
+Have Direct Links to Returns and Shipping Info – Baymard
+
+Baymard Institute
+
+Product
+
+Use Cases
+
+Apply UX Best Practice
+Design with confidence
+
+UX Audit Service
+Find conversion blockers
+
+Justify UX Decisions
+Win stakeholder buy-in
+
+Grow UX Expertise
+Professional training & certification
+
+Compare your UX
+Benchmark against competitors
+
+Research & Tools
+
+Research-Backed UX Insights
+200,000+ hours of UX research
+
+UX Best Practice Guidelines
+Over 700 UX Guidelines
+
+UX Design Examples
+18,000+ Structured Design Examples
+
+UX Benchmarking
+Measure and Compare Your UX Performance
+
+UX-Ray 2.0
+Identify Your Biggest UX Opportunities
+
+UX-Query
+Instant research-backed answers
+
+Figma Plugin
+Bring research where you work
+
+“Intelligent, consumer-focused insights that are clear and actionable.”
+Will Close, Director of A/B testing at Nike.comRead 200+ Testimonials
+
+UX AuditUX Audit Services
+
+UX Audit Deepdive
+Learn more about Audits
+
+UX Audit Resources
+Free articles on UX audits
+
+UX Audit Industries
+35+ ecommerce industries covered
+
+"An eye opener. This UX audit helped validate assumptions we had and provided visibility on issues we overlooked."
+Michael Tran, Sr. Business Analyst at Sony PlayStationRead 200+ Testimonials
+
+Research Focus
+
+Industries
+
+ B2C Retail:
+Direct-to-Consumer, 
+Luxury Goods, 
+Apparel & Accessories, 
+Footwear, 
+Jewelry & Watches, 
+Eyewear, 
+Home & Hardware, 
+Electronics & Office, 
+Mass Merchant, 
+Furniture & Home Decor, 
+Health & Beauty, 
+Sports Gear & Equipment, 
+Vitamins & Supplements, 
+Automotive Parts, 
+Toys, Crafts & Hobbies, 
+Merchandise & Print-to-Order, 
+Pet Food & Care, 
+Video Games, 
+Educational Reading & Books, 
+Event Ticketing
+
+ Subscriptions & Services:
+Digital Subscriptions & SaaS, 
+Telco, 
+ISP, 
+Insurance, 
+Online Learning
+
+ Travel & Accommodation:
+Travel Accommodations, 
+Travel Tours & Experience Booking, 
+Flight Booking & Airlines
+
+ B2B:
+Electronic Components & Machinery, 
+Medical & Pharma, 
+B2B Ecommerce, 
+Digital Subscriptions & SaaS, 
+Merchandise & Print-to-Order
+
+ Food & Consumables:
+Online Grocery, 
+Food Delivery & Takeout, 
+Beverages, 
+E-cigarette & Vaping, 
+Meal Kits, 
+Consumables Subscriptions, 
+Vitamins & Supplements
+Themes
+
+Homepage & Category
+
+On-Site Search
+
+Accessibility
+
+Product List
+
+Product Page
+
+Cart & Checkout
+
+Accounts & Self-Service
+
+Mobile Web
+
+Mobile App
+
+“Intelligent, consumer-focused insights that are clear and actionable.”
+Will Close, Director of A/B testing at Nike.comRead 200+ Testimonials
+
+Resources
+
+UX Research Articles
+450+ UX articles based on large-scale usability research
+
+Knowledge Hub
+Discover UX best practices, industry trends, and latest news
+
+Company News & Product Updates
+Discover the latest company and product updates from Baymard
+
+Testimonials
+See how teams use Baymard to improve their UX Search for Research and Resources
+
+Pricing
+Log In
+Book a Demo
+
+Baymard InstituteNavigation
+
+Free UX Research
+Research Articles
+Have Direct Links to ‘Return Policy’ and ‘Shipping Info’ in the Footer (20% don’t)
+
+Research Articles
+Have Direct Links to ‘Return Policy’ and ‘Shipping Info’ in the Footer (20% don’t)
+
+Christian Holst
+Research Director and Co-Founder
+
+Published Jan 16, 2019
+
+Video Summary
+
+Updated with new data in 2025.
+
+Many users are highly concerned about a site’s shipping costs and return policies before buying online – our quantitative study of reasons for checkout abandonments shows that return policy and shipping info are a direct cause for massive abandonments. This strong user concern was also confirmed in our more than 1,000 qualitative moderated in-lab usability test sessions.
+
+While both shipping and return information should be available through multiple paths on e-commerce sites — for example, via the site header, on the product details page (yet, 43% of sites don’t), or sitewide search results (yet, 14% don’t) — our large-scale qualitative usability testing revealed that a subgroup of users will consistently look in the footer when seeking shipping and return information. We observe this both for mobile and desktop users, although more frequently with desktop users.
+
+Despite the importance of direct links to ‘Shipping Info’ and ‘Return Policy’, our benchmark reveals that 20% of e-commerce sites neglect to provide a simple text link to this in their footer.
+
+In this article we’ll therefore dive into our findings from our Homepage & Category study , Accounts & Self-Service study , and our Mobile E-Commerce study – specifically looking at our findings on:
+
+How Users Seek Shipping and Return Info in the Footer
+
+Why It’s Not Enough to Have Shipping and Return Info on the Product Details Page
+
+Why It’s Not Enough to Have a ‘FAQ/Help’ Link in the Footer
+
+What Keywords to Use in the Footer Link
+
+Why Users Seek Shipping & Return Info
+
+For some users, a site’s return policy is crucial to their decision on whether to purchase a product from a particular site. We’ve found that 13% of users say they have abandoned one or more shopping carts in the past few months (#GC050) solely due to an unsatisfactory return policy (see all reasons for checkout abandonment). As one user said in testing, “Nordstrom’s return policy, I’ve never seen it matched. That is the reason I will always shop at Nordstrom. I think that seriously draws me to them.”
+
+During testing, many users voiced their questions regarding return policies and procedures when buying online — for example, Can the item be returned? Do I have to pay for return shipping myself? How long do I have to return an item? Does that deadline include the shipping time? Answers to these questions are often central to a user’s buying decision as they need to feel confident that they can indeed return the items if there’s something wrong with them and be reassured that the return procedure will be simple and straightforward.
+
+Similarly, shipping information can also be crucial for users; in particular the cost and expected delivery date. Shipping information also ties directly into users’ desire to learn about the return policy — if they have to return a product, how much will they lose on any nonrefundable shipping costs? In fact, shipping information is so important to some users that they want to know the shipping options available to them before they will even commit to adding a product to their cart, let alone entering the checkout process.
+
+When there is no immediate path or paths to shipping information or the return policy, users must go “information hunting”, which, depending on how easy it is to find the information elsewhere on the site, results in an often substantial delay in product browsing.
+
+It’s Not Enough to Have Shipping and Return Info on the Product Page
+
+57% of e-commerce sites do have information on or a link to returns and shipping within the product page content itself (see Product Pages Need to Show ‘Estimated Shipping Costs’). This is helpful as we do observe that many users find and use this information here while browsing the product page itself.
+
+At Sephora, a user looking for shipping information scrolled immediately to the footer and found the information she was looking for. A distinct subgroup of users consistently displayed a similar “footer behavior”. It’s important to include paths to shipping information in the footer to meet the expectation of many users that that’s where they can find shipping information. (The accidental tap on ‘Billing’ is a separate mobile issue for another time).
+
+A user from our very first round of mobile test sessions immediately went to the footer when looking for the return policy. Note how he bypassed the “Shipping & Returns” section (which actually contained the information he was looking for). However the footer only had paths to sign in, contact, and a link to the full site. The footer is a strong draw for some users seeking shipping information and can be the first place they look.
+
+However, in all of our usability testing, dating back to our first round of mobile testing in 2012 up to our most recent 2019 mobile testing, our testing revealed a subgroup of users who consistently try to find this information in the footer, even scrolling past the relevant section on the product details page that would have provided the information. For this subgroup of users the footer is mentally “the place to go” when it comes to finding information on a site’s return policy or shipping options.
+
+Additionally for shipping, many sites advertise “Free Shipping” using sitewide banners, or in the sitewide header, but, despite the visual dominance, our testing reveals that these highlights are prone to be missed altogether by users, and thus aren’t substitutes for a direct link to standard shipping information on the product page and in the footer (see ‘Free Shipping’ Should Not Only Be in a Site-Wide Banner - 32% Get It Wrong).
+
+It’s Not Enough to Have a ‘FAQ/Help’ Link in the Footer
+
+Wayfair doesn’t include a direct link to the return policy in the footer. While scanning the footer for “returns” users must instead first click the “Help” link, and then locate the return policy link.
+
+“I go to the bottom because that’s where it usually has all those things [like return policies]”, a user explained while he — like most of the other users in our Homepage & Category and Account & Self-Service testing — scrolled to the footer when looking for the site’s return policy.
+
+Despite the importance of return and shipping information, and despite a subgroup of users exhibiting the clear behavior of going straight to the sitewide footer, 20% of e-commerce sites don’t support this user behavior. Many sites make it unnecessarily difficult to find their shipping and return information in the sitewide footer by tucking their “Return Policy” away behind generic footer links to “FAQ” and “Help” sections, failing to have direct stand-alone links to “Shipping Info” and “Return Policy” from the footer.
+
+(Of course, the return policy should still be featured in any “FAQ” and “Help” sections.)
+
+What Keywords to Use in the Footer Link
+
+A user searched for “return” within the page using the browser’s built-in “find on page” feature — underscoring the importance of using the right keywords when linking to the return policy.
+
+It’s also important to keep in mind the keywords that users are scanning for in the footer (e.g. “return” or “shipping”). Highly unconventional phrases such as “Don’t like it? Send it back” (instead of “Returns”) should therefore be avoided, as they won’t match the specific keywords users are looking for. If unconventional words or phrases are used users have to actually read all the footer links instead of simply scanning them until they spot the keyword that they’re looking for (or, for the more tech savvy users, use their browser’s “find on page” feature to find the keyword for them). This is also part of the reason why only having a generic “Help/FAQ” link in the footer is an issue – it impedes scannability.
+
+With regards to finding the return policy, one issue users ran into multiple times during testing was the somewhat subtle distinction between “Return” and “Return Policy”. The former would often send the user to a page with a tool for initiating the return of an item, whereas the latter would describe the terms and conditions for returning items to the store. Keywords and clear copywriting obviously play a major role in reducing ambiguity. Labeling the two paths, for example, “Return an Item” and “Return Policy” helps, but even sites that label the links accordingly and place them in close proximity had users going to the wrong page. It’s therefore important to either cross-link the pages so users landing on the “wrong” one can easily switch, or alternatively merge the two pages so the return policy and the return tool are on the same page.
+
+Have Direct Links to ‘Return Policy’ and ‘Shipping Info’ in the Footer (20% don’t)
+
+Despite return policies, shipping cost, and shipping speed being among the top reasons for abandonment, and despite that a subgroup of users exhibit the clear behavior of going straight to the sitewide footer, 20% of e-commerce sites don’t support this user behavior.
+
+It’s important to keep in mind that regardless of whether the user is on desktop or mobile, the footer is still associated by a subgroup of users as “the place to go” to find information on the site’s return policy or shipping information. While this information also needs to be directly within the product page content, shipping and return policy information should always also be accessible from the footer. Within the footer it’s not enough to just have a generic link, e.g. to “Help”. To aid scannability and findability the site would still need separate stand-alone links for “Return Policy” and “Shipping Info”.
+
+This article presents the research findings from just 1 of the 700+ UX guidelines in Baymard – get full access to learn how to create a “State of the Art” ecommerce user experience.
+
+Christian Holst
+Research Director and Co-Founder
+
+Published Jan 16, 2019
+
+Christian is the research director and co-founder of Baymard. Christian oversees all UX research activities at Baymard. His areas of specialization within ecommerce UX are: Checkout, Form Field, Search, Mobile web, and Product Listings. Christian is also an avid speaker at UX and CRO conferences.
+If you have any comments on this article you can leave them on LinkedIn
+
+Share:
+
+Related Articles
+
+Product Pages Need to Show ‘Estimated Shipping Costs’ (Yet 43% of Sites Don’t)
+
+Use “Delivery Date” Not “Shipping Speed” (41% Don’t) — From UX Research to Implementation Roadmap
+
+Include All Order-Fulfillment Options in the Fulfillment-Selector Interface (50% Don’t)
+
+Self-Service UX: Promote In-Store Returns Alongside Mailed Return Options
+
+Order Cancellation Request: Have a ‘Cancellation Requested’ Order State
+
+See all 45 ‘Homepage & Category’ articles
+
+User Experience Research, Delivered Weekly
+
+Join 60,000+ UX professionals and get a new UX article every week.
+
+Loading...
+
+Ready to turn every UX decision into a revenue driver?
+
+Make best-in-class design decisions and improve conversions with validated, industry-specific UX research and benchmarks.
+BOOK A DEMOSEE PRICING
+
+Baymard’s UX research is used by 29,000+ UX professionals and by 71% of all Fortune 500 ecommerce companies
+
+UX Audit Service
+Led by human experts
+30 UX researchers, benchmarkers, and auditors specializing in 35+ ecommerce industries.Tailored to your needs
+Customizable service; audit your entire site, specific flows, and competitor sites.Independent & objective
+Independent party to align stakeholders with evidence.
+
+Free UX Research
+Research Articles
+Read 450+ free, in-depth best practice articles based on Baymard's deep UX research findings.Knowledge Hub
+The latest ecommerce UX insights, practical guides, trends, and company news from Baymard.Benchmarks
+Case studies of 344 top ecommerce sites. Ranked using 275,000+ UX performance scores.UX Design Examples
+Over 18,000 annotated ecommerce UX design examples to inspire your next project.
+
+Product
+UX-Ray 2.0
+Identify your biggest UX opportunitiesUX-Query
+AI-powered UX research assistantFigma Plugin
+Research-backed UX best practices in FigmaReview Tool
+Expert UX review of your designsPersonalized Research
+Custom UX research for your needsTraining & UX Certification
+Learn UX best practices
+
+Research Focus
+IndustriesThemesHomepage & CategoryOn-Site SearchAccessibilityProduct ListProduct PageCart & CheckoutAccounts & Self-ServiceMobile WebMobile App
+
+Company:
+About
+Testimonials
+Our Methodology
+Jobs
+Speaking
+
+Support:
+Privacy Policy
+Terms & Conditions
+Roadmap & Changelog
+Status
+
+Resources:
+Cart Abandonment Stats
+Credit Card Patterns
+UX Blog
+
+Subscribe to Free UX Articles
+
+Loading...
+Delivered weekly, ad-free full-length research articles, 1-click unsubscribe at any time
+
+US: +1 (315) 216-7151
+EU: +45 88 10 85 58
+info@baymard.com
+
+© Baymard Institute 2026
+
+US: +1 (315) 216-7151
+EU: +45 88 10 85 58
+info@baymard.com
+Follow us on
+InstagramX (Twitter)LinkedIn
+
+Apply UX Best Practice
+Design with confidence
+
+UX Audit Service
+Find conversion blockers
+
+Justify UX Decisions
+Win stakeholder buy-in
+
+Grow UX Expertise
+Professional training & certification
+
+Compare your UX
+Benchmark against competitors
+
+Research-Backed UX Insights
+200,000+ hours of UX research
+
+UX Best Practice Guidelines
+Over 700 UX Guidelines
+
+UX Design Examples
+18,000+ Structured Design Examples
+
+UX Benchmarking
+Measure and Compare Your UX Performance
+
+UX-Ray 2.0
+Identify Your Biggest UX Opportunities
+
+UX-Query
+Instant research-backed answers
+
+Figma Plugin
+Bring research where you work
+
+UX AuditUX Audit Services
+
+UX Audit Deepdive
+Learn more about Audits
+
+UX Audit Resources
+Free articles on UX audits
+
+UX Audit Industries
+35+ ecommerce industries covered
+
+"An eye opener. This UX audit helped validate assumptions we had and provided visibility on issues we overlooked."
+Michael Tran, Sr. Business Analyst at Sony PlayStationRead 200+ Testimonials
+
+UX Audit Deepdive
+Learn more about Audits
+
+UX Audit Resources
+Free articles on UX audits
+
+UX Audit Industries
+35+ ecommerce industries covered
+
+Homepage & Category
+
+On-Site Search
+
+Accessibility
+
+Product List
+
+Product Page
+
+Cart & Checkout
+
+Accounts & Self-Service
+
+Mobile Web
+
+Mobile App
+
+UX Research Articles
+450+ UX articles based on large-scale usability research
+
+Knowledge Hub
+Discover UX best practices, industry trends, and latest news
+
+Company News & Product Updates
+Discover the latest company and product updates from Baymard
+
+Testimonials
+See how teams use Baymard to improve their UX
+
+Company:
+About
+Testimonials
+Our Methodology
+Jobs
+Speaking
+
+Support:
+Privacy Policy
+Terms & Conditions
+Roadmap & Changelog
+Status
+
+Resources:
+Cart Abandonment Stats
+Credit Card Patterns
+UX Blog
+
